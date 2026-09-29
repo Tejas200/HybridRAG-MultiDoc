@@ -1,0 +1,30 @@
+{
+  "pdf_id": "advanced-excel-formulas-functions-glossary",
+  "pdf_file": "advanced-excel-formulas-functions-glossary.pdf",
+  "strategy": "layout-aware",
+  "elapsed_s": 0.4,
+  "n_chunks": 2,
+  "tokens": {
+    "min": 229,
+    "median": 245,
+    "mean": 245.5,
+    "max": 262
+  },
+  "chunks_over_450_tokens": 0,
+  "pages_covered": 1,
+  "table_chunks": 0,
+  "pdf_pages": 2,
+  "sample_chunks": [
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "of Key Terms\n1 of 2\nGlossary of Key Terms\nAdvanced Excel Formulas & Functions\nTerm\nDefinition\nAND Function\nA logical function that returns TRUE only if all conditions are\nmet.\nCHOOSE Function\nReturns "
+    },
+    {
+      "page_number": 1,
+      "section_title": "of Key Terms",
+      "text_head": "2 of 2\nOFFSET Function\nReturns a cell or range that is a specified number of rows\nand columns from a starting cell.\nPivot Table\nAn Excel feature used to summarize, analyze, and explore\nlarge sets of d"
+    }
+  ],
+  "bucket": "manual"
+}

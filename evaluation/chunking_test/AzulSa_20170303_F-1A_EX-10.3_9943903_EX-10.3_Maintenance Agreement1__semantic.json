@@ -1,0 +1,35 @@
+{
+  "pdf_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+  "pdf_file": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.pdf",
+  "strategy": "semantic",
+  "elapsed_s": 48.8,
+  "n_chunks": 115,
+  "tokens": {
+    "min": 14,
+    "median": 450,
+    "mean": 373.8,
+    "max": 452
+  },
+  "chunks_over_450_tokens": 5,
+  "pages_covered": 30,
+  "table_chunks": 0,
+  "pdf_pages": 111,
+  "sample_chunks": [
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "Exhibit 10.3 CONFIDENTIAL TREATMENT REQUESTED \u2013 REDACTED COPY Confidential Treatment has been requested for portions of this Exhibit. Confidential portions of this Exhibit are designated by [*****]. A"
+    },
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "Brazil, the registered office of which is located at Avenida Marcos Penteado de Ulh\u00f4a Rodrigues, 939 - Edif. Castello Branco Office Park - Torre Jatob\u00e1 - 9\u00b0 andar - CEP 06460-040 - Alphaville Industri"
+    },
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "as scheduled and unscheduled maintenance, as amended from time to time (\u201cGMA TRIP\u201d)\u037e and, 3) WHEREAS pursuant to an investment agreement dated on May 25, 2012, entered into between Trip shareholders a"
+    }
+  ],
+  "bucket": "contract"
+}

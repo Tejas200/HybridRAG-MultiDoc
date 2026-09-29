@@ -1,0 +1,799 @@
+[pdf: MRNA_10-Q_0001682852-26-000150] [passages: 145]
+
+=== MRNA_10-Q_0001682852-26-000150:0001:1 | page 1 | section | section: 'Moderna, Inc.' | words 108 ===
+(Exact Name of Registrant as Specified in Its Charter) Delaware 81-3467528 (State or Other Jurisdiction of Incorporation or Organization) (IRS Employer Identification No.) 325 Binney Street Cambridge, Massachusetts 02142 (Address of Principal Executive Offices) (Zip Code) (617) 714-6500 (Registrant’s Telephone Number, Including Area Code) Securities registered pursuant to Section 12(b) of the Act: Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+
+=== MRNA_10-Q_0001682852-26-000150:0001:2 | page 1 | section | section: 'requirements for the past 90 days. Yes ☒\xa0\xa0\xa0\xa0No ☐' | words 50 ===
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes
+
+=== MRNA_10-Q_0001682852-26-000150:0001:3 | page 1 | section | section: '☒ No ☐' | words 50 ===
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+=== MRNA_10-Q_0001682852-26-000150:0001:4 | page 1 | section | section: 'Emerging growth company' | words 42 ===
+☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+=== MRNA_10-Q_0001682852-26-000150:0001:5 | page 1 | section | section: 'Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒' | words 20 ===
+As of July 24, 2026, there were 399,235,889 shares of the registrant’s common stock, par value $0.0001 per share, outstanding.
+
+=== MRNA_10-Q_0001682852-26-000150:0001:6 | page 1 | table | section: 'Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒' | words 30 ===
+Title of each class | Trading symbol(s) | Name of each exchange on which registered
+Common stock, par value $0.0001 per share | MRNA | The Nasdaq Stock Market LLC
+
+=== MRNA_10-Q_0001682852-26-000150:0003:1 | page 3 | paragraph | section: '' | words 284 ===
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS This Quarterly Report on Form 10-Q (Form 10-Q) contains express or implied forward-looking statements. All statements other than those of historical facts contained in this Form 10-Q are based on our management’s beliefs and assumptions and on information currently available to our management. Forward-looking statements in this Form 10-Q include, but are not limited to, statements about: • our ability to drive use of our commercial products and expectations regarding a return to sales growth in 2026; • our ability to execute on our prioritized research and development portfolio; • our ability to deliver cost efficiency across our business; • our expectations regarding the size and durability of the respiratory vaccine market; • the availability of mCOMBRIAX across the EU, subject to national regulatory and access procedures; • our long-term strategic partnerships with government entities; • anticipated near-term regulatory actions for our product candidates, including potential filings, reviews and approvals, including the potential approval of mFLUSIVA; • anticipated milestones for our pipeline programs, including potential data readouts and other near-term catalysts; • our ability to obtain and maintain regulatory approval of our product candidates across our portfolio; • our ability to successfully launch and commercialize our products and the timing of launches; • expectations regarding mRNA-4157 Phase 3 adjuvant melanoma data in 2026 and the potential of our oncology portfolio; • our ability and the ability of third parties with whom we contract to successfully manufacture, supply and distribute our commercial products and any future commercial products at scale, as well as drug substances, delivery vehicles, development candidates, and investigational medicines for preclinical and clinical use; • our ability to successfully contract with third-party suppliers, distributors and manufacturers; •
+
+=== MRNA_10-Q_0001682852-26-000150:0003:2 | page 3 | paragraph | section: '' | words 143 ===
+internal and external costs associated with manufacturing our products and the impact on our cost of sales, and our anticipated cost of sales as a percentage of net product sales; • the scope of protection we are able to establish and maintain for intellectual property rights, including those covering our commercial products, product candidates and technology, and our expectations regarding pending legal proceedings related to our intellectual property; • the timing of initiation, progress, completion, results and cost of our clinical trials, preclinical studies and research and development programs, as well as those of our collaborators; • participant enrollment in our clinical trials, including timing; • potential advantages of mRNA as compared to traditional medicine; • the implementation of our business model and strategic plans for our business, products, product candidates and technology; • the pricing and reimbursement of our products, if approved;
+
+=== MRNA_10-Q_0001682852-26-000150:0004:1 | page 4 | paragraph | section: '' | words 20 ===
+• the build out of our manufacturing and commercial operations; • estimates of our future expenses, revenues and capital requirements;
+
+=== MRNA_10-Q_0001682852-26-000150:0005:1 | page 5 | paragraph | section: '' | words 274 ===
+• our operation and funding requirements, including our forecast of the period of time through which our financial resources will be adequate to support our operations; • the potential benefits of strategic collaboration agreements and our ability to enter into strategic collaborations or other agreements with collaborators with development, regulatory and commercialization expertise; • our financial performance; • our tax positions and related tax liabilities; • legal and regulatory developments in the United States and foreign countries; • our ability to produce our products or product candidates with advantages in turnaround times or manufacturing cost; and • developments relating to our competitors and our industry. Forward-looking statements often contain words such as “will,” “may,” “should,” “could,” “expects,” “intends,” “plans,” “aims,” “anticipates,” “believes,” “estimates,” “predicts,” “potential,” “continue,” or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words. Although we believe that the expectations reflected in these forward-looking statements are reasonable, these statements relate to future events or our operational or financial performance, and involve risks, uncertainties, and other factors that may cause our actual results to differ materially from any future results expressed or implied by these forward-looking statements. Accordingly, you should not place undue reliance on these forward-looking statements. Factors that may cause actual results to differ materially from current expectations include, among other things, those listed under the section entitled “Risk Factors” and elsewhere in this Form 10-Q and under Part I, Item 1A. “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025. If one or more of these risks or uncertainties occur, or if our underlying
+
+=== MRNA_10-Q_0001682852-26-000150:0005:2 | page 5 | paragraph | section: '' | words 260 ===
+assumptions prove to be incorrect, actual results could differ materially from those expressed or implied by the forward-looking statements. The forward-looking statements in this Form 10-Q represent our views as of the date of this Form 10-Q. We undertake no obligation to update any forward-looking statements, except as required by applicable securities law. You should therefore not rely on these forward- looking statements as representing our views as of any date subsequent to the date of this Form 10-Q. However, any further disclosures made on related subjects in our subsequent reports filed with the Securities and Exchange Commission should be consulted. TRADEMARKS This Form 10-Q contains references to our trademarks and to trademarks belonging to other entities. Solely for convenience, trademarks and trade names referred to may appear without the  or ™ symbols, but such references are not intended to indicate that their respective owners will not assert, to the fullest extent under applicable law, their rights thereto. We do not intend our reference to other companies’ trade names or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies. NOTE REGARDING COMPANY REFERENCES Unless the context otherwise requires, the terms “Moderna,” the “Company,” “we,” “us” and “our” in this Form 10-Q refer to Moderna, Inc. and its consolidated subsidiaries. ADDITIONAL INFORMATION Our website, www.modernatx.com, including the Investor Relations section, www.investors.modernatx.com; and corporate blog www.modernatx.com/moderna-blog, and our Statements and Perspectives webpage, https://investors.modernatx.com/Statements-- Perspectives/default.aspx; as well as our social media channels: Facebook, www.facebook.com/modernatx; X, www.x.com/moderna_tx (@moderna_tx); LinkedIn, www.linkedin.com/company/modernatx; Instagram (@moderna_tx); and Threads (@moderna_tx) contain a
+
+=== MRNA_10-Q_0001682852-26-000150:0005:3 | page 5 | paragraph | section: '' | words 60 ===
+significant amount of information about us, including financial and other information for investors. We encourage investors to visit these websites and social media channels as information is frequently updated and new information is shared. Information contained on our website, corporate blog and social media channels shall not be deemed incorporated into, or be a part of, this Form 10-Q. ®
+
+=== MRNA_10-Q_0001682852-26-000150:0007:1 | page 7 | paragraph | section: '' | words 172 ===
+Table of Contents PART I. Page Item 1. Financial Statements (Unaudited) 5 Condensed Consolidated Balance Sheets as of June 30, 2026 and December 31, 2025 5 Condensed Consolidated Statements of Operations for the three and six months ended June 30, 2026 and 2025 6 Condensed Consolidated Statements of Comprehensive Income (Loss) for the three and six months ended June 30, 2026 and 2025 7 Condensed Consolidated Statements of Stockholders' Equity for the three and six months ended June 30, 2026 and 2025 8 Condensed Consolidated Statements of Cash Flows for the six months ended June 30, 2026 and 2025 10 Notes to Condensed Consolidated Financial Statements 11 Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 29 Item 3. Quantitative and Qualitative Disclosures about Market Risk 38 Item 4. Controls and Procedures 38 PART II. Item 1. Legal Proceedings 39 Item 1A. Risk Factors 39 Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 39 Item 5. Other Information 40 Item 6. Exhibits 41 SIGNATURES 42
+
+=== MRNA_10-Q_0001682852-26-000150:0008:1 | page 8 | paragraph | section: '' | words 40 ===
+Table of Contents Item 1. Financial Statements MODERNA, INC. CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited, in millions, except per share data) June 30, December 31, 2026 2025 The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+
+=== MRNA_10-Q_0001682852-26-000150:0008:2 | page 8 | table | section: '' | words 402 ===
+Assets |  |  |  |  | 
+Current assets: |  |  |  |  | 
+Cash and cash equivalents | $ | 1,723 |  | $ | 2,595
+Investments | 3,415 |  |  | 3,204 | 
+Accounts receivable, net | 17 |  |  | 184 | 
+Inventory | 280 |  |  | 153 | 
+Prepaid expenses and other current assets | 380 |  |  | 408 | 
+Total current assets | 5,815 |  |  | 6,544 | 
+Investments, non-current | 1,772 |  |  | 2,336 | 
+Property, plant and equipment, net | 2,059 |  |  | 2,134 | 
+Right-of-use assets, operating leases | 697 |  |  | 719 | 
+Other non-current assets | 618 |  |  | 605 | 
+Total assets | $ | 10,961 |  | $ | 12,338
+Liabilities and Stockholders’ Equity |  |  |  |  | 
+Current liabilities: |  |  |  |  | 
+Accounts payable | $ | 167 |  | $ | 317
+Accrued liabilities | 1,909 |  |  | 1,386 | 
+Deferred revenue | 295 |  |  | 99 | 
+Other current liabilities | 163 |  |  | 185 | 
+Total current liabilities | 2,534 |  |  | 1,987 | 
+Deferred revenue, non-current | 147 |  |  | 153 | 
+Operating lease liabilities, non-current | 638 |  |  | 653 | 
+Financing lease liabilities, non-current | 6 |  |  | 20 | 
+Long-term debt | 591 |  |  | 590 | 
+Other non-current liabilities | 284 |  |  | 285 | 
+Total liabilities | 4,200 |  |  | 3,688 | 
+Commitments and contingencies (Note 12) |  |  |  |  | 
+Stockholders’ equity: |  |  |  |  | 
+Preferred stock, par value $0.0001; 162 shares authorized as of June 30, 2026 and December 31, 2025; no shares issued or outstanding at June 30, 2026 and December 31, 2025 | — |  |  | — | 
+Common stock, par value $0.0001; 1,600 shares authorized as of June 30, 2026 and December 31, 2025; 399 and 394 shares issued and outstanding as of June 30, 2026 and December 31, 2025, respectively | — |  |  | — | 
+Additional paid-in capital | 1,644 |  |  | 1,382 | 
+Accumulated other comprehensive income | 19 |  |  | 45 | 
+Retained earnings | 5,098 |  |  | 7,223 | 
+Total stockholders’ equity | 6,761 |  |  | 8,650 | 
+Total liabilities and stockholders’ equity | $ | 10,961 |  | $ | 12,338
+
+=== MRNA_10-Q_0001682852-26-000150:0009:1 | page 9 | paragraph | section: '' | words 1 ===
+5
+
+=== MRNA_10-Q_0001682852-26-000150:0010:1 | page 10 | paragraph | section: '' | words 46 ===
+Table of Contents MODERNA, INC. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited, in millions, except per share data) Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 6
+
+=== MRNA_10-Q_0001682852-26-000150:0010:2 | page 10 | table | section: '' | words 388 ===
+Revenue: |  |  |  |  |  |  |  |  |  |  |  | 
+Net product sales |  | $ | 94 |  | $ | 114 |  | $ | 446 |  | $ | 200
+Other revenue |  | 51 |  |  | 28 |  |  | 88 |  |  | 50 | 
+Total revenue |  | 145 |  |  | 142 |  |  | 534 |  |  | 250 | 
+Operating expenses: |  |  |  |  |  |  |  |  |  |  |  | 
+Cost of sales |  | 93 |  |  | 119 |  |  | 1,048 |  |  | 209 | 
+Research and development |  | 651 |  |  | 700 |  |  | 1,300 |  |  | 1,556 | 
+Selling, general and administrative |  | 216 |  |  | 230 |  |  | 389 |  |  | 442 | 
+Total operating expenses |  | 960 |  |  | 1,049 |  |  | 2,737 |  |  | 2,207 | 
+Loss from operations |  | (815) |  |  | (907) |  |  | (2,203) |  |  | (1,957) | 
+Interest income |  | 67 |  |  | 81 |  |  | 139 |  |  | 171 | 
+Other (expense) income, net |  | (19) |  |  | 8 |  |  | (37) |  |  | 4 | 
+Loss before income taxes |  | (767) |  |  | (818) |  |  | (2,101) |  |  | (1,782) | 
+Provision for income taxes |  | 15 |  |  | 7 |  |  | 24 |  |  | 14 | 
+Net loss |  | $ | (782) |  | $ | (825) |  | $ | (2,125) |  | $ | (1,796)
+ |  |  |  |  |  |  |  |  |  |  |  | 
+Net loss per share |  |  |  |  |  |  |  |  |  |  |  | 
+Basic and diluted |  | $ | (1.97) |  | $ | (2.13) |  | $ | (5.36) |  | $ | (4.64)
+ |  |  |  |  |  |  |  |  |  |  |  | 
+Weighted average common shares used in calculation of net loss per share |  |  |  |  |  |  |  |  |  |  |  | 
+Basic and diluted |  | 398 |  |  | 388 |  |  | 396 |  |  | 387 |
+
+=== MRNA_10-Q_0001682852-26-000150:0011:1 | page 11 | paragraph | section: '' | words 40 ===
+Table of Contents MODERNA, INC. CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) (Unaudited, in millions) Three Months Ended June 30, Six Months Ended June 30, The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 7
+
+=== MRNA_10-Q_0001682852-26-000150:0011:2 | page 11 | table | section: '' | words 224 ===
+|  |  |  |  |  |  |  |  |  |  |  | 
+Net loss |  | $ | (782) |  | $ | (825) |  | $ | (2,125) |  | $ | (1,796)
+Other comprehensive (loss) income, net of tax: |  |  |  |  |  |  |  |  |  |  |  | 
+Available-for-sale securities: |  |  |  |  |  |  |  |  |  |  |  | 
+Unrealized (losses) gains on available-for-sale securities |  | (4) |  |  | 5 |  |  | (21) |  |  | 21 | 
+Less: net realized gains on available-for-sale securities reclassified in net loss |  | (1) |  |  | — |  |  | (1) |  |  | (1) | 
+Net (decrease) increase from available-for-sale securities |  | (5) |  |  | 5 |  |  | (22) |  |  | 20 | 
+Pension and postretirement obligation adjustments |  | — |  |  | (1) |  |  | — |  |  | 1 | 
+(Losses) gains on foreign currency translation |  | (1) |  |  | 9 |  |  | (4) |  |  | 12 | 
+Total other comprehensive (loss) income |  | (6) |  |  | 13 |  |  | (26) |  |  | 33 | 
+Comprehensive loss |  | $ | (788) |  | $ | (812) |  | $ | (2,151) |  | $ | (1,763)
+
+=== MRNA_10-Q_0001682852-26-000150:0012:1 | page 12 | section | section: '(Unaudited, in millions)' | words 32 ===
+Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income Retained Earnings Total Stockholders’ Equity Shares Amount Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income Retained Earnings Total Stockholders’ Equity Shares Amount
+
+=== MRNA_10-Q_0001682852-26-000150:0012:2 | page 12 | table | section: 'The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.' | words 260 ===
+Balance at March 31, 2026 | 397 |  | $ | — |  | $ | 1,503 |  | $ | 25 |  | $ | 5,880 |  | $ | 7,408
+Vesting of restricted common stock units | 1 |  | — |  |  | — |  |  | — |  |  | — |  |  | — | 
+Exercise of options to purchase common stock | 1 |  | — |  |  | 13 |  |  | — |  |  | — |  |  | 13 | 
+Tax payments related to net share settlements on equity awards | — |  | — |  |  | (2) |  |  | — |  |  | — |  |  | (2) | 
+Issuance of common stock under employee stock purchase plan | — |  | — |  |  | 10 |  |  | — |  |  | — |  |  | 10 | 
+Stock-based compensation | — |  | — |  |  | 120 |  |  | — |  |  | — |  |  | 120 | 
+Other comprehensive loss, net of tax | — |  | — |  |  | — |  |  | (6) |  |  | — |  |  | (6) | 
+Net loss | — |  | — |  |  | — |  |  | — |  |  | (782) |  |  | (782) | 
+Balance at June 30, 2026 | 399 |  | $ | — |  | $ | 1,644 |  | $ | 19 |  | $ | 5,098 |  | $ | 6,761
+
+=== MRNA_10-Q_0001682852-26-000150:0012:3 | page 12 | table | section: 'The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.' | words 227 ===
+Balance at March 31, 2025 | 387 |  | $ | — |  | $ | 982 |  | $ | 10 |  | $ | 9,074 |  | $ | 10,066
+Vesting of restricted common stock | 2 |  | — |  |  | — |  |  | — |  |  | — |  |  | — | 
+Exercise of options to purchase common stock | — |  | — |  |  | 3 |  |  | — |  |  | — |  |  | 3 | 
+Issuance of common stock under employee stock purchase plan | — |  | — |  |  | 12 |  |  | — |  |  | — |  |  | 12 | 
+Stock-based compensation | — |  | — |  |  | 130 |  |  | — |  |  | — |  |  | 130 | 
+Other comprehensive income, net of tax | — |  | — |  |  | — |  |  | 13 |  |  | — |  |  | 13 | 
+Net loss | — |  | — |  |  | — |  |  | — |  |  | (825) |  |  | (825) | 
+Balance at June 30, 2025 | 389 |  | $ | — |  | $ | 1,127 |  | $ | 23 |  | $ | 8,249 |  | $ | 9,399
+
+=== MRNA_10-Q_0001682852-26-000150:0013:1 | page 13 | section | section: 'Table of Contents' | words 33 ===
+Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income Retained Earnings Total Stockholders’ Equity Shares Amount Common Stock Additional Paid-In Capital Accumulated Other Comprehensive (Loss) Income Retained Earnings Total Stockholders’ Equity Shares Amount
+
+=== MRNA_10-Q_0001682852-26-000150:0013:2 | page 13 | table | section: 'The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.' | words 259 ===
+Balance at December 31, 2025 | 394 |  | $ | — |  | $ | 1,382 |  | $ | 45 |  | $ | 7,223 |  | $ | 8,650
+Vesting of restricted common stock | 3 |  | — |  |  | — |  |  | — |  |  | — |  |  | — | 
+Exercise of options to purchase common stock | 2 |  | — |  |  | 32 |  |  | — |  |  | — |  |  | 32 | 
+Tax payments related to net share settlements on equity awards | — |  | — |  |  | (4) |  |  | — |  |  | — |  |  | (4) | 
+Issuance of common stock under employee stock purchase plan | — |  | — |  |  | 10 |  |  | — |  |  | — |  |  | 10 | 
+Stock-based compensation | — |  | — |  |  | 224 |  |  | — |  |  | — |  |  | 224 | 
+Other comprehensive loss, net of tax | — |  | — |  |  | — |  |  | (26) |  |  | — |  |  | (26) | 
+Net loss | — |  | — |  |  | — |  |  | — |  |  | (2,125) |  |  | (2,125) | 
+Balance at June 30, 2026 | 399 |  | $ | — |  | $ | 1,644 |  | $ | 19 |  | $ | 5,098 |  | $ | 6,761
+
+=== MRNA_10-Q_0001682852-26-000150:0013:3 | page 13 | table | section: 'The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.' | words 259 ===
+Balance at December 31, 2024 | 386 |  | $ | — |  | $ | 866 |  | $ | (10) |  | $ | 10,045 |  | $ | 10,901
+Vesting of restricted common stock | 3 |  | — |  |  | — |  |  | — |  |  | — |  |  | — | 
+Exercise of options to purchase common stock | — |  | — |  |  | 5 |  |  | — |  |  | — |  |  | 5 | 
+Tax payments related to net share settlements on equity awards | — |  | — |  |  | (1) |  |  | — |  |  | — |  |  | (1) | 
+Issuance of common stock under employee stock purchase plan | — |  | — |  |  | 12 |  |  | — |  |  | — |  |  | 12 | 
+Stock-based compensation | — |  | — |  |  | 245 |  |  | — |  |  | — |  |  | 245 | 
+Other comprehensive income, net of tax | — |  | — |  |  | — |  |  | 33 |  |  | — |  |  | 33 | 
+Net loss | — |  | — |  |  | — |  |  | — |  |  | (1,796) |  |  | (1,796) | 
+Balance at June 30, 2025 | 389 |  | $ | — |  | $ | 1,127 |  | $ | 23 |  | $ | 8,249 |  | $ | 9,399
+
+=== MRNA_10-Q_0001682852-26-000150:0014:1 | page 14 | section | section: '(Unaudited, in millions)' | words 22 ===
+Six Months Ended June 30, 2026 2025 The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 10
+
+=== MRNA_10-Q_0001682852-26-000150:0014:2 | page 14 | table | section: '(Unaudited, in millions)' | words 404 ===
+Operating activities |  |  |  |  | 
+Net loss | $ | (2,125) |  | $ | (1,796)
+Adjustments to reconcile net loss to net cash used in operating activities: |  |  |  |  | 
+Stock-based compensation | 224 |  |  | 245 | 
+Depreciation and amortization | 122 |  |  | 96 | 
+Amortization/accretion of investments | (21) |  |  | (37) | 
+Loss on equity investments, net | 2 |  |  | 8 | 
+Other non-cash items | 10 |  |  | 36 | 
+Changes in assets and liabilities: |  |  |  |  | 
+Accounts receivable, net | 167 |  |  | 310 | 
+Prepaid expenses and other assets | 70 |  |  | (150) | 
+Inventory | (126) |  |  | (122) | 
+Right-of-use assets, operating leases | 21 |  |  | 19 | 
+Accounts payable | (128) |  |  | (203) | 
+Accrued liabilities | 475 |  |  | (395) | 
+Deferred revenue | 195 |  |  | 68 | 
+Operating lease liabilities | (15) |  |  | (10) | 
+Other liabilities | (27) |  |  | (25) | 
+Net cash used in operating activities | (1,156) |  |  | (1,956) | 
+Investing activities |  |  |  |  | 
+Purchases of marketable securities | (1,904) |  |  | (3,059) | 
+Proceeds from maturities of marketable securities | 1,442 |  |  | 3,424 | 
+Proceeds from sales of marketable securities | 814 |  |  | 1,059 | 
+Purchases of property, plant and equipment | (99) |  |  | (120) | 
+Purchase of intangible asset | — |  |  | (10) | 
+Net cash provided by investing activities | 253 |  |  | 1,294 | 
+Financing activities |  |  |  |  | 
+Proceeds from issuance of common stock through equity plans | 42 |  |  | 17 | 
+Tax payments related to net share settlements on equity awards | (4) |  |  | (1) | 
+Changes in financing lease liabilities | (7) |  |  | (3) | 
+Net cash provided by financing activities | 31 |  |  | 13 | 
+Effect of changes in exchange rates on cash and cash equivalents | (1) |  |  | 1 | 
+Net decrease in cash, cash equivalents and restricted cash | (873) |  |  | (648) | 
+Cash, cash equivalents and restricted cash, beginning of year | 2,597 |  |  | 1,929 | 
+Cash, cash equivalents and restricted cash, end of period | $ |
+
+=== MRNA_10-Q_0001682852-26-000150:0014:3 | page 14 | table | section: '(Unaudited, in millions)' | words 55 ===
+ 1,724 |  | $ | 1,281
+Non-cash investing and financing activities |  |  |  |  | 
+Purchases of property and equipment included in accounts payable and accrued liabilities | $ | 36 |  | $ | 47
+Purchases of intangible asset included in accounts payable and accrued liabilities | 74 |  |  | — |
+
+=== MRNA_10-Q_0001682852-26-000150:0015:1 | page 15 | paragraph | section: '' | words 278 ===
+Table of Contents MODERNA, INC. NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) 1. Description of the Business Moderna, Inc. (collectively, with its consolidated subsidiaries, any of Moderna, we, us, our or the Company) is a biotechnology company advancing a new class of medicines made of messenger RNA (mRNA). mRNA medicines are designed to direct the body’s cells to produce intracellular, membrane or secreted proteins that have a therapeutic or preventive benefit with the potential to address a broad spectrum of diseases. Our platform builds on continuous advances in basic and applied mRNA science, delivery technology and manufacturing, providing us the capability to pursue in parallel a robust pipeline of new development candidates. We are developing medicines across infectious disease vaccines, oncology therapeutics and rare disease therapeutics. Since our founding in 2010, we have transformed from a research-stage company advancing programs in the field of mRNA to a commercial enterprise with a diverse clinical portfolio of vaccines and therapeutics across several modalities, a broad intellectual property portfolio and integrated manufacturing capabilities that allow for rapid clinical and commercial production at scale. As of June 30, 2026, we had four approved products—Spikevax and mNEXSPIKE®, our COVID vaccines, mRESVIA , our vaccine against respiratory syncytial virus (RSV), and mCOMBRIAX , our flu plus COVID combination vaccine, which was approved in Europe for individuals 50 years of age and older. Additionally, we have a diverse development pipeline of 26 development candidates across our 36 development programs currently in clinical studies. 2. Summary of Basis of Presentation and Recent Accounting Standards Basis of Presentation and Principles of Consolidation The accompanying unaudited condensed consolidated financial statements that accompany these notes have been prepared in
+
+=== MRNA_10-Q_0001682852-26-000150:0015:2 | page 15 | paragraph | section: '' | words 283 ===
+accordance with U.S. generally accepted accounting principles (GAAP) and applicable rules and regulations of the Securities and Exchange Commission (SEC) for interim financial reporting, consistent in all material respects with those applied in our Annual Report on Form 10-K for the year ended December 31, 2025 (2025 Form 10-K). Any reference in these notes to applicable guidance is meant to refer to the authoritative accounting principles generally accepted in the United States as found in the Accounting Standards Codification (ASC) and Accounting Standards Update (ASU) of the Financial Accounting Standards Board (FASB). This report should be read in conjunction with the audited consolidated financial statements in our 2025 Form 10-K. The condensed consolidated financial statements include Moderna, Inc. and its subsidiaries. All intercompany transactions and balances have been eliminated in consolidation. The significant accounting policies used in the preparation of these condensed consolidated financial statements for the three and six months ended June 30, 2026 are consistent with those described in our 2025 Form 10-K. The results of operations for the three and six months ended June 30, 2026 are not necessarily indicative of the operating results to be expected for the full fiscal year or future operating periods. We anticipate seasonal fluctuations in demand for our COVID and RSV vaccines, with higher sales expected during the fall and winter seasons. Use of Estimates We have made estimates and judgments affecting the amounts reported in our condensed consolidated financial statements and the accompanying notes. We base our estimates on historical experience and various relevant assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities at
+
+=== MRNA_10-Q_0001682852-26-000150:0015:3 | page 15 | paragraph | section: '' | words 61 ===
+the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods that are not readily apparent from other sources. Changes in our estimates are recorded in the financial results of the period in which the new information becomes available. The actual results that we experience may differ materially from our estimates. ® ® ®
+
+=== MRNA_10-Q_0001682852-26-000150:0016:1 | page 16 | paragraph | section: '' | words 1 ===
+11
+
+=== MRNA_10-Q_0001682852-26-000150:0017:1 | page 17 | paragraph | section: '' | words 211 ===
+Table of Contents Comprehensive Income (Loss) Comprehensive income (loss) includes net income (loss) and other comprehensive income/loss for the period. Other comprehensive income/loss consists of unrealized gains/losses on our investments, derivatives designated as hedging instruments, foreign currency translation, and pension and postretirement obligation adjustments. Total comprehensive income (loss) for all periods presented has been disclosed in the condensed consolidated statements of comprehensive income (loss). The components of accumulated other comprehensive income (loss) for the three and six months ended June 30, 2026 were as follows (in millions): Unrealized Gains (losses) on Available- for-Sale Debt Securities Pension and Postretirement Obligation Adjustments Gains (Losses) on Foreign Currency Translation Total Restricted Cash We include our restricted cash balance in the cash, cash equivalents and restricted cash reconciliation of operating, investing and financing activities in the condensed consolidated statements of cash flows. The following table provides a reconciliation of cash, cash equivalents and restricted cash in the condensed consolidated balance sheets that sum to the total of the same such amounts shown in the condensed consolidated statements of cash flows (in millions): June 30, 2026 2025 _______ Included in prepaid expenses and other current assets in the condensed consolidated balance sheets. Included in other non-current assets in the condensed consolidated balance sheets. (1) (2) 12
+
+=== MRNA_10-Q_0001682852-26-000150:0017:2 | page 17 | table | section: '' | words 115 ===
+Accumulated other comprehensive income, balance at December 31, 2025 | $ | 38 |  | $ | 4 | $ | 3 |  | $ | 45
+Other comprehensive loss | (17) |  |  | — |  | (3) |  |  | (20) | 
+Accumulated other comprehensive income, balance at March 31, 2026 | $ | 21 |  | $ | 4 | $ | — |  | $ | 25
+Other comprehensive loss | (5) |  |  | — |  | (1) |  |  | (6) | 
+Accumulated other comprehensive income, balance at June 30, 2026 | $ | 16 |  | $ | 4 | $ | (1) |  | $ | 19
+
+=== MRNA_10-Q_0001682852-26-000150:0017:3 | page 17 | table | section: '' | words 57 ===
+Cash and cash equivalents | $ | 1,723 |  | $ | 1,279
+Restricted cash(1) | — |  |  | 1 | 
+Restricted cash, non-current(2) | 1 |  |  | 1 | 
+Total cash, cash equivalents and restricted cash shown in the condensed consolidated statements of cash flows | $ | 1,724 |  | $ | 1,281
+
+=== MRNA_10-Q_0001682852-26-000150:0018:1 | page 18 | paragraph | section: '' | words 284 ===
+Table of Contents Recently Issued Accounting Standards From time to time, new accounting pronouncements are issued by the FASB or other standard setting bodies and adopted by us as of the specified effective date. Except as noted below, we believe that the impact of recently issued standards that are not yet effective will not have a material impact on our condensed consolidated financial statements and disclosures. In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. This ASU requires entities to disclose, on an annual and interim basis, disaggregated information in the footnotes related to certain expense categories included in income statement line items. Specifically, entities are expected to provide tabular disclosures for prescribed categories such as inventory purchases, employee compensation, depreciation, and intangible asset amortization for each relevant expense caption. The standard also requires disclosure of total selling expenses and a definition of those expenses in annual filings. Any remaining amounts not quantitatively disclosed are expected to be described qualitatively. This ASU is effective for fiscal years beginning after December 15, 2026 and interim periods beginning after December 15, 2027. Early adoption permitted, and the standard may be applied on a prospective or retrospective basis. We are currently assessing the impact that this new accounting standard will have on our consolidated financial statement disclosures. In September 2025, the FASB issued ASU No. 2025-06, Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software. This ASU makes targeted amendments to the accounting for and disclosure of software costs under ASC 350-40. The amendments modernize the guidance to reflect current software development
+
+=== MRNA_10-Q_0001682852-26-000150:0018:2 | page 18 | paragraph | section: '' | words 283 ===
+practices, including nonlinear development approaches, and remove references to “development stages.” Under the ASU, the following two criteria must be met for entities to begin capitalizing software costs: (1) management, with the relevant authority, implicitly or explicitly authorizes and commits to funding a computer software project, and (2) it is probable that the project will be completed and the software will be used to perform the function intended (referred to as the “probable-to-complete recognition threshold”). The ASU clarifies that this threshold would not be met when there is “significant uncertainty associated with the development activities of the software (referred to as ‘significant development uncertainty’).” The new standard is effective for all entities for annual reporting periods beginning after December 15, 2027, and for interim reporting periods within those fiscal years. Early adoption is permitted, and entities may apply the amendments prospectively, retrospectively, or using a modified prospective transition approach. We are currently evaluating the impact that this new accounting standard will have on our consolidated financial statements and disclosures. In September 2025, the FASB issued ASU No. 2025-07, Derivatives and Hedging (Topic 815) and Revenue from Contracts with Customers (Topic 606): Derivatives Scope Refinements and Scope Clarification for Share-Based Noncash Consideration From a Customer in a Revenue Contract. This ASU expands the scope exceptions in the derivatives guidance to exclude certain non-exchange- traded contracts with underlyings based on the operations or activities of one of the parties to the contract, including the occurrence or nonoccurrence of an event specific to those operations or activities. The ASU also clarifies that share-based noncash consideration received from a customer in exchange for goods or services should be accounted for as noncash consideration under ASC 606 unless
+
+=== MRNA_10-Q_0001682852-26-000150:0018:3 | page 18 | paragraph | section: '' | words 293 ===
+and until the entity’s right to receive or retain such consideration becomes unconditional. The ASU is effective for annual reporting periods beginning after December 15, 2026, including interim periods within those annual reporting periods. Early adoption is permitted. We are currently evaluating the impact that adoption of this new accounting standard will have on our consolidated financial statements and disclosures. In December 2025, the FASB issued ASU No. 2025-10, Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities. This ASU establishes guidance on the recognition, measurement, presentation, and disclosure of government grants received by business entities. The guidance defines a government grant as a transfer of a monetary asset or a tangible nonmonetary asset from a government to a business entity other than in an exchange transaction and excludes transactions within the scope of other U.S. GAAP. Under the ASU, government grants are classified as either grants related to an asset or grants related to income, and recognition is permitted only when it is probable that the entity will comply with the conditions attached to the grant and that the grant will be received. The ASU permits alternative presentation approaches depending on the nature of the grant and requires disclosures regarding the nature of the grant, affected financial statement line items, and significant terms and conditions. The ASU is effective for public business entities for annual reporting periods beginning after December 15, 2028, including interim periods within those annual reporting periods. Early adoption is permitted, and the standard may be applied on a modified prospective, modified retrospective, or full retrospective basis. We are currently evaluating the impact of this new accounting standard and do not expect its adoption to have a material impact on our consolidated financial statements and disclosures.
+
+=== MRNA_10-Q_0001682852-26-000150:0019:1 | page 19 | paragraph | section: '' | words 1 ===
+13
+
+=== MRNA_10-Q_0001682852-26-000150:0020:1 | page 20 | paragraph | section: '' | words 327 ===
+Table of Contents 3. Net Product Sales Net product sales by customer geographic location were as follows (in millions): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 Net product sales by product type were as follows (in millions): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 _______ Includes sales of Spikevax and mNEXSPIKE. As of June 30, 2026, we have four approved products, our COVID vaccines, Spikevax and mNEXSPIKE, our RSV vaccine, mRESVIA, and our flu plus COVID combination vaccine, mCOMBRIAX. mRESVIA was approved by the FDA in May 2024 for adults aged 60 years and older, and in June 2025, the approved use was expanded to include adults aged 18 through 59 years who are at increased risk for lower respiratory tract disease caused by RSV. In May 2025, mNEXSPIKE was approved for use in adults aged 65 years and older, as well as individuals aged 12 through 64 years with at least one underlying risk factor. We launched commercial sales of mNEXSPIKE in the third quarter of 2025. In April 2026, mCOMBRIAX was approved by the European Commission for the prevention of influenza disease and COVID-19 in adults 50 years of age and older. As of June 30, 2026, mCOMBRIAX had not been commercialized. We sell our COVID and RSV vaccines to the commercial market as well as to governments and international organizations. In the U.S., our COVID and RSV vaccines are sold primarily to wholesalers and distributors, and to a lesser extent, directly to retailers and healthcare providers. Wholesalers and distributors typically do not make upfront payments to us. Net product sales are recognized net of estimated wholesaler chargebacks, invoice discounts for prompt payments and pre-orders, provisions for sales returns and government rebates, and other related deductions. The following table summarizes product sales provision adjustments for the periods presented (in millions): Three Months Ended June 30, Six Months Ended June 30, 2026
+
+=== MRNA_10-Q_0001682852-26-000150:0020:2 | page 20 | table | section: '' | words 79 ===
+United States |  | $ | 70 |  | $ | 88 |  | $ | 143 |  | $ | 119
+Europe |  | 16 |  |  | — |  |  | 255 |  |  | — | 
+Rest of world |  | 8 |  |  | 26 |  |  | 48 |  |  | 81 | 
+Total |  | $ | 94 |  | $ | 114 |  | $ | 446 |  | $ | 200
+
+=== MRNA_10-Q_0001682852-26-000150:0020:3 | page 20 | table | section: '' | words 59 ===
+COVID(1) |  | $ | 91 |  | $ | 114 |  | $ | 436 |  | $ | 198
+RSV |  | 3 |  |  | — |  |  | 10 |  |  | 2 | 
+Total |  | $ | 94 |  | $ | 114 |  | $ | 446 |  | $ | 200
+
+=== MRNA_10-Q_0001682852-26-000150:0020:4 | page 20 | table | section: '' | words 128 ===
+Gross product sales |  | $ | 122 |  | $ | 176 |  | $ | 472 |  | $ | 281
+Product sales provision: |  |  |  |  |  |  |  |  |  |  |  | 
+Wholesaler chargebacks, discounts and fees |  | (50) |  |  | (62) |  |  | (39) |  |  | (84) | 
+Returns, rebates and other fees |  | 22 |  |  | — |  |  | 13 |  |  | 3 | 
+Total product sales provision adjustments |  | $ | (28) |  | $ | (62) |  | $ | (26) |  | $ | (81)
+Net product sales |  | $ | 94 |  | $ | 114 |  | $ | 446 |  | $ | 200
+
+=== MRNA_10-Q_0001682852-26-000150:0021:1 | page 21 | paragraph | section: '' | words 294 ===
+Table of Contents The following table summarizes the activities related to product sales provision recorded as accrued liabilities for the six months ended June 30, 2026 (in millions): Returns and other fees 4. Other Revenue The following table summarizes other revenue for the periods presented (in millions): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 5. Collaboration Agreements and Research and Development Funding Arrangement Merck – Individualized Neoantigen Therapy (Intismeran Autogene) In June 2016, we entered into a Collaboration and License Agreement, which was subsequently amended in 2018, with Merck & Co., Inc. (Merck) for the development and commercialization of individualized neoantigen therapy (INT), which has been assigned the generic name intismeran autogene. In September 2022, Merck exercised its option for intismeran, including mRNA-4157, pursuant to the terms of the agreement and in October 2022 paid us an option exercise fee of $250 million. Following this exercise, the Merck Participation Term commenced. Pursuant to the agreement, we and Merck have agreed to collaborate on development and potential commercialization of intismeran, with costs and any profits or losses generally shared equally on a worldwide basis, subject to certain exceptions as outlined in the agreement. During the development phase, we are primarily responsible for process development and the manufacture of intismeran materials, while Merck generally leads clinical trials. We concluded that the collaboration arrangement under the Merck Participation Term is within the scope of ASC 808. For the three and six months ended June 30, 2026, we recognized expenses, net of Merck's reimbursements, of $97 million and $198 million, respectively, related to the INT collaboration under the Merck Participation Term. For the three and six months ended June 30, 2025, these expenses were $99 million and $203 million, respectively. 15
+
+=== MRNA_10-Q_0001682852-26-000150:0021:2 | page 21 | table | section: '' | words 72 ===
+Balance at December 31, 2025 |  | $ | (509)
+Provision related to sales made in current period |  | (23) | 
+Provision related to sales made in prior periods |  | 36 | 
+Payments and returns related to sales made in current period |  | 1 | 
+Payments and returns related to sales made in prior year |  | 74 | 
+Balance at June 30, 2026 |  | $ | (421)
+
+=== MRNA_10-Q_0001682852-26-000150:0021:3 | page 21 | table | section: '' | words 104 ===
+Stand-ready manufacturing revenue |  | $ | 31 |  | $ | 17 |  | $ | 63 |  | $ | 29
+Collaboration revenue (Note 5) |  | 15 |  |  | 4 |  |  | 20 |  |  | 5 | 
+Grant revenue |  | 2 |  |  | 5 |  |  | 2 |  |  | 6 | 
+Licensing and royalty revenue |  | 3 |  |  | 2 |  |  | 3 |  |  | 10 | 
+Total other revenue |  | $ | 51 |  | $ | 28 |  | $ | 88 |  | $ | 50
+
+=== MRNA_10-Q_0001682852-26-000150:0021:4 | page 21 | table | section: '' | words 38 ===
+Additionally, for the three and six months ended June 30, 2026, the net cost recovery for capital expenditures was | 
+$2 million | , respectively.
+These amounts were applied to reduce the capitalized cost of the assets. |
+
+=== MRNA_10-Q_0001682852-26-000150:0022:1 | page 22 | paragraph | section: '' | words 277 ===
+Table of Contents Recordati –Propionic Acidemia Therapeutic In January 2026, we entered into a collaboration agreement with Recordati S.p.A. (Recordati) to advance the development and commercialization of our investigational propionic acidemia therapeutic, mRNA-3927. Under the terms of the agreement, we granted Recordati an exclusive, royalty-bearing license to develop and commercialize the licensed product (mRNA-3927) worldwide, we will perform and continue to lead clinical development activities through approval, and Recordati will lead global commercialization upon approval. The transaction closed on March 16, 2026, and we received a $50 million upfront payment in the second quarter of 2026. The upfront payment is being recognized as collaboration revenue over time. In addition, we are eligible to receive up to $110 million in development and regulatory milestones, as well as additional commercial and sales milestones and tiered royalties on net sales. We have other collaborative and licensing arrangements that we do not consider to be individually significant to our business at this time. Pursuant to these agreements, we may be required to make upfront payments and payments upon achievement of various development, regulatory and commercial milestones, which in the aggregate could be significant. Future milestone payments, if any, will be reflected in our consolidated financial statements when the corresponding events have occurred. In addition, we may be required to pay significant royalties on future sales if products related to these arrangements are commercialized. Development and Commercialization Funding Arrangement with Blackstone Life Sciences (Blackstone) In March 2024, we entered into a development and commercialization funding arrangement with Blackstone, under which Blackstone has committed to providing up to $750 million in funding to us. This funding supports the development of our investigational mRNA-
+
+=== MRNA_10-Q_0001682852-26-000150:0022:2 | page 22 | paragraph | section: '' | words 168 ===
+based influenza vaccine. Contingent upon regulatory approval in the U.S. and only if the approval is dependent on data from the funded activities, Blackstone will be entitled to receive low single-digit percentage royalties and up to $750 million in sales milestone payments. These payments are based on net sales of our future influenza and combination vaccines, with sales milestone payments contingent upon achieving specified cumulative net sales targets. Given the substantive transfer of financial risk to Blackstone, we account for this arrangement as an obligation to conduct research and development activities. The funding is recognized as a reduction to the expenses of our mRNA-based influenza program. This reduction is recognized proportionally as the related costs are incurred, based on an input method. For the three and six months ended June 30, 2026, we recorded expense reductions of $24 million and $74 million, respectively. For the three and six months ended June 30, 2025, we recorded research and development expense reductions of $160 million and $250 million, respectively. 16
+
+=== MRNA_10-Q_0001682852-26-000150:0023:1 | page 23 | paragraph | section: '' | words 127 ===
+Table of Contents 6. Financial Instruments Cash and Cash Equivalents and Investments The following tables summarize our cash, cash equivalents, and available-for-sale securities by significant investment category as of June 30, 2026 and December 31, 2025 (in millions): June 30, 2026 Amortized Cost Unrealized Gains Unrealized Losses Estimated Fair Value Cash and Cash Equivalents Current Marketable Securities Non- Current Marketable Securities December 31, 2025 Amortized Cost Unrealized Gains Unrealized Losses Estimated Fair Value Cash and Cash Equivalents Current Marketable Securities Non- Current Marketable Securities The amortized cost and estimated fair value of available-for-sale securities by contractual maturity as of June 30, 2026 and December 31, 2025 were as follows (in millions): June 30, 2026 Amortized Cost Estimated Fair Value December 31, 2025 Amortized Cost Estimated Fair Value
+
+=== MRNA_10-Q_0001682852-26-000150:0023:2 | page 23 | table | section: '' | words 252 ===
+Cash and cash equivalents |  | $ | 1,723 |  | $ | — |  | $ | — |  | $ | 1,723 |  | $ | 1,723 |  | $ | — |  | $ | —
+Available-for-sale: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Certificates of deposit |  | 53 |  |  | — |  |  | — |  |  | 53 |  |  | — |  |  | 53 |  |  | — | 
+U.S. treasury bills |  | 591 |  |  | — |  |  | (1) |  |  | 590 |  |  | — |  |  | 590 |  |  | — | 
+U.S. treasury notes |  | 2,132 |  |  | — |  |  | (9) |  |  | 2,123 |  |  | — |  |  | 1,399 |  |  | 724 | 
+Corporate debt securities |  | 2,371 |  |  | 1 |  |  | (6) |  |  | 2,366 |  |  | — |  |  | 1,371 |  |  | 995 | 
+Government debt securities |  | 55 |  |  | — |  |  | — |  |  | 55 |  |  | — |  |  | 2 |  |  | 53 | 
+Total |  | $ | 6,925 |  | $ | 1 |  | $ | (16) |  | $ | 6,910 |  | $ | 1,723 |  | $ | 3,415 |  | $ | 1,772
+
+=== MRNA_10-Q_0001682852-26-000150:0023:3 | page 23 | table | section: '' | words 252 ===
+Cash and cash equivalents |  | $ | 2,595 |  | $ | — |  | $ | — |  | $ | 2,595 |  | $ | 2,595 |  | $ | — |  | $ | —
+Available-for-sale: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Certificates of deposit |  | 91 |  |  | — |  |  | — |  |  | 91 |  |  | — |  |  | 86 |  |  | 5 | 
+U.S. treasury bills |  | 653 |  |  | — |  |  | — |  |  | 653 |  |  | — |  |  | 653 |  |  | — | 
+U.S. treasury notes |  | 2,188 |  |  | 5 |  |  | (3) |  |  | 2,190 |  |  | — |  |  | 1,185 |  |  | 1,005 | 
+Corporate debt securities |  | 2,535 |  |  | 6 |  |  | (1) |  |  | 2,540 |  |  | — |  |  | 1,250 |  |  | 1,290 | 
+Government debt securities |  | 66 |  |  | — |  |  | — |  |  | 66 |  |  | — |  |  | 30 |  |  | 36 | 
+Total |  | $ | 8,128 |  | $ | 11 |  | $ | (4) |  | $ | 8,135 |  | $ | 2,595 |  | $ | 3,204 |  | $ | 2,336
+
+=== MRNA_10-Q_0001682852-26-000150:0023:4 | page 23 | table | section: '' | words 42 ===
+Due in one year or less |  | $ | 3,420 |  | $ | 3,415
+Due after one year through five years |  | 1,782 |  |  | 1,772 | 
+Total |  | $ | 5,202 |  | $ | 5,187
+
+=== MRNA_10-Q_0001682852-26-000150:0023:5 | page 23 | table | section: '' | words 42 ===
+Due in one year or less |  | $ | 3,199 |  | $ | 3,204
+Due after one year through five years |  | 2,334 |  |  | 2,336 | 
+Total |  | $ | 5,533 |  | $ | 5,540
+
+=== MRNA_10-Q_0001682852-26-000150:0024:1 | page 24 | paragraph | section: '' | words 58 ===
+In accordance with our investment policy, we place investments in investment grade securities with high credit quality issuers, and generally limit the amount of credit exposure to any one issuer. We evaluate securities for impairment at the end of each reporting period. Impairment is evaluated considering numerous factors, and their relative significance varies depending on the situation. 17
+
+=== MRNA_10-Q_0001682852-26-000150:0025:1 | page 25 | paragraph | section: '' | words 317 ===
+Table of Contents Factors considered include whether a decline in fair value below the amortized cost basis is due to credit-related factors or non-credit- related factors, the financial condition and near-term prospects of the issuer, and our intent and ability to hold the investment to allow for an anticipated recovery in fair value. Any impairment that is not credit related is recognized in other comprehensive loss, net of applicable taxes. A credit-related impairment is recognized as an allowance on the balance sheet with a corresponding adjustment to earnings. We did not recognize any impairment charges related to available-for-sale securities for the three and six months ended June 30, 2026 and 2025. We did not record any credit-related allowance for available-for-sale securities as of June 30, 2026 and December 31, 2025. The following table summarizes the amount of gross unrealized losses and the estimated fair value for our available-for-sale securities in an unrealized loss position by the length of time the securities have been in an unrealized loss position as of June 30, 2026 and December 31, 2025 (in millions): Less than 12 Months 12 Months or More Total Gross Unrealized Losses Estimated Fair Value Gross Unrealized Losses Estimated Fair Value Gross Unrealized Losses Estimated Fair Value As of June 30, 2026 and December 31, 2025, we held 283 and 108 available-for-sale securities, respectively, out of our total investment portfolio that were in a continuous unrealized loss position. We neither intend to sell these investments, nor do we believe that we are more-likely-than-not to conclude we will have to sell them before recovery of their carrying values. We also believe that we will be able to collect both principal and interest amounts due to us at maturity. Assets and Liabilities Measured at Fair Value on a Recurring Basis The following fair value hierarchy is used to classify assets and liabilities based on the observable inputs and unobservable input
+
+=== MRNA_10-Q_0001682852-26-000150:0025:2 | page 25 | paragraph | section: '' | words 99 ===
+to value the assets and liabilities: • Level 1: Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities; • Level 2: Quoted prices for similar assets and liabilities in active markets, quoted prices in markets that are not active, or inputs which are observable, either directly or indirectly, for substantially the full term of the asset or liability; or • Level 3: Prices or valuation techniques that require inputs that are both significant to the fair value measurement and unobservable (i.e., supported by little or no market activity). 18
+
+=== MRNA_10-Q_0001682852-26-000150:0025:3 | page 25 | table | section: '' | words 354 ===
+As of June 30, 2026: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+U.S. treasury bills |  | $ | (1) |  | $ | 669 |  | $ | — |  | $ | — |  | $ | (1) |  | $ | 669
+U.S. treasury notes |  | (6) |  |  | 1,519 |  |  | (3) |  |  | 236 |  |  | (9) |  |  | 1,755 | 
+Corporate debt securities |  | (6) |  |  | 1,510 |  |  | — |  |  | 28 |  |  | (6) |  |  | 1,538 | 
+Government debt securities |  | — |  |  | 55 |  |  | — |  |  | — |  |  | — |  |  | 55 | 
+Total |  | $ | (13) |  | $ | 3,753 |  | $ | (3) |  | $ | 264 |  | $ | (16) |  | $ | 4,017
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+As of December 31, 2025: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+U.S. treasury bills |  | $ | — |  | $ | 111 |  | $ | — |  | $ | — |  | $ | — |  | $ | 111
+U.S. treasury notes |  | (1) |  |  | 176 |  |  | (2) |  |  | 235 |  |  | (3) |  |  | 411 | 
+Corporate debt securities |  | — |  |  | 608 |  |  | (1) |  |  | 40 |  |  | (1) |  |  | 648 | 
+Government debt securities |  | — |  |  | 36 |  |  | — |  |  | 8 |  |  | — |  |  | 44 | 
+Total |  | $ | (1) |  | $ | 931 |  | $ | (3) |  | $ | 283 |  | $ | (4) |  | $ | 1,214
+
+=== MRNA_10-Q_0001682852-26-000150:0026:1 | page 26 | paragraph | section: '' | words 268 ===
+Table of Contents The following tables summarize our financial assets and liabilities measured at fair value on a recurring basis as of June 30, 2026 and December 31, 2025 (in millions): Fair value at June 30, 2026 Fair Value Measurement Using Level 1 Level 2 Fair value at December 31, 2025 Fair Value Measurement Using Level 1 Level 2 _______ Investments in publicly traded equity securities with readily determinable fair values are recorded at quoted market prices for identical securities, with changes in fair value recorded in other expense, net, in our condensed consolidated statements of operations. As of June 30, 2026 and December 31, 2025, we did not have non-financial assets or liabilities measured at fair value on a recurring basis and did not have any Level 3 financial assets or financial liabilities. For the three and six months ended June 30, 2026, we recognized no net gain or loss and recognized a net loss of $2 million, respectively, on equity investments from changes in fair value of the securities. For the three and six months ended June 30, 2025, we recognized no net gain or loss and recognized a net loss of $8 million, respectively, on equity investments from changes in fair value of the securities. Fair Value of Other Financial Instruments We estimate the fair value of our term loan using Level 2 inputs. The fair value of the term loan approximates its carrying value as of June 30, 2026 and December 31, 2025, as the instrument bears interest at a variable rate that reflects current market rates. See Note 11 for additional information. (1)
+
+=== MRNA_10-Q_0001682852-26-000150:0026:2 | page 26 | table | section: '' | words 137 ===
+Assets: |  |  |  |  |  |  |  | 
+Money market funds |  | $ | 1,447 |  | $ 1,447 |  | $ | —
+Certificates of deposit |  | 53 |  |  | — |  | 53 | 
+U.S. treasury bills |  | 716 |  |  | — |  | 716 | 
+U.S. treasury notes |  | 2,123 |  |  | — |  | 2,123 | 
+Corporate debt securities |  | 2,440 |  |  | — |  | 2,440 | 
+Government debt securities |  | 55 |  |  | — |  | 55 | 
+Equity investments(1) |  | 2 |  |  | 2 |  | — | 
+Derivative instruments |  | 2 |  |  | — |  | 2 | 
+Total |  | $ | 6,838 |  | $ 1,449 |  | $ | 5,389
+
+=== MRNA_10-Q_0001682852-26-000150:0026:3 | page 26 | table | section: '' | words 162 ===
+Assets: |  |  |  |  |  |  |  | 
+Money market funds |  | $ | 963 |  | $ 963 |  | $ | —
+Certificates of deposit |  | 91 |  |  | — |  | 91 | 
+U.S. treasury bills |  | 1,445 |  |  | — |  | 1,445 | 
+U.S. treasury notes |  | 2,190 |  |  | — |  | 2,190 | 
+Corporate debt securities |  | 3,163 |  |  | — |  | 3,163 | 
+Government debt securities |  | 66 |  |  | — |  | 66 | 
+Equity Investments(1) |  | 6 |  |  | 6 |  | — | 
+Derivative instruments |  | 1 |  |  | — |  | 1 | 
+Total |  | $ | 7,925 |  | $ 969 |  | $ | 6,956
+Liabilities: |  |  |  |  |  |  |  | 
+Derivative instruments |  | $ | 4 |  | $ — |  | $ | 4
+
+=== MRNA_10-Q_0001682852-26-000150:0027:1 | page 27 | paragraph | section: '' | words 1 ===
+19
+
+=== MRNA_10-Q_0001682852-26-000150:0028:1 | page 28 | paragraph | section: '' | words 317 ===
+Table of Contents 7. Inventory Inventory as of June 30, 2026 and December 31, 2025 consisted of the following (in millions): June 30, December 31, 2026 2025 _______ Consisted of raw materials with an anticipated consumption beyond one year. Inventory, non-current is included in other non-current assets in the condensed consolidated balance sheets. Inventory write-downs as a result of excess, obsolescence, scrap or other reasons, and losses on firm purchase commitments are recorded as a component of cost of sales in our condensed consolidated statements of operations. For the three and six months ended June 30, 2026, inventory write-downs were $41 million and $79 million, respectively. For the three and six months ended June 30, 2025, inventory write-downs were $38 million and $80 million, respectively. For the three and six months ended June 30, 2026, there were no losses on firm purchase commitments. For the three and six months ended June 30, 2025, losses on firm purchase commitments were $7 million and $17 million, respectively. Inventory write-downs were mainly related to inventory in excess of expected demand, shelf-life expiration and other inventory adjustments. Losses on firm purchase commitments were primarily related to excess raw material purchase commitments that will expire before the anticipated consumption of those raw materials. As of June 30, 2026 and December 31, 2025, we had inventory on hand of $361 million and $267 million, respectively, inclusive of inventory for our COVID and RSV vaccines. Our raw materials and work-in-progress inventory have variable shelf lives. We expect that the majority of this inventory will be consumed over the next three years. The shelf life of Spikevax is nine to twelve months. mNEXSPIKE has a shelf life of twelve months. The shelf life of mRESVIA, our RSV vaccine, is eighteen months. 8. Property, Plant and Equipment, Net Property, plant and equipment, net, as of June 30, 2026 and December 31, 2025 consisted of the f
+
+=== MRNA_10-Q_0001682852-26-000150:0028:2 | page 28 | table | section: '' | words 63 ===
+Raw materials |  | $ | 117 |  | $ | 91
+Work in progress |  | 97 |  |  | 29 | 
+Finished goods |  | 66 |  |  | 33 | 
+Total inventory |  | $ | 280 |  | $ | 153
+ |  |  |  |  |  | 
+Inventory, non-current(1) |  | $ | 81 |  | $ | 114
+
+=== MRNA_10-Q_0001682852-26-000150:0028:3 | page 28 | table | section: '' | words 131 ===
+Land and land improvements |  | $ | 77 |  | $ | 78
+Building and building improvements |  | 1,216 |  |  | 1,183 | 
+Manufacturing and laboratory equipment |  | 550 |  |  | 542 | 
+Leasehold improvements |  | 409 |  |  | 403 | 
+Furniture, fixtures and other |  | 40 |  |  | 39 | 
+Computer equipment and software |  | 205 |  |  | 196 | 
+Construction in progress |  | 279 |  |  | 298 | 
+Right-of-use assets, financing (Note 10) |  | 132 |  |  | 132 | 
+Total |  | 2,908 |  |  | 2,871 | 
+Less: Accumulated depreciation |  | (849) |  |  | (737) | 
+Property, plant and equipment, net |  | $ | 2,059 |  | $ | 2,134
+
+=== MRNA_10-Q_0001682852-26-000150:0029:1 | page 29 | paragraph | section: '' | words 55 ===
+Depreciation and amortization expense related to property, plant and equipment for the three and six months ended June 30, 2026 was $56 million and $112 million, respectively. Depreciation and amortization expense related to property, plant and equipment for the three and six months ended June 30, 2025 was $56 million and $94 million, respectively. 20
+
+=== MRNA_10-Q_0001682852-26-000150:0030:1 | page 30 | paragraph | section: '' | words 137 ===
+Table of Contents 9. Other Balance Sheet Components Accounts Receivable, net Accounts receivable, net, as of June 30, 2026 and December 31, 2025 consisted of the following (in millions): June 30, December 31, 2026 2025 Prepaid Expenses and Other Current Assets Prepaid expenses and other current assets, as of June 30, 2026 and December 31, 2025 consisted of the following (in millions): June 30, December 31, 2026 2025 Other Non-Current Assets Other non-current assets, as of June 30, 2026 and December 31, 2025 consisted of the following (in millions): June 30, December 31, 2026 2025 _______ Consisted of raw materials with an anticipated consumption beyond one year. Includes a $66 million intangible asset related to a license recognized in connection with the settlement agreement with Arbutus and Genevant. See Note 12 for additional details. (1) (2) 21
+
+=== MRNA_10-Q_0001682852-26-000150:0030:2 | page 30 | table | section: '' | words 52 ===
+Accounts receivable |  | $ | 120 |  | $ | 368
+Less: Allowance for doubtful accounts |  | (6) |  |  | (3) | 
+Less: Wholesalers chargebacks, discounts and fees |  | (97) |  |  | (181) | 
+Accounts receivable, net |  | $ | 17 |  | $ | 184
+
+=== MRNA_10-Q_0001682852-26-000150:0030:3 | page 30 | table | section: '' | words 120 ===
+Prepaid services |  | $ | 146 |  | $ | 169
+Down payments and prepayments related to manufacturing and materials |  | 70 |  |  | 61 | 
+Interest receivable |  | 40 |  |  | 42 | 
+Prepaid income tax and income tax receivable |  | 36 |  |  | 41 | 
+Research and development funding receivable (Note 5) |  | 31 |  |  | — | 
+Value added tax receivable |  | 15 |  |  | 37 | 
+Collaboration receivable (Note 5) |  | — |  |  | 13 | 
+Other current assets |  | 42 |  |  | 45 | 
+Prepaid expenses and other current assets |  | $ | 380 |  | $ | 408
+
+=== MRNA_10-Q_0001682852-26-000150:0030:4 | page 30 | table | section: '' | words 91 ===
+Income tax receivable, non-current |  | $ | 161 |  | $ | 161
+Finite-lived intangible assets, net(2) |  | 109 |  |  | 45 | 
+Down payments and prepayments, non-current |  | 90 |  |  | 100 | 
+Deferred tax assets |  | 82 |  |  | 81 | 
+Inventory, non-current(1) |  | 81 |  |  | 114 | 
+Goodwill |  | 52 |  |  | 52 | 
+Other |  | 43 |  |  | 52 | 
+Other non-current assets |  | $ | 618 |  | $ | 605
+
+=== MRNA_10-Q_0001682852-26-000150:0031:1 | page 31 | paragraph | section: '' | words 119 ===
+Table of Contents Accrued Liabilities Accrued liabilities, as of June 30, 2026 and December 31, 2025 consisted of the following (in millions): June 30, December 31, 2026 2025 ______ Includes $950 million related to the litigation settlement with Arbutus and Genevant (Note 12). Related to losses that are expected to arise from firm, non-cancellable, commitments for future raw material purchases (Note 7). Other Current Liabilities Other current liabilities, as of June 30, 2026 and December 31, 2025 consisted of the following (in millions): June 30, December 31, 2026 2025 Other Non-Current Liabilities Other non-current liabilities, as of June 30, 2026 and December 31, 2025 consisted of the following (in millions): June 30, December 31, 2026 2025 (1) (2) 22
+
+=== MRNA_10-Q_0001682852-26-000150:0031:2 | page 31 | table | section: '' | words 134 ===
+Royalties(1) |  | $ | 954 |  | $ | 31
+Provisions related to product sales (Note 3) |  | 421 |  |  | 509 | 
+Compensation-related |  | 192 |  |  | 420 | 
+Manufacturing |  | 86 |  |  | 140 | 
+Development operations |  | 78 |  |  | 106 | 
+Other external goods and services |  | 58 |  |  | 57 | 
+Raw materials |  | 44 |  |  | 30 | 
+Clinical trials |  | 38 |  |  | 20 | 
+Property, plant and equipment |  | 18 |  |  | 45 | 
+Commercial |  | 18 |  |  | 23 | 
+Loss on future firm purchase commitments(2) |  | 2 |  |  | 5 | 
+Accrued liabilities |  | $ | 1,909 |  | $ | 1,386
+
+=== MRNA_10-Q_0001682852-26-000150:0031:3 | page 31 | table | section: '' | words 93 ===
+Estimated reimbursements to wholesalers and distributors |  | $ | 58 |  | $ | 84
+Lease liabilities - financing (Note 10) |  | 31 |  |  | 25 | 
+Lease liabilities - operating (Note 10) |  | 21 |  |  | 17 | 
+Collaboration liabilities (Note 5) |  | 15 |  |  | — | 
+Research and development funding liability (Note 5) |  | 14 |  |  | 43 | 
+Other |  | 24 |  |  | 16 | 
+Other current liabilities |  | $ | 163 |  | $ | 185
+
+=== MRNA_10-Q_0001682852-26-000150:0031:4 | page 31 | table | section: '' | words 34 ===
+Tax liabilities |  | $ | 255 |  | $ | 249
+Other |  | 29 |  |  | 36 | 
+Other non-current liabilities |  | $ | 284 |  | $ | 285
+
+=== MRNA_10-Q_0001682852-26-000150:0032:1 | page 32 | paragraph | section: '' | words 253 ===
+Table of Contents Deferred Revenue The following table summarizes the activities in deferred revenue for the six months ended June 30, 2026 (in millions): December 31, 2025 Additions Deductions June 30, 2026 10. Leases We have entered into various long-term, non-cancelable lease arrangements for our facilities and equipment, expiring at various times through 2039. Certain of these arrangements have free rent periods or escalating rent payment provisions. We recognize lease costs under such arrangements on a straight-line basis over the life of the lease. We lease various parcels of land, office, lab, and manufacturing spaces across the globe for our business operations. Our primary leased campus is our Moderna Science Center (MSC), located in Cambridge, which serves as our headquarters. The MSC, comprising approximately 462,000 square feet, includes our principal executive office and additional office and laboratory spaces. The MSC lease commenced in the third quarter of 2023 and has a term of 15 years, with options for two additional seven-year extensions. Operating and financing lease right-of-use assets and lease liabilities as of June 30, 2026 and December 31, 2025 were as follows (in millions): June 30, December 31, 2026 2025 _______ These assets are real estate related assets, which include land, office, manufacturing, and laboratory spaces. Net of accumulated amortization. These assets are related to contract manufacturing service agreements. Included in property, plant and equipment in the condensed consolidated balance sheets, net of accumulated depreciation. Included in other current liabilities in the condensed consolidated balance sheets. (1) (2) (3) (4) (5) 23
+
+=== MRNA_10-Q_0001682852-26-000150:0032:2 | page 32 | table | section: '' | words 64 ===
+Net product sales |  | $ | 107 |  | $ | 171 |  | $ | (13) |  | $ | 265
+Other revenue |  | 145 |  |  | 117 |  |  | (85) |  |  | 177 | 
+Total deferred revenue |  | $ | 252 |  | $ | 288 |  | $ | (98) |  | $ | 442
+
+=== MRNA_10-Q_0001682852-26-000150:0032:3 | page 32 | table | section: '' | words 156 ===
+Assets: |  |  |  |  |  | 
+Right-of-use assets, operating, net(1) (2) |  | $ | 697 |  | $ | 719
+Right-of-use assets, financing, net(3) (4) |  | 30 |  |  | 42 | 
+Total |  | $ | 727 |  | $ | 761
+ |  |  |  |  |  | 
+Liabilities: |  |  |  |  |  | 
+Current: |  |  |  |  |  | 
+Operating lease liabilities(5) |  | $ | 21 |  | $ | 17
+Financing lease liabilities(5) |  | 31 |  |  | 25 | 
+Total current lease liabilities |  | 52 |  |  | 42 | 
+Non-current: |  |  |  |  |  | 
+Operating lease liabilities, non-current |  | 638 |  |  | 653 | 
+Financing lease liabilities, non-current |  | 6 |  |  | 20 | 
+Total non-current lease liabilities |  | 644 |  |  | 673 | 
+Total |  | $ | 696 |  | $ | 715
+
+=== MRNA_10-Q_0001682852-26-000150:0033:1 | page 33 | paragraph | section: '' | words 317 ===
+Table of Contents Future minimum lease payments under our non-cancelable lease agreements as of June 30, 2026, were as follows (in millions): Fiscal Year Operating Leases Financing Leases 11. Credit Agreement In November 2025, we entered into a Credit and Guaranty Agreement (the Credit Agreement) with lenders led by Ares Capital Corporation, as administrative agent. The Credit Agreement provides for a senior secured term loan facility with aggregate term loan commitments of $1.5 billion, consisting of a $600 million initial term loan, which was funded at closing, and $900 million of delayed draw term loan commitments. The initial term loan matures on November 24, 2030. The delayed draw term loan commitments consist of (1) a $400 million delayed draw term loan facility (DDTL-1), which is available, subject to customary conditions, through November 24, 2027, and (2) a $500 million delayed draw term loan facility (DDTL-2), which is available, subject to customary conditions and the achievement of specified regulatory approval milestones for certain product candidates, through November 24, 2028. Borrowings under the Credit Agreement bear interest at a variable rate equal to, at our option, (i) Term SOFR plus a margin of 5.50% or (ii) a base rate plus a margin of 4.50%. The base rate is calculated as the highest of (a) the Wall Street Journal prime rate, (b) the federal funds rate plus one half of one percent and (c) Term SOFR plus one percent. We are also required to pay commitment fees on the undrawn portions of DDTL-1 and DDTL-2. The interest rate applicable to the initial term loan was approximately 9.20% and 9.38% as of June 30, 2026 and December 31, 2025, respectively. The obligations under the Credit Agreement are guaranteed by certain of our subsidiaries and are secured by a first-priority lien on substantially all of our assets, in each case subject to customary exceptions and limitations. The Credit Agreement is subject to
+
+=== MRNA_10-Q_0001682852-26-000150:0033:2 | page 33 | paragraph | section: '' | words 302 ===
+compliance with customary representations and warranties, affirmative covenants, restrictive covenants and events of default. The restrictive covenants, subject to specified limitations and exceptions, limit, among other things, our ability to incur additional indebtedness and liens, make certain investments, engage in certain fundamental changes, dispose of assets and make restricted payments. Events of default under the Credit Agreement include, among others, nonpayment of principal, interest or other amounts when due, failure to comply with covenants (subject to applicable notice and cure periods), breaches of certain representations and warranties, the occurrence of certain significant adverse events and certain insolvency-related events. The Credit Agreement also includes a financial covenant requiring us to maintain minimum cash and cash equivalents (as defined in the Credit Agreement, which primarily consist of our cash, cash equivalents, and available-for-sale securities) as of the last business day of each week of at least $500 million, increasing to $750 million if more than $1.0 billion is drawn under the Credit Agreement. The financial covenant is not required to be tested at any time that the trailing 30-day average market capitalization of the Company exceeds $5.0 billion and is subject to a customary equity cure. As of June 30, 2026 and December 31, 2025, we were in compliance with the applicable terms and covenants under the Credit Agreement. As of June 30, 2026 and December 31, 2025, the initial term loan had an outstanding principal balance of $600 million and a carrying amount of $591 million and $590 million, respectively, net of unamortized original issue discount and debt issuance costs. The carrying amount was classified as long-term debt in our condensed consolidated balance sheet. No amounts had been drawn under DDTL-1 or DDTL-2. The principal amount of $600 million is due in full at maturity, and no principal payments are required prior to 
+
+=== MRNA_10-Q_0001682852-26-000150:0033:3 | page 33 | table | section: '' | words 102 ===
+2026 | (remainder of the year) | $ | 30 |  | $ | 19
+2027 |  | 78 |  |  | 19 | 
+2028 |  | 81 |  |  | — | 
+2029 |  | 82 |  |  | — | 
+2030 |  | 80 |  |  | — | 
+Thereafter |  | 679 |  |  | — | 
+Total minimum lease payments |  | 1,030 |  |  | 38 | 
+Less amounts representing interest or imputed interest |  | (371) |  |  | (1) | 
+Present value of lease liabilities |  | $ | 659 |  | $ | 37
+
+=== MRNA_10-Q_0001682852-26-000150:0034:1 | page 34 | paragraph | section: '' | words 1 ===
+24
+
+=== MRNA_10-Q_0001682852-26-000150:0035:1 | page 35 | paragraph | section: '' | words 311 ===
+Table of Contents 12. Commitments and Contingencies Legal Proceedings We are a party to various legal proceedings and claims. Accruals are recognized for legal matters when a loss is both probable and reasonably estimable. As of June 30, 2026, no material contingent liabilities have been recognized. If a material loss is reasonably possible and we can estimate the amount or range of the loss, we disclose such information. Unless otherwise noted, either the outcome of these matters is not expected to be material, or the potential loss cannot be reasonably estimated. From time to time, we may be a party to litigation, arbitration, or other legal proceedings in the course of our business. The outcome of such matters is inherently uncertain and often involves significant judgment in assessing risk and estimating potential exposure. While we do not currently expect any pending proceedings to have a material adverse effect on our financial position, results of operations, or cash flows, there can be no assurance that future developments will not have a material impact. On March 3, 2026, we entered into a settlement agreement with Arbutus Biopharma Corporation (Arbutus) and Genevant Sciences GmbH (Genevant, and with Arbutus, Arbutus/Genevant) resolving all litigation worldwide, including between the parties in the U.S. District Court for the District of Delaware. The settlement resolves all worldwide Arbutus/Genevant litigation related to Spikevax and mRESVIA and provides certainty going forward for our full infectious disease portfolio, including mNEXSPIKE, mCOMBRIAX and our future vaccine pipeline, with no future royalties owed. Under the terms of the agreement, we agreed to make a lump sum payment of $950 million, which is payable in the third quarter of 2026. In the three months ended March 31, 2026, we recorded $876 million in cost of sales and capitalized $74 million as an intangible asset on the settlement date, representing the estimated value attributed to a
+
+=== MRNA_10-Q_0001682852-26-000150:0035:2 | page 35 | paragraph | section: '' | words 310 ===
+license to certain intellectual property rights, which is being amortized on a straight-line basis over an estimated useful life of approximately three years. As of June 30, 2026, the carrying value of the intangible asset was $66 million. Consistent with the terms of the settlement agreement, we have appealed the District Court’s decision related to 28 U.S.C. § 1498 to the Federal Circuit Court of Appeals and could be required to make an additional payment of up to $1.3 billion depending on the outcome of the appeal. As of June 30, 2026, no accrual has been recorded for this amount as a loss is not considered probable. The following summarizes our other significant legal proceedings and matters outstanding as of June 30, 2026. We have brought patent-infringement actions against Pfizer Inc. (Pfizer), BioNTech SE (BioNTech) and related entities in the U.S., Germany, the Netherlands, the UK, Ireland and Belgium concerning our mRNA platform technology and disease-specific vaccine designs. Pfizer and BioNTech have commenced actions or asserted defenses seeking to revoke our patents in these jurisdictions. GlaxoSmithKline Biologicals SA (GSK) has filed two complaints against us in the U.S. District Court for the District of Delaware asserting certain patents owned by GSK. GSK has also filed two patent-infringement lawsuits against us in the UPC concerning liposomes and modified liposomes for RNA delivery. Northwestern University has filed a complaint against us in the U.S. District Court for the District of Delaware asserting U.S. patents concerning lipid nanoparticle technology. Bayer CropSciences LLC, Monsanto Company, and Monsanto Technology, LLC have filed a complaint against us in the U.S. District Court for the District of Delaware asserting a U.S. patent directed to methods of modifying gene sequences. mNG Bio, LLC has filed a complaint against us in the U.S District Court for the District of Massachusetts asserting a U.S. patent directed to a yellow-green fluores
+
+=== MRNA_10-Q_0001682852-26-000150:0035:3 | page 35 | paragraph | section: '' | words 71 ===
+BioNTech SE has filed a complaint against us in the U.S. District Court for the District of Delaware asserting a U.S. patent directed to modified mRNA compositions encoding a spike protein fragment. CureVac SE and CureVac Manufacturing GmbH have filed a complaint against us in the U.S. District Court for the District of Delaware asserting U.S. patents directed to RNA production methods and compositions with RNA encoding modified SARS-CoV-2 spike protein.
+
+=== MRNA_10-Q_0001682852-26-000150:0036:1 | page 36 | paragraph | section: '' | words 48 ===
+Translate Bio, Inc., Translate Bio MA, Inc., Sanofi Vaccines US, Inc., and VaxServe, Inc. (all subsidiaries of Sanofi SA) have filed a complaint against us in the U.S. District Court for the District of New Jersey asserting U.S. patents related to compositions and methods for mRNA delivery. 25
+
+=== MRNA_10-Q_0001682852-26-000150:0037:1 | page 37 | paragraph | section: '' | words 274 ===
+Table of Contents We are subject to shareholder class action and shareholder derivative litigation pending in the U.S. District Court for the District of Massachusetts related to statements about our RSV vaccine (mRNA-1345). Indemnification Obligations As permitted under Delaware law, we indemnify our officers, directors, and employees for certain events, occurrences while the officer, or director is, or was, serving at our request in such capacity. The term of the indemnification is for the officer’s or director’s lifetime. We have standard indemnification arrangements in our leases for laboratory and office space that require us to indemnify the landlord against any liability for injury, loss, accident, or damage from any claims, actions, proceedings, or costs resulting from certain acts, breaches, violations, or non-performance under our leases. We enter into indemnification provisions under our agreements with counterparties in the ordinary course of business, typically with business partners, contractors, clinical sites and customers. Under these provisions, we generally indemnify and hold harmless the indemnified party for losses suffered or incurred by the indemnified party as a result of our activities. These indemnification provisions generally survive termination of the underlying agreement. The maximum potential amount of future payments we could be required to make under these indemnification provisions is unlimited. Through the three and six months ended June 30, 2026 and the year ended December 31, 2025, we had not experienced any material losses related to these indemnification obligations, and no material claims were outstanding. We do not expect significant claims related to these indemnification obligations and, consequently, concluded that the fair value of these obligations is negligible, and no related reserves were established. Licenses to Patented Technology
+
+=== MRNA_10-Q_0001682852-26-000150:0037:2 | page 37 | paragraph | section: '' | words 286 ===
+We have patent license agreements with Cellscript, LLC and its affiliate, mRNA RiboTherapeutics, Inc., and the National Institute of Allergy and Infectious Diseases (NIAID), an Institute of the National Institutes of Health (NIH). Under these agreements, we are required to pay royalties and certain milestone payments. For further information on our licensing and royalty payments, please refer to our 2025 Form 10-K under the heading “Business—Intellectual Property—In-licensed intellectual property” and Note 12 to our consolidated financial statements contained therein. In January 2025, we entered into a non-exclusive patent license agreement with NIAID to license certain patent rights related to the development of mRNA-based vaccines for the prevention or treatment of RSV infection. Upon execution of the agreement, we made a total payment of $10 million, which was capitalized as an intangible asset and is amortized to cost of sales on a straight-line basis over the estimated useful life of the licensed patents. In addition, we are obligated to pay low single-digit royalties on future net sales of licensed products. For the three and six months ended June 30, 2026, we recognized $11 million and $906 million, respectively, of royalty expenses associated with our product sales, including amortization of certain intangible assets. The royalty expense recognized for the three and six months ended June 30, 2026 included $6 million and $884 million, respectively, related to the litigation settlement with Arbutus and Genevant. For the three and six months ended June 30, 2025, we recognized $6 million and $11 million, respectively, of royalty expenses. These royalty expenses were recorded to cost of sales in our condensed consolidated statements of operations. Additionally, we have other in-license agreements with third parties which require us to make future development, regulatory and
+
+=== MRNA_10-Q_0001682852-26-000150:0037:3 | page 37 | paragraph | section: '' | words 28 ===
+commercial milestone payments and sales-based royalties for specified products associated with the agreements. The achievement of these milestones have not yet occurred as of June 30, 2026. 26
+
+=== MRNA_10-Q_0001682852-26-000150:0038:1 | page 38 | paragraph | section: '' | words 150 ===
+Table of Contents 13. Stock-Based Compensation and Share Repurchase Programs Stock-Based Compensation The following table presents the components and classification of stock-based compensation expense for the three and six months ended June 30, 2026 and 2025 as follows (in millions): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 As of June 30, 2026, there was $831 million of total unrecognized compensation cost related to unvested stock-based compensation with respect to options, RSUs and PSUs granted. That cost is expected to be recognized over a weighted-average period of 2.8 years as of June 30, 2026. Share Repurchase Programs As of June 30, 2026, $1.7 billion of our Board of Directors’ authorization for repurchases of our common stock (the 2022 Repurchase Programs) remains outstanding, with no expiration date. There were no shares repurchased during the three and six months ended June 30, 2026 or 2025. 27
+
+=== MRNA_10-Q_0001682852-26-000150:0038:2 | page 38 | table | section: '' | words 208 ===
+Options |  | $ | 29 |  | $ | 41 |  | $ | 53 |  |  | $ | 80
+Restricted Stock Units (RSUs) |  | 85 |  |  | 85 |  |  | 160 |  |  |  | 156 | 
+Performance Stock Units (PSUs) |  | 4 |  |  | 2 |  |  | 7 |  |  |  | 3 | 
+Employee Stock Purchase Plan (ESPP) |  | 2 |  |  | 2 |  |  | 4 |  |  |  | 6 | 
+Total |  | $ | 120 |  | $ | 130 |  | $ | 224 |  |  | $ | 245
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+Cost of sales |  | $ | 13 |  | $ | 7 |  | $ | 16 |  |  | $ | 14
+Research and development |  | 64 |  |  | 81 |  |  | 128 |  |  |  | 150 | 
+Selling, general and administrative |  | 43 |  |  | 42 |  |  | 80 |  |  |  | 81 | 
+Total |  | $ | 120 |  | $ | 130 |  | $ |  | 224 |  | $ | 245
+
+=== MRNA_10-Q_0001682852-26-000150:0039:1 | page 39 | paragraph | section: '' | words 324 ===
+Table of Contents 14. Income Taxes The following table summarizes our income tax expense for the periods presented (in millions, except for percentages): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 The effective tax rate for the three and six months ended June 30, 2026 was higher than the statutory rate, primarily due to our global valuation allowance, which limits our ability to recognize tax benefits from the loss. The higher effective tax rate was also impacted by certain of our foreign subsidiaries that have taxable income, while we incurred a net loss before income taxes in other jurisdictions. The effective tax rate for the three months ended June 30, 2026 was consistent with the same period in 2025, primarily due to the continued maintenance of global valuation allowance. For additional details regarding our deferred tax assets and the policies governing our valuation allowance, please refer to Note 14 to our consolidated financial statements in our 2025 Form 10-K. We periodically reassess the need for valuation allowances on our deferred tax assets, considering both positive and negative evidence to evaluate whether it is more likely than not that all or a portion of such assets will not be realized. Significant management judgment is required in assessing the realizability of our deferred tax assets. In the event that actual results differ from our estimates, we adjust our estimates in future periods and we may need to modify our valuation allowance, which could materially impact our financial position and results of operations. We file income tax returns in the U.S. and various state, local and foreign jurisdictions. The income tax returns of all material taxing jurisdictions remain open to tax examination for all tax years since our date of incorporation in those jurisdictions. As of June 30, 2026, we are under audit in various U.S. and foreign jurisdictions. No adjustments to our tax positions have been proposed at this time
+
+=== MRNA_10-Q_0001682852-26-000150:0039:2 | page 39 | paragraph | section: '' | words 97 ===
+15. Net loss per Share The computation of basic earnings (loss) per share (EPS) is based on the weighted-average number of our common shares outstanding. The computation of diluted EPS is based on the weighted-average number of our common shares outstanding and potential dilutive common shares during the period as determined by using the treasury stock method. Basic and diluted EPS for the three and six months ended June 30, 2026 and 2025 were calculated as follows (in millions, except per share data): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025
+
+=== MRNA_10-Q_0001682852-26-000150:0039:3 | page 39 | table | section: '' | words 83 ===
+Loss before income taxes |  | $ | (767) |  |  | $ | (818) |  |  | $ | (2,101) |  |  | $ | (1,782) | 
+Provision for income taxes |  | $ | 15 |  |  | $ | 7 |  |  | $ | 24 |  |  | $ | 14 | 
+Effective tax rate |  | (1.9) |  | % |  | (0.9) |  | % |  | (1.1) |  | % |  | (0.8) |  | %
+
+=== MRNA_10-Q_0001682852-26-000150:0039:4 | page 39 | table | section: '' | words 173 ===
+Numerator: |  |  |  |  |  |  |  |  |  |  |  |  | 
+Net loss |  | $ | (782) |  |  | $ | (825) |  | $ | (2,125) |  | $ | (1,796)
+Denominator: |  |  |  |  |  |  |  |  |  |  |  |  | 
+Basic and diluted weighted-average common shares outstanding |  | 398 |  |  |  | 388 |  |  | 396 |  |  | 387 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+Basic and diluted EPS |  | $ | (1.97) |  |  | $ | (2.13) |  | $ | (5.36) |  | $ | (4.64)
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+Common stock equivalents excluded from the EPS computation above because their inclusion would have been anti-dilutive |  | 42 |  |  |  | 46 |  |  | 42 |  |  | 46 | 
+ |  |  |  | 42 |  |  |  |  |  |  |  |  |
+
+=== MRNA_10-Q_0001682852-26-000150:0040:1 | page 40 | paragraph | section: '' | words 1 ===
+28
+
+=== MRNA_10-Q_0001682852-26-000150:0041:1 | page 41 | paragraph | section: '' | words 297 ===
+Table of Contents 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS You should read the following discussion and analysis of our financial condition and results of operations together with our unaudited financial information and related notes included in this Form 10-Q and our consolidated financial statements and related notes and other financial information in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025, which was filed with the Securities and Exchange Commission (the SEC) on February 20, 2026 (the 2025 Form 10-K). Overview We are a biotechnology company advancing a new class of medicines made of messenger RNA (mRNA). mRNA medicines are designed to direct the body’s cells to produce intracellular, membrane or secreted proteins that have a therapeutic or preventive benefit with the potential to address a broad spectrum of diseases. Our platform builds on continuous advances in basic and applied mRNA science, delivery technology and manufacturing, providing us the capability to pursue in parallel a robust pipeline of new development candidates. We are developing medicines across infectious disease vaccines, oncology therapeutics and rare disease therapeutics. Since our founding in 2010, we have transformed from a research-stage company advancing programs in the field of mRNA to a commercial enterprise with a diverse clinical portfolio of vaccines and therapeutics across several modalities, a broad intellectual property portfolio and integrated manufacturing capabilities that allow for rapid clinical and commercial production at scale. We currently have four approved products—Spikevax and mNEXSPIKE , our COVID vaccines; mRESVIA , our vaccine against respiratory syncytial virus (RSV); and mCOMBRIAX , our flu plus COVID combination vaccine, which was approved in Europe for individuals 50 years of age and older. We also have a diverse development pipeline of 26 development candidates across our 36
+
+=== MRNA_10-Q_0001682852-26-000150:0041:2 | page 41 | paragraph | section: '' | words 294 ===
+development programs currently in clinical studies. Business Highlights European Commission Marketing Authorization for mCOMBRIAX In April 2026, we received marketing authorization from the European Commission (EC) for mCOMBRIAX (mRNA-1083), our mRNA combination vaccine for the prevention of influenza disease and COVID-19 in individuals 50 years of age and older. The marketing authorization follows a positive opinion from the European Medicines Agency's (EMA) Committee for Medicinal Products for Human Use (CHMP) and is valid in all 27 European Union (EU) member states, as well as Iceland, Liechtenstein and Norway. mCOMBRIAX is our fourth authorized product and further strengthens our respiratory portfolio and commitment to the EU. The vaccine builds on advances from the clinical development of mNEXSPIKE and mRNA-1010, our investigational seasonal influenza vaccine. mCOMBRIAX will be made available across the EU, subject to national regulatory and access procedures, and we are working with national authorities to support local access and implementation. FDA Advisory Committee Positive Recommendation for mRNA-1010 In June 2026, the U.S. Food and Drug Administration's (FDA) Vaccines and Related Biological Products Advisory Committee (VRBPAC) voted unanimously that the benefits of mRNA-1010 outweigh its risks for the prevention of influenza disease in adults 50 through 64 years of age and in adults 65 years of age and older. The recommendation was based on data from our Phase 3 clinical development program and supports the FDA's ongoing review of our Biologics License Application (BLA) for mRNA-1010. The FDA has assigned a Prescription Drug User Fee Act (PDUFA) goal date of August 5, 2026. Expanded Strategic Collaboration with CEPI In June 2026, we expanded our strategic collaboration with the Coalition for Epidemic Preparedness Innovations (CEPI) to advance the development of a potential vaccine against Bundibugyo ebolavirus (BDBV), a cause of Ebola virus disease for w
+
+=== MRNA_10-Q_0001682852-26-000150:0041:3 | page 41 | paragraph | section: '' | words 106 ===
+currently no licensed vaccines indicated. Under the agreement, CEPI has committed up to $50 million to support preclinical development and Phase 1 clinical evaluation of our investigational BDBV vaccine candidate, as well as parallel manufacturing activities to enable doses to be produced while clinical evaluation is underway and support rapid advancement into Phase 2/3 clinical trials, if warranted. The program builds on our existing research and development efforts in filoviruses, including Ebola-related viruses, and expands our longstanding strategic collaboration with CEPI to accelerate the development of vaccines and other countermeasures against epidemic and pandemic threats. Total Revenue and Net Loss Per Share ® ® ® ®
+
+=== MRNA_10-Q_0001682852-26-000150:0042:1 | page 42 | paragraph | section: '' | words 50 ===
+For the second quarter of 2026, we recognized total revenue of $145 million, compared to $142 million for the second quarter of 2025. Net loss per share was $(1.97) for the second quarter of 2026, compared to net loss per share of $(2.13) for the second quarter of 2025. 29
+
+=== MRNA_10-Q_0001682852-26-000150:0043:1 | page 43 | paragraph | section: '' | words 299 ===
+Table of Contents Recent Program Developments Infectious Disease Vaccines • Seasonal flu + COVID vaccine: We received EC marketing authorization for mCOMBRIAX in the EU and our mRNA-1083 regulatory filings are under review in Japan, Canada and Australia. We are awaiting further guidance from the FDA on refiling the submission for our flu plus COVID combination vaccine. • Seasonal flu vaccine: Our mRNA-1010 regulatory filings are under review in Europe, Canada and Australia, and potential approvals are expected to begin in 2026. The FDA has assigned a PDUFA date for mRNA-1010 of August 5, 2026. • Norovirus vaccine: Our Phase 3 safety and efficacy study of mRNA-1403 did not meet statistical criteria for early success at the Phase 3 interim analysis. The trial is ongoing and remains blinded as we work toward enrolling an additional cohort. Oncology Therapeutics • Intismeran autogene: We are advancing mRNA-4157 in collaboration with Merck, with nine total Phase 2 and Phase 3 clinical trials underway across multiple tumor types, including melanoma, non-small cell lung cancer (NSCLC), bladder cancer and renal cell carcinoma. This includes the Phase 3 study of intismeran as monotherapy and in combination with KEYTRUDA QLEX for the treatment of high-risk Stage 1 NSCLC. Fully enrolled studies include a Phase 3 adjuvant melanoma, a Phase 2 adjuvant renal cell carcinoma, and a Phase 2 adjuvant muscle invasive bladder cancer. We expect Phase 3 adjuvant melanoma data potentially in 2026. We recently presented positive five-year Phase 2b adjuvant melanoma data at the 2026 American Society of Clinical Oncology (ASCO) Annual Meeting. The data showed a sustained benefit with intismeran in combination with KEYTRUDA, reducing the risk of recurrence or death by 49% compared to KEYTRUDA alone. • mRNA-4359. Our Phase 1/2 study of mRNA-4359, an investigational wholly-owned cancer antigen therapy, is ongoing. The
+
+=== MRNA_10-Q_0001682852-26-000150:0043:2 | page 43 | paragraph | section: '' | words 72 ===
+Phase 2 portion of the study includes cohorts in first-line metastatic melanoma, second-line+ metastatic melanoma and first- line metastatic NSCLC. Rare Disease Therapeutics • Propionic acidemia (PA) therapeutic: Our investigational therapeutic for PA (mRNA-3927) is in a registrational study and target enrollment has been reached. We expect potential data in 2026. • Methylmalonic acidemia (MMA) therapeutic: We deferred our decision on a pivotal trial for mRNA-3705 until PA registrational data readout. 30
+
+=== MRNA_10-Q_0001682852-26-000150:0044:1 | page 44 | paragraph | section: '' | words 20 ===
+Table of Contents Our Pipeline The following chart shows our current pipeline of 36 development programs across our several modalities.
+
+=== MRNA_10-Q_0001682852-26-000150:0045:1 | page 45 | paragraph | section: '' | words 41 ===
+Abbreviations: CMV, cytomegalovirus; EBV, Epstein-Barr virus; HIV, human immunodeficiency virus; hMPV, human metapneumovirus; MIBC, muscle invasive bladder cancer; NMIBC, non-muscle invasive bladder cancer; NSCLC, non-small cell lung cancer; pCR, pathological complete response; RCC, renal cell carcinoma; RSV, respiratory syncytial virus. 31
+
+=== MRNA_10-Q_0001682852-26-000150:0046:1 | page 46 | paragraph | section: '' | words 64 ===
+Table of Contents Results of operations The following table summarizes our condensed consolidated statements of operations for the periods presented (in millions): Three Months Ended June 30, Change 2026 vs. 2025 2026 2025 $ % Six Months Ended June 30, Change 2026 vs. 2025 2026 2025 $ % Revenue Net product sales Net product sales by customer geographic location were as follows (in millions):
+
+=== MRNA_10-Q_0001682852-26-000150:0046:2 | page 46 | table | section: '' | words 250 ===
+Revenue: |  |  |  |  |  |  |  |  |  | 
+Net product sales | $ | 94 |  | $ | 114 |  | $ | (20) |  | (18)%
+Other revenue | 51 |  |  | 28 |  |  | 23 |  |  | 82%
+Total revenue | 145 |  |  | 142 |  |  | 3 |  |  | 2%
+Operating expenses: |  |  |  |  |  |  |  |  |  | 
+Cost of sales | 93 |  |  | 119 |  |  | (26) |  |  | (22)%
+Research and development | 651 |  |  | 700 |  |  | (49) |  |  | (7)%
+Selling, general and administrative | 216 |  |  | 230 |  |  | (14) |  |  | (6)%
+Total operating expenses | 960 |  |  | 1,049 |  |  | (89) |  |  | (8)%
+Loss from operations | (815) |  |  | (907) |  |  | 92 |  |  | (10)%
+Interest income | 67 |  |  | 81 |  |  | (14) |  |  | (17)%
+Other (expense) income, net | (19) |  |  | 8 |  |  | (27) |  |  | (338)%
+Loss before income taxes | (767) |  |  | (818) |  |  | 51 |  |  | (6)%
+Provision for income taxes | 15 |  |  | 7 |  |  | 8 |  |  | 114%
+Net loss | $ | (782) |  | $ | (825) |  | $ | 43 |  | (5)%
+
+=== MRNA_10-Q_0001682852-26-000150:0046:3 | page 46 | table | section: '' | words 250 ===
+Revenue: |  |  |  |  |  |  |  |  |  | 
+Net product sales | $ | 446 |  | $ | 200 |  | $ | 246 |  | 123%
+Other revenue | 88 |  |  | 50 |  |  | 38 |  |  | 76%
+Total revenue | 534 |  |  | 250 |  |  | 284 |  |  | 114%
+Operating expenses: |  |  |  |  |  |  |  |  |  | 
+Cost of sales | 1,048 |  |  | 209 |  |  | 839 |  |  | 401%
+Research and development | 1,300 |  |  | 1,556 |  |  | (256) |  |  | (16)%
+Selling, general and administrative | 389 |  |  | 442 |  |  | (53) |  |  | (12)%
+Total operating expenses | 2,737 |  |  | 2,207 |  |  | 530 |  |  | 24%
+Loss from operations | (2,203) |  |  | (1,957) |  |  | (246) |  |  | 13%
+Interest income | 139 |  |  | 171 |  |  | (32) |  |  | (19)%
+Other (expense) income, net | (37) |  |  | 4 |  |  | (41) |  |  | (1,025)%
+Loss before income taxes | (2,101) |  |  | (1,782) |  |  | (319) |  |  | 18%
+Provision for income taxes | 24 |  |  | 14 |  |  | 10 |  |  | 71%
+Net loss | $ | (2,125) |  | $ | (1,796) |  | $ | (329) |  | 18%
+
+=== MRNA_10-Q_0001682852-26-000150:0047:1 | page 47 | paragraph | section: '' | words 15 ===
+Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 32
+
+=== MRNA_10-Q_0001682852-26-000150:0047:2 | page 47 | table | section: '' | words 79 ===
+United States |  | $ | 70 |  | $ | 88 |  | $ | 143 |  | $ | 119
+Europe |  | 16 |  |  | — |  |  | 255 |  |  | — | 
+Rest of world |  | 8 |  |  | 26 |  |  | 48 |  |  | 81 | 
+Total |  | $ | 94 |  | $ | 114 |  | $ | 446 |  | $ | 200
+
+=== MRNA_10-Q_0001682852-26-000150:0048:1 | page 48 | paragraph | section: '' | words 303 ===
+Table of Contents Net product sales by product were as follows (in millions): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 _______ Includes sales of Spikevax and mNEXSPIKE. As of June 30, 2026, we have four approved products, our COVID vaccines, Spikevax and mNEXSPIKE, our RSV vaccine, mRESVIA, and our flu and COVID combination vaccine, mCOMBRIAX, which has received EC marketing authorization in the EU. We launched commercial sales of mNEXSPIKE in the third quarter of 2025. As of June 30, 2026, mCOMBRIAX had not been commercialized. We sell our COVID vaccines, Spikevax and mNEXSPIKE, to the commercial market as well as to governments and international organizations. In the U.S., our COVID and RSV vaccines are sold primarily to wholesalers and distributors, and to a lesser extent, directly to retailers and healthcare providers. Net product sales are recognized net of estimated wholesaler chargebacks, invoice discounts for prompt payments and pre-orders, provisions for sales returns and government rebates, and other related deductions. The following table summarizes product sales provision adjustments for the periods presented (in millions): Three Months Ended June 30, Six Months Ended June 30, 2026 2025 2026 2025 Certain agreements may include upfront payments for our vaccine supply, initially recorded as deferred revenue. As of June 30, 2026, we had deferred revenue of $265 million related to product sales, of which $207 million is expected to be realized in less than one year. Other revenue Other revenue comprises grant revenue, collaboration revenue, licensing and royalty revenue, and stand-ready manufacturing revenue. For the three months ended June 30, 2026, total revenue increased by $3 million, or 2%, compared to the same period in 2025. Net product sales decreased by $20 million, or 18%, primarily due to lower COVID vaccine sales in the United States and South America,
+
+=== MRNA_10-Q_0001682852-26-000150:0048:2 | page 48 | paragraph | section: '' | words 144 ===
+partially offset by product deliveries in the United Kingdom. The decrease in net product sales was offset by higher stand-ready manufacturing revenue from related facilities and higher collaboration revenue, primarily related to our collaboration with Recordati for our investigational propionic acidemia therapeutic, mRNA-3927. For the six months ended June 30, 2026, total revenue increased by $284 million, or 114%, compared to the same period in 2025. Net product sales increased by $246 million, or 123%, primarily due to higher COVID vaccine sales in international markets, driven by deliveries under long-term strategic partnerships with government entities. Other revenue also increased, primarily reflecting higher stand-ready manufacturing revenue, including from facilities that became operational during the second half of 2025, and higher collaboration revenue. Product sales are expected to return to growth in 2026, supported by the full-year impact of long-term strategic partnerships with government entities. (1)
+
+=== MRNA_10-Q_0001682852-26-000150:0048:3 | page 48 | table | section: '' | words 60 ===
+COVID (1) |  | $ | 91 |  | $ | 114 |  | $ | 436 |  | $ | 198
+RSV |  | 3 |  |  | — |  |  | 10 |  |  | 2 | 
+Total |  | $ | 94 |  | $ | 114 |  | $ | 446 |  | $ | 200
+
+=== MRNA_10-Q_0001682852-26-000150:0048:4 | page 48 | table | section: '' | words 128 ===
+Gross product sales |  | $ | 122 |  | $ | 176 |  | $ | 472 |  | $ | 281
+Product sales provision: |  |  |  |  |  |  |  |  |  |  |  | 
+Wholesaler chargebacks, discounts and fees |  | (50) |  |  | (62) |  |  | (39) |  |  | (84) | 
+Returns, rebates and other fees |  | 22 |  |  | — |  |  | 13 |  |  | 3 | 
+Total product sales provision adjustments |  | $ | (28) |  | $ | (62) |  | $ | (26) |  | $ | (81)
+Net product sales |  | $ | 94 |  | $ | 114 |  | $ | 446 |  | $ | 200
+
+=== MRNA_10-Q_0001682852-26-000150:0049:1 | page 49 | paragraph | section: '' | words 1 ===
+33
+
+=== MRNA_10-Q_0001682852-26-000150:0050:1 | page 50 | paragraph | section: '' | words 304 ===
+Table of Contents Operating expenses Cost of sales Cost of sales for the three months ended June 30, 2026 was $93 million, which included inventory write-downs of $41 million, unutilized manufacturing capacity costs of $23 million, and third-party royalties of $11 million. Cost of sales for the six months ended June 30, 2026 was $1.0 billion, which included third-party royalties of $906 million, inventory write-downs of $79 million, and unutilized manufacturing capacity costs of $25 million. Third-party royalties included $6 million and $884 million for the three and six months ended June 30, 2026, respectively, related to the litigation settlement with Arbutus and Genevant and amortization of the associated intangible asset. Please refer to Note 12, Commitments and Contingencies, to our condensed consolidated financial statements for additional information. Inventory write-downs in 2026 primarily related to our finished and semi-finished vaccine inventory and raw materials relative to updated demand forecasts, shelf-life expiration and other adjustments. Please refer to Note 7 to our condensed consolidated financial statements for inventory related charges. Cost of sales for the three months ended June 30, 2026 decreased by $26 million, or 22%, compared to the same period in 2025. Cost of sales as a percentage of net product sales and stand-ready manufacturing revenue for the three months ended June 30, 2026 was 74%, compared to 91% for the same period in 2025. The decreases were primarily due to lower unutilized manufacturing capacity costs. Cost of sales for the six months ended June 30, 2026 increased by $839 million, or 401%, compared to the same period in 2025. Cost of sales as a percentage of net product sales and stand-ready manufacturing revenue for the six months ended June 30, 2026 was 206%, compared to 91% for the same period in 2025. The increase was primarily driven by litigation settlement-related expenses. Excluding
+
+=== MRNA_10-Q_0001682852-26-000150:0050:2 | page 50 | paragraph | section: '' | words 295 ===
+these expenses, cost of sales and cost of sales as a percentage of net product sales and stand-ready manufacturing revenue for the six months ended June 30, 2026 decreased by 59% and 65 percentage points, respectively, compared to the same period in 2025, primarily due to lower unutilized manufacturing capacity costs and losses on firm purchase commitments, partially offset by higher sales volume. In 2026, we anticipate a modest decrease in cost of sales compared to 2025, reflecting continued manufacturing productivity improvements and operational efficiencies. This expectation excludes the impact of the settlement with Arbutus and Genevant, for which we recorded $884 million in cost of sales during the first half of 2026 and expect additional amortization expense in the remainder of the year. Excluding this impact, to the extent net product sales increase, cost of sales as a percentage of net product sales and stand-ready revenue will decrease moderately. Research and development expenses Research and development expenses decreased by $49 million, or 7%, for the three months ended June 30, 2026, compared to the same period in 2025. This reduction was primarily due to lower clinical trial expenses of $76 million, personnel-related costs and stock-based compensation of $27 million, and outside services of $18 million, partially offset by a $62 million benefit recognized in the second quarter of 2025 under the Blackstone research and development funding arrangement, due to revisions of prior period estimates. For the six months ended June 30, 2026, research and development expenses decreased by $256 million, or 16%, compared to the same period in 2025. This decrease primarily reflected lower clinical trial expenses of $119 million, personnel-related costs and stock-based compensation of $77 million, and outside services of $49 million. The lower clinical trial expenses for both periods were primarily
+
+=== MRNA_10-Q_0001682852-26-000150:0050:3 | page 50 | paragraph | section: '' | words 237 ===
+driven by the wind-down of several late-stage programs, including the Company's flu plus COVID combination vaccine, as well as its congenital CMV and norovirus programs. The decrease in personnel-related costs and stock-based compensation for both periods primarily reflected portfolio reprioritization and associated resource realignment. We anticipate a modest reduction in research and development expenses in 2026 compared to 2025, primarily driven by the wind-down of several late-stage programs, continued disciplined cost management, and a focused approach to pipeline execution. We remain committed to advancing our pipeline and late-stage programs, including our oncology and rare disease programs, while continuing to manage research and development investment levels in line with our long-term objectives. Selling, general and administrative expenses Selling, general and administrative expenses decreased by $14 million, or 6%, for the three months ended June 30, 2026, compared to the same period in 2025. The decrease was primarily driven by continued cost discipline across the organization, including reduced commercial and marketing-related spending, lower employee-related costs and other operating expenses. For the six months ended June 30, 2026, selling, general and administrative expenses decreased by $53 million, or 12%, compared to the same period in 2025. This decrease for the six-month period primarily reflected lower employee-related costs and stock-based compensation of $25 million, reduced commercial and marketing-related spending of $15 million, and lower other operating expenses. The decreases in both periods reflected continued cost discipline and efficiencies across the organization.
+
+=== MRNA_10-Q_0001682852-26-000150:0051:1 | page 51 | paragraph | section: '' | words 1 ===
+34
+
+=== MRNA_10-Q_0001682852-26-000150:0052:1 | page 52 | paragraph | section: '' | words 324 ===
+Table of Contents We expect selling, general and administrative expenses in 2026 to remain at a level relatively consistent with 2025, reflecting an efficient and scalable operating structure. While we will continue to make selective investments to support our key priorities, including our global commercial and regulatory activities, we expect these investments to be largely offset by ongoing efficiency initiatives and disciplined resource allocation. Interest income For the three months ended June 30, 2026, interest income decreased by $14 million, or 17%, compared to the same period in 2025. For the six months ended June 30, 2026, interest income decreased by $32 million, or 19%, compared to the same period in 2025. The decrease in each period was primarily due to lower average investment balances and interest rates. Other expense, net The following tables summarize other expense, net for the periods presented (in millions): Three Months Ended June 30, Change 2026 vs. 2025 2026 2025 $ % Six Months Ended June 30, Change 2026 vs. 2025 2026 2025 $ % For the three and six months ended June 30, 2026, we recorded total other expense, net of $19 million and $37 million, respectively, compared to total other income, net of $8 million and $4 million for the same periods in 2025. The increase in other expense, net for the three and six months ended June 30, 2026, was largely driven by higher interest expense and lower net gains on foreign currency transactions. Interest expense is primarily related to our long-term debt issued in November 2025 and finance leases related to certain contract manufacturing service agreements. Please refer to Note 10 and Note 11 to our condensed consolidated financial statements for additional information. Income taxes Provision for income taxes increased by $8 million and $10 million, or 114% and 71%, for the three and six months ended June 30, 2026, compared to the same periods in 2025, primarily because certain of our foreign subsidiaries ge
+
+=== MRNA_10-Q_0001682852-26-000150:0052:2 | page 52 | paragraph | section: '' | words 47 ===
+while we incurred a consolidated pre-tax loss. The effective tax rate continues to reflect the maintenance of our global valuation allowance, which limits our ability to recognize tax benefits from the losses. Please refer to Note 14 to our condensed consolidated financial statements for additional details. 35
+
+=== MRNA_10-Q_0001682852-26-000150:0052:3 | page 52 | table | section: '' | words 59 ===
+Interest expense | $ | (17) |  | $ | (1) |  | $ | (16) |  | 1,600%
+Other (expense) income, net | (2) |  |  | 9 |  |  | (11) |  |  | (122)%
+Total other (expense) income, net | $ | (19) |  | $ | 8 |  | $ | (27) |  | (338)%
+
+=== MRNA_10-Q_0001682852-26-000150:0052:4 | page 52 | table | section: '' | words 76 ===
+Loss on investments | $ | (1) |  | $ | (7) |  | $ | 6 |  | (86)%
+Interest expense | (34) |  |  | (2) |  |  | (32) |  |  | 1,600%
+Other (expense) income, net | (2) |  |  | 13 |  |  | (15) |  |  | (115)%
+Total other (expense) income, net | $ | (37) |  | $ | 4 |  | $ | (41) |  | (1,025)%
+
+=== MRNA_10-Q_0001682852-26-000150:0053:1 | page 53 | paragraph | section: '' | words 303 ===
+Table of Contents Liquidity and capital resources The following table summarizes our cash, cash equivalents, investments and working capital as of June 30, 2026 and December 31, 2025 (in millions): June 30, December 31, 2026 2025 Our cash, cash equivalents and investments are invested in accordance with our investment policy, primarily with a view to liquidity and capital preservation. Investments, consisting primarily of government and corporate debt securities, are stated at fair value. Cash, cash equivalents and investments as of June 30, 2026 decreased by $1.2 billion, or 15%, compared to December 31, 2025. The decrease in cash, cash equivalents and investments was primarily due to a net cash outflow from operating activities of $1.2 billion and purchases of property and equipment of $99 million during the six months ended June 30, 2026. Working capital, defined as current assets less current liabilities, decreased by $1.3 billion, or 28%, as of June 30, 2026, compared to December 31, 2025. This was primarily driven by a decrease in cash, cash equivalents and current investments of $661 million to fund operations, an increase in accrued liabilities of $523 million, largely driven by the $950 million litigation settlement accrual partially offset by lower spend in the period, and a $196 million increase in deferred revenue primarily associated with advance payments for products, partially offset by a decrease in accounts payable of $150 million. As of June 30, 2026, we did not have any off-balance sheet arrangements. For a discussion of our contractual obligations and commitments, refer to our 2025 Form 10-K. Cash flow The following table summarizes the primary sources and uses of cash for each period presented (in millions): Six Months Ended June 30, 2026 2025 Operating activities We derive cash flows from operations primarily from cash collected from customer advance payments and accounts receivable related
+
+=== MRNA_10-Q_0001682852-26-000150:0053:2 | page 53 | paragraph | section: '' | words 138 ===
+to our product sales, as well as other revenue and funding arrangements. Our cash flows from operating activities are significantly affected by our use of cash for operating expenses and working capital to support the business. We sell our COVID and RSV vaccines to the commercial market as well as to governments and international organizations. Certain supply agreements include upfront payments, which are initially recorded as deferred revenue. In the U.S., our COVID and RSV vaccines are sold primarily to wholesalers and distributors, and to a lesser extent, directly to retailers and healthcare providers. Wholesalers and distributors typically do not make upfront payments to us. In addition, we receive customer advance payments related to certain other revenue arrangements. As of June 30, 2026, we had $442 million in deferred revenue related to customer advance payments received or billable.
+
+=== MRNA_10-Q_0001682852-26-000150:0053:3 | page 53 | table | section: '' | words 89 ===
+Financial assets: |  |  |  |  | 
+Cash and cash equivalents |  | $ | 1,723 | $ | 2,595
+Investments |  | 3,415 |  | 3,204 | 
+Investments, non-current |  | 1,772 |  | 2,336 | 
+Total |  | $ | 6,910 | $ | 8,135
+ |  |  |  |  | 
+Working capital: |  |  |  |  | 
+Current assets |  | $ | 5,815 | $ | 6,544
+Current liabilities |  | 2,534 |  | 1,987 | 
+Total |  | $ | 3,281 | $ | 4,557
+
+=== MRNA_10-Q_0001682852-26-000150:0053:4 | page 53 | table | section: '' | words 32 ===
+Net cash (used in) provided by: |  |  | 
+Operating activities | $ | (1,156) | $ (1,956) 1,294 13
+Investing activities | 253 |  | 
+Financing activities | 31 |  |
+
+=== MRNA_10-Q_0001682852-26-000150:0054:1 | page 54 | paragraph | section: '' | words 1 ===
+36
+
+=== MRNA_10-Q_0001682852-26-000150:0055:1 | page 55 | paragraph | section: '' | words 289 ===
+Table of Contents Net cash used in operating activities for the six months ended June 30, 2026 was $1.2 billion and consisted of net loss of $2.1 billion, non-cash adjustments of $337 million, and a net change in assets and liabilities of $632 million. Non-cash items primarily included stock-based compensation of $224 million and depreciation and amortization of $122 million. The net change in assets and liabilities was mainly due to an increase in accrued liabilities and accounts payable of $347 million, driven by the $950 million litigation settlement accrual, partially offset by lower spend during the period, an increase in deferred revenue of $195 million driven by customer advance payments, and a decrease in accounts receivable, net of $167 million due to timing of collections, partially offset by an increase in inventory of $126 million driven by increased production for the upcoming season. Net cash used in operating activities decreased by $800 million, or 41%, during the six months ended June 30, 2026, compared to the same period in 2025, primarily attributable to a change in accrued liabilities and accounts payable of $945 million, largely driven by the $950 million litigation settlement accrual, partially offset by an increase in net loss of $329 million. Investing activities Our primary investing activities consist of purchases, sales, and maturities of our investments, capital expenditures for facilities, manufacturing and laboratory equipment, and computer equipment and software, as well as business development activities. Net cash provided by investing activities for the six months ended June 30, 2026 was $253 million, driven primarily by proceeds from maturities and sales of marketable securities of $2.3 billion, partially offset by purchases of marketable securities of $1.9 billion, and purchases of property and equipment of $99 million.
+
+=== MRNA_10-Q_0001682852-26-000150:0055:2 | page 55 | paragraph | section: '' | words 312 ===
+Net investing cash flows decreased by $1.0 billion, or 80%, during the six months ended June 30, 2026, compared to the same period in 2025, primarily due to a decrease in proceeds from maturities and sales of marketable securities of $2.2 billion, partially offset by a decrease in purchases of marketable securities of $1.2 billion, and a decrease in purchases of plant, property and equipment of $21 million. Financing activities Net cash provided by financing activities for the six months ended June 30, 2026 was $31 million, primarily related to proceeds from issuance of common stock through equity plans. Net cash provided by financing activities increased by $18 million, or 138%, during the six months ended June 30, 2026, compared to the same period in 2025, mainly due to an increase in proceeds from issuance of common stock through equity plans of $25 million. Operation and funding requirements Our principal sources of funding as of June 30, 2026 consisted of cash and cash equivalents, investments, and cash we may generate from operations. We reported a net loss of $2.1 billion for the six months ended June 30, 2026 and net losses of $2.8 billion and $3.6 billion for the years 2025 and 2024, respectively. Historically, from our inception to the end of 2020, we incurred significant losses from operations due to our significant research and development expenses. Following the authorization of our first commercial product in December 2020, we generated significant net income in both 2022 and 2021. We have retained earnings of $5.1 billion as of June 30, 2026. We have significant future capital requirements including expected operating expenses to conduct research and development activities, operate our organization, and meet capital expenditure needs. We anticipate maintaining substantial expenses across all areas of our ongoing activities, particularly as we continue research and development of our development candidates and clinical activities for our
+
+=== MRNA_10-Q_0001682852-26-000150:0055:3 | page 55 | paragraph | section: '' | words 163 ===
+investigational medicines. This also extends to our manufacturing costs, including our arrangements with our supply and manufacturing partners. Our ongoing work on our intismeran autogene, norovirus, and flu plus COVID combination vaccine candidates, our other oncology programs, development of any new COVID vaccines against variants of SARS-CoV-2, late-stage clinical development, investments in digital capabilities and artificial intelligence technologies, and buildout of global commercial, regulatory, sales and marketing infrastructure and manufacturing facilities will require significant cash outflows in future periods, most of which will not be reimbursed or otherwise paid for by our collaborators or alliances. We may also incur additional costs related to postmarketing commitments, though the timing and scope of such commitments remain uncertain. In addition, we have substantial facility, lease and purchase obligations, as well as the $950 million litigation settlement obligation accrued as of June 30, 2026, which was paid in July 2026. We have entered into various collaboration and licensing agreements, as well as research and development funding arrangements
+
+=== MRNA_10-Q_0001682852-26-000150:0056:1 | page 56 | paragraph | section: '' | words 47 ===
+with third parties. These arrangements collectively encompass the funding of specific research and development activities, with the distinction that under the research and development funding arrangement, we receive funding. However, for all these arrangements, we may be obligated to make potential future milestone and royalty payments. 37
+
+=== MRNA_10-Q_0001682852-26-000150:0057:1 | page 57 | paragraph | section: '' | words 294 ===
+Table of Contents In November 2025, we entered into a Credit and Guaranty Agreement (Credit Agreement) with lenders led by Ares Capital Corporation, as administrative agent, providing for a term loan facility with aggregate commitments of $1.5 billion. As of June 30, 2026, we had drawn $600 million under the initial term loan. The Credit Agreement also provides for $900 million of delayed draw term loan commitments, consisting of $400 million available, subject to applicable conditions, through November 2027 and $500 million available, subject to applicable conditions and specified regulatory approval milestones, through November 2028. Borrowings under the Credit Agreement bear interest at a variable rate based on Term SOFR or a base rate, at our option, plus an applicable margin, with interest payable periodically and the principal amount due in full at maturity in November 2030. The Credit Agreement includes customary affirmative and negative covenants, with which we were in compliance as of June 30, 2026. See Note 11 to our condensed consolidated financial statements for additional information. We believe that our cash, cash equivalents, and investments as of June 30, 2026, together with cash expected to be generated from product sales and available borrowings under our credit facility, will be sufficient to enable us to fund our projected operations and capital expenditures through at least the next 12 months from the issuance of these financial statements included in this Form 10-Q. In July 2026, we paid the $950 million litigation settlement that was accrued as of June 30, 2026. We are subject to all the risks related to the development and commercialization of novel medicines, and we may encounter unforeseen expenses, difficulties, complications, delays, and other unknown factors, which may adversely affect our business. For example, we experienced a decline in customer
+
+=== MRNA_10-Q_0001682852-26-000150:0057:2 | page 57 | paragraph | section: '' | words 308 ===
+demand for our COVID vaccine in 2023 and 2024, and this trend continued in 2025 as the market transitions to a more competitive and commercially driven environment, with broader external factors continuing to affect market dynamics. We foresee that our commitment to investing in our business for future product launches may lead to continued negative cash flows from operations in upcoming periods. Our forecast of the period of time through which our financial resources will be adequate to support our operations is a forward-looking statement and involves risks and uncertainties, and actual results could vary as a result of a number of factors. We have based this estimate on assumptions that may prove to be wrong, and we could utilize our available capital resources sooner than we currently expect. Critical accounting policies and significant judgments and estimates There have been no material changes in our critical accounting policies and estimates in the preparation of our condensed consolidated financial statements during the three months ended June 30, 2026 compared to those disclosed in our 2025 Form 10-K. Contractual Obligations As of June 30, 2026, there have been no material changes to our contractual obligations and commitments from those described under “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our 2025 Form 10-K. Item 3. Quantitative and Qualitative Disclosures about Market Risk Our market risks, and the way we manage them, are summarized in Part II, Item 7A., “Quantitative and Qualitative Disclosures About Market Risk” of our 2025 Form 10-K. There have been no material changes to our market risk or to our management of such risks for the three and six months ended June 30, 2026. Item 4. Controls and Procedures Disclosure Controls and Procedures Our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, evaluated the effectiveness of
+
+=== MRNA_10-Q_0001682852-26-000150:0057:3 | page 57 | paragraph | section: '' | words 195 ===
+our disclosure controls and procedures as of June 30, 2026. The term “disclosure controls and procedures,” as defined in Rules 13a- 15(e) and 15d-15(e) under the Exchange Act means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on the evaluation of our disclosure controls and procedures as of June 30, 2026, our Chief Executive
+
+=== MRNA_10-Q_0001682852-26-000150:0058:1 | page 58 | paragraph | section: '' | words 24 ===
+Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level. 38
+
+=== MRNA_10-Q_0001682852-26-000150:0059:1 | page 59 | paragraph | section: '' | words 294 ===
+Table of Contents Changes in Internal Control over Financial Reporting There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the three months ended June 30, 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Inherent Limitations on Effectiveness of Controls Our management, including our Chief Executive Officer and Chief Financial Officer, believes that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives and are effective at the reasonable assurance level. However, our management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well-conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by the collusion of two or more people or by a management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no
+
+=== MRNA_10-Q_0001682852-26-000150:0059:2 | page 59 | paragraph | section: '' | words 313 ===
+assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. PART II Item 1. Legal Proceedings We are involved in various claims and legal proceedings of a nature considered ordinary course in our business, including those described under the heading “Legal Proceedings” in our 2025 Form 10-K and our Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2026. Most of the issues raised by these claims are highly complex and subject to substantial uncertainties. For a description of risks relating to these and other legal proceedings we face, see Part I, Item 1A., “Risk Factors,” of our 2025 Form 10-K, including the discussion under the headings entitled “Risks related to our intellectual property” and “Risks related to the manufacturing of our commercial products and product candidates.” The outcome of any such proceedings, regardless of the merits, is inherently uncertain; therefore, assessing the likelihood of loss and any estimated damages is difficult and subject to considerable judgment. Sanofi Patent Litigation In July 2026, Translate Bio, Inc., Translate Bio MA, Inc., Sanofi Vaccines US, Inc., and VaxServe, Inc. (all subsidiaries of Sanofi SA), filed a complaint against us in the U.S. District Court for the District of New Jersey asserting that our manufacture and sale of our COVID and RSV vaccines infringe U.S. patents related to compositions and methods for mRNA delivery. The complaint seeks a judgment of infringement of the asserted patents and unspecified damages. Item 1A. Risk Factors Information regarding risk and uncertainties related to our business appears in Part I, Item 1A. “Risk Factors” of our 2025 Form
+
+=== MRNA_10-Q_0001682852-26-000150:0059:3 | page 59 | paragraph | section: '' | words 122 ===
+There have been no material changes from the risk factors previously disclosed in the 2025 Form 10-K. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds Issuer Purchases of Equity Securities On August 1, 2022, our Board of Directors authorized a share repurchase program for our common stock of up to $3.0 billion, with no expiration date. During the three months ended June 30, 2026, there were no shares repurchased. As of June 30, 2026, $1.7 billion of our Board of Directors’ authorization for repurchases of our common stock remains outstanding, with no expiration date. For details about our share repurchase programs, please refer to Note 12 to our consolidated financial statements, as set forth in our 2025 Form 10-K.
+
+=== MRNA_10-Q_0001682852-26-000150:0060:1 | page 60 | paragraph | section: '' | words 1 ===
+39
+
+=== MRNA_10-Q_0001682852-26-000150:0061:1 | page 61 | paragraph | section: '' | words 327 ===
+Table of Contents Item 5. Other Information On May 4, 2026, Stéphane Bancel, our Chief Executive Officer, terminated a trading arrangement that was intended to satisfy the affirmative defense of Rule 10b5-1(c), which had been entered into on November 28, 2025, and was scheduled to commence as early as May 13, 2026, with a termination date of August 10, 2026. The plan provided for the potential sale of up to 751,715 shares of the Company’s common stock. No shares of common stock were sold under the plan prior to its termination. Mr. Bancel has two stock option awards that will reach their ten-year expiration on August 10, 2026, including an option to purchase 558,394 shares and an option to purchase 193,321 shares. Mr. Bancel also has a stock option award to purchase 642,201 shares that will reach its ten-year expiration on February 23, 2027. Collectively, these awards are referred to as the “Bancel Expiring Options.” On May 4, 2026, Mr. Bancel adopted a trading arrangement that is intended to satisfy the affirmative defense of Rule 10b5-1(c) (the Bancel 10b5-1 Plan). Between August 5, 2026, and February 26, 2027, the Bancel 10b5-1 Plan provides for the exercise of the Bancel Expiring Options and the sale of the number of shares of common stock necessary to cover the applicable exercise price, applicable withholding taxes, and related transaction costs. Mr. Bancel intends to retain the remaining shares of common stock acquired upon exercise. The Bancel 10b5-1 Plan expires on February 26, 2027, or upon the earlier completion of all authorized transactions under the plan. Stephen Hoge, our President, has a stock option award to purchase 458,715 shares that will reach its ten-year expiration on February 23, 2027, and a stock option to purchase 1,834,862 shares that will reach its ten-year expiration on October 3, 2027 (together, the Hoge Expiring Options). On June 15, 2026, Dr. Hoge adopted a trading arrangement that is intended to satisfy the affirmative defense of Rul
+
+=== MRNA_10-Q_0001682852-26-000150:0061:2 | page 61 | paragraph | section: '' | words 319 ===
+10b5-1(c) (the Hoge 10b5-1 Plan). Between September 14, 2026, and September 17, 2027, the Hoge 10b5-1 Plan provides for (i) the exercise of 917,431 of the Hoge Expiring Options and the sale of the shares of common stock acquired upon exercise and (ii) the exercise of the rest of the Hoge Expiring Options and the sale of the number of shares of common stock necessary to cover the applicable exercise price, applicable withholding taxes, and related transaction costs. Dr. Hoge intends to retain the remaining shares of common stock acquired upon exercise. The Hoge 10b5-1 Plan expires on September 17, 2027, or upon the earlier completion of all authorized transactions under the plan. On June 15, 2026, Abbas Hussain, one of our directors, adopted a trading arrangement that is intended to satisfy the affirmative defense of Rule 10b5-1(c) (the Hussain 10b5-1 Plan). Beginning on May 6, 2027, the Hussain 10b5-1 Plan provides for a one-time sale of up to 2,930 shares of the Company’s common stock to satisfy tax obligations in connection with the vesting of an equity award. The Hussain 10b5-1 Plan expires on June 11, 2027, or upon the earlier completion of all authorized transactions under the Hussain 10b5-1 Plan. On June 9, 2026, James Mock, our Chief Financial Officer, adopted a trading arrangement that is intended to satisfy the affirmative defense of Rule 10b5-1(c) (the Mock 10b5-1 Plan). Between September 9, 2026 and March 1, 2027, the Mock 10b5-1 Plan provides for the potential sale of up to 15,000 shares of the Company’s common stock and for the potential exercise of vested stock options and the associated sale of up to 19,836 shares of the Company’s common stock. The Mock 10b5-1 Plan covers an aggregate maximum number of 34,836 shares of common stock. The Mock 10b5-1 Plan expires on March 1, 2027, or upon the earlier completion of all authorized transactions under the Mock 10b5-1 Plan.
+
+=== MRNA_10-Q_0001682852-26-000150:0061:3 | page 61 | paragraph | section: '' | words 88 ===
+On May 5, 2026, Shannon Klinger, our Chief Legal Officer, adopted a trading arrangement that is intended to satisfy the affirmative defense of Rule 10b5-1(c) (the Klinger 10b5-1 Plan). Between September 8, 2026 and September 1, 2027, the Klinger 10b5-1 Plan provides for the potential exercise of vested stock options and the associated sale of up to 31,805 shares of the Company’s common stock. The Klinger 10b5-1 Plan expires on September 10, 2027, or upon the earlier completion of all authorized transactions under the Klinger 10b5-1 Plan. 40
+
+=== MRNA_10-Q_0001682852-26-000150:0061:4 | page 61 | table | section: '' | words 48 ===
+During the three months ended June 30, 2026, the following directors and officers (as defined in Rule 16a-1(f) of the Securities |  | 
+Exchange Act of 1934, as amended) of the Company took the following actions regarding trading arrangements with respect to our |  | 
+securities: |  |
+
+=== MRNA_10-Q_0001682852-26-000150:0062:1 | page 62 | paragraph | section: '' | words 282 ===
+Table of Contents Item 6. Exhibits The Exhibits listed below are filed or incorporated by reference as part of this Form 10-Q. Exhibit No. Exhibit Index 3.1* Second Amended and Restated By-laws of Moderna, Inc., as amended 31.1* Certification of Principal Executive Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 31.2* Certification of Principal Financial Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 32.1+ Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 101.INS* XBRL Instance Document - The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document 101.SCH* XBRL Taxonomy Extension Schema Document 101.CAL* XBRL Taxonomy Extension Calculation Document 101.DEF* XBRL Taxonomy Extension Definition Linkbase Document 101.LAB* XBRL Taxonomy Extension Label Linkbase Document 101.PRE* XBRL Taxonomy Extension Presentation Link Document 104* Cover Page Interactive Data File (formatted as Inline XBRL with applicable taxonomy extension information contained in Exhibits 101.) * Filed herewith + The certification furnished in Exhibit 32.1 hereto is deemed to accompany this Form 10-Q and will not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended. Such certification will not be deemed to be incorporated by reference into any filings under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent that the Registrant specifically incorporates it by reference. 41
+
+=== MRNA_10-Q_0001682852-26-000150:0063:1 | page 63 | paragraph | section: '' | words 79 ===
+Table of Contents SIGNATURES Pursuant to the requirements of the Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. MODERNA, INC. Date: By: /s/ Stéphane Bancel July 31, 2026 Stéphane Bancel Chief Executive Officer and Director (Principal Executive Officer) Date: By: /s/ James M. Mock July 31, 2026 James M. Mock Chief Financial Officer (Principal Financial Officer) 42

@@ -1,0 +1,30 @@
+{
+  "pdf_id": "advanced-excel-formulas-functions-glossary",
+  "pdf_file": "advanced-excel-formulas-functions-glossary.pdf",
+  "strategy": "semantic",
+  "elapsed_s": 0.5,
+  "n_chunks": 2,
+  "tokens": {
+    "min": 200,
+    "median": 203,
+    "mean": 203.0,
+    "max": 206
+  },
+  "chunks_over_450_tokens": 0,
+  "pages_covered": 2,
+  "table_chunks": 0,
+  "pdf_pages": 2,
+  "sample_chunks": [
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "Term Definition AND Function A logical function that returns TRUE only if all conditions are met. CHOOSE Function Returns a value from a list of values based on a given position index. Data Table A to"
+    },
+    {
+      "page_number": 2,
+      "section_title": "",
+      "text_head": "OFFSET Function Returns a cell or range that is a specified number of rows and columns from a starting cell. Pivot Table An Excel feature used to summarize, analyze, and explore large sets of data usi"
+    }
+  ],
+  "bucket": "manual"
+}

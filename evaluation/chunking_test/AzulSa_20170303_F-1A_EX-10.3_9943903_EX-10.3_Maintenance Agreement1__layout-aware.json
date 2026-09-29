@@ -1,0 +1,35 @@
+{
+  "pdf_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+  "pdf_file": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.pdf",
+  "strategy": "layout-aware",
+  "elapsed_s": 11.8,
+  "n_chunks": 216,
+  "tokens": {
+    "min": 32,
+    "median": 275,
+    "mean": 266.5,
+    "max": 447
+  },
+  "chunks_over_450_tokens": 0,
+  "pages_covered": 78,
+  "table_chunks": 0,
+  "pdf_pages": 111,
+  "sample_chunks": [
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "Executionversion\nExhibit10.3\nCONFIDENTIALTREATMENTREQUESTED\u2013REDACTEDCOPY\nConfidentialTreatmenthasbeenrequestedforportionsofthisExhibit.Confidential\nportionsofthisExhibitaredesignatedby[*****].Acomplet"
+    },
+    {
+      "page_number": 3,
+      "section_title": "37",
+      "text_head": "AZUL\u2013ATR\nGlobalMaintenanceMasterAgreement\nDS/CS-3957/14/Issue7\nPage2/110\nSource: AZUL SA, F-1/A, 3/3/2017\nExecutionversion"
+    },
+    {
+      "page_number": 4,
+      "section_title": "109",
+      "text_head": "AZUL\u2013ATR\nGlobalMaintenanceMasterAgreement\nDS/CS-3957/14/Issue7\nPage3/110\nSource: AZUL SA, F-1/A, 3/3/2017\nExecutionversion"
+    }
+  ],
+  "bucket": "contract"
+}

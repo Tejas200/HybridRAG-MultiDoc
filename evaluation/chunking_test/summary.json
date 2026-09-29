@@ -1,0 +1,700 @@
+{
+  "generated_at": "2026-09-27T20:02:58.531653+00:00",
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "chunk_budget_tokens": 450,
+  "chunk_overlap_tokens": 80,
+  "semantic_breakpoint_percentile": 95.0,
+  "strategies": [
+    "fixed-size",
+    "semantic",
+    "layout-aware",
+    "table-aware"
+  ],
+  "results": [
+    {
+      "pdf_id": "AAPL_10-K_0000320193-25-000079",
+      "pdf_file": "AAPL_10-K_0000320193-25-000079.pdf",
+      "strategy": "fixed-size",
+      "elapsed_s": 0.7,
+      "n_chunks": 161,
+      "tokens": {
+        "min": 14,
+        "median": 399,
+        "mean": 321.7,
+        "max": 446
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 73,
+      "table_chunks": 0,
+      "pdf_pages": 77,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 10-K\n(Mark One)\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year "
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "The Nasdaq Stock Market LLC\n3.050% Notes due 2029\n\u2014\nThe Nasdaq Stock Market LLC\n0.500% Notes due 2031\n\u2014\nThe Nasdaq Stock Market LLC\n3.600% Notes due 2042\n\u2014\nThe Nasdaq Stock Market LLC\nSecurities regis"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "Yes\u00a0\u00a0\u2610\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2612\nIndicate by check mark whether the Registrant (1)\u00a0has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934\nduring the preceding 12 mont"
+        }
+      ],
+      "bucket": "financial_pdf"
+    },
+    {
+      "pdf_id": "AAPL_10-K_0000320193-25-000079",
+      "pdf_file": "AAPL_10-K_0000320193-25-000079.pdf",
+      "strategy": "semantic",
+      "elapsed_s": 30.4,
+      "n_chunks": 120,
+      "tokens": {
+        "min": 14,
+        "median": 450,
+        "mean": 437.7,
+        "max": 452
+      },
+      "chunks_over_450_tokens": 21,
+      "pages_covered": 5,
+      "table_chunks": 0,
+      "pdf_pages": 77,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K (Mark One) \u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year "
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "to Section 12(g) of the Act: None Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes \u2612 No \u2610 Indicate by check mark if the Regis"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610 Indicate by check mark whether the Registrant has filed"
+        }
+      ],
+      "bucket": "financial_pdf"
+    },
+    {
+      "pdf_id": "AAPL_10-K_0000320193-25-000079",
+      "pdf_file": "AAPL_10-K_0000320193-25-000079.pdf",
+      "strategy": "layout-aware",
+      "elapsed_s": 15.7,
+      "n_chunks": 185,
+      "tokens": {
+        "min": 10,
+        "median": 270,
+        "mean": 254.1,
+        "max": 446
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 57,
+      "table_chunks": 0,
+      "pdf_pages": 77,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 10-K\n(Mark One)\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year "
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "The Nasdaq Stock Market LLC\n3.050% Notes due 2029\n\u2014\nThe Nasdaq Stock Market LLC\n0.500% Notes due 2031\n\u2014\nThe Nasdaq Stock Market LLC\n3.600% Notes due 2042\n\u2014\nThe Nasdaq Stock Market LLC\nSecurities regis"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "company\u201d in Rule 12b-2 of the Exchange Act.\nLarge accelerated filer\n\u2612\nAccelerated filer\n\u2610\nNon-accelerated filer\n\u2610\nSmaller reporting company\n\u2610\nEmerging growth company\n\u2610\nIf an emerging growth company, i"
+        }
+      ],
+      "bucket": "financial_pdf"
+    },
+    {
+      "pdf_id": "AAPL_10-K_0000320193-25-000079",
+      "pdf_file": "AAPL_10-K_0000320193-25-000079.pdf",
+      "strategy": "table-aware",
+      "elapsed_s": 16.0,
+      "n_chunks": 193,
+      "tokens": {
+        "min": 14,
+        "median": 312,
+        "mean": 286.5,
+        "max": 1040
+      },
+      "chunks_over_450_tokens": 6,
+      "pages_covered": 73,
+      "table_chunks": 49,
+      "pdf_pages": 77,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 10-K\n(Mark One)\n\u2612 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the fiscal year "
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "The Nasdaq Stock Market LLC\n3.050% Notes due 2029\n\u2014\nThe Nasdaq Stock Market LLC\n0.500% Notes due 2031\n\u2014\nThe Nasdaq Stock Market LLC\n3.600% Notes due 2042\n\u2014\nThe Nasdaq Stock Market LLC\nSecurities regis"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "Yes\u00a0\u00a0\u2610\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2612\nIndicate by check mark whether the Registrant (1)\u00a0has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934\nduring the preceding 12 mont"
+        }
+      ],
+      "bucket": "financial_pdf"
+    },
+    {
+      "pdf_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+      "pdf_file": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.pdf",
+      "strategy": "fixed-size",
+      "elapsed_s": 0.6,
+      "n_chunks": 302,
+      "tokens": {
+        "min": 18,
+        "median": 388,
+        "mean": 342.7,
+        "max": 444
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 111,
+      "table_chunks": 0,
+      "pdf_pages": 111,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Execution\u00a0version\n\u00a0\n\u00a0\nExhibit\u00a010.3\nCONFIDENTIAL\u00a0TREATMENT\u00a0REQUESTED\u00a0\u2013\u00a0REDACTED\u00a0COPY\nConfidential\u00a0Treatment\u00a0has\u00a0been\u00a0requested\u00a0for\u00a0portions\u00a0of\u00a0this\u00a0Exhibit.\u00a0Confidential\nportions\u00a0of\u00a0this\u00a0Exhibit\u00a0are\u00a0de"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "Execution\u00a0version\n\u00a0\nCONTENTS\n\u00a0\nClause\n\u00a0\nPage\u00a0\n1. \u00a0\nSUBJECT-MATTER\u00a0OF\u00a0THE\u00a0AGREEMENT\n\u00a0\n\u00a0\n6\u00a0\n2. \u00a0\nDEFINITIONS\u00a0AND\u00a0INTERPRETATION\n\u00a0\n\u00a0\n6\u00a0\n3. \u00a0\nDURATION\u00a0AND\u00a0RENEWAL\n\u00a0\n\u00a0 15\u00a0\n4. \u00a0\nEXCUSABLE\u00a0DELAY\n\u00a0\n\u00a0 15\u00a0\n5. \u00a0"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "32\u00a0\n21.\u00a0\nTAXES\n\u00a0\n\u00a0 34\u00a0\n22.\u00a0\nASSIGNMENT\n\u00a0\n\u00a0 34\u00a0\n23.\u00a0\nMISCELLANEOUS\n\u00a0\n\u00a0 35\u00a0\n24.\u00a0\nGOVERNING\u00a0LAW\u00a0AND\u00a0ARBITRATION\n\u00a0\n\u00a0 37\u00a0\n\u00a0\n\u00a0\nAZUL\u2013ATR\n\u00a0\nGlobal\u00a0Maintenance\u00a0Master\u00a0Agreement\nDS/CS-3957/14/Issue\u00a07\n\u00a0\nPage\u00a02/1"
+        }
+      ],
+      "bucket": "contract"
+    },
+    {
+      "pdf_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+      "pdf_file": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.pdf",
+      "strategy": "semantic",
+      "elapsed_s": 48.8,
+      "n_chunks": 115,
+      "tokens": {
+        "min": 14,
+        "median": 450,
+        "mean": 373.8,
+        "max": 452
+      },
+      "chunks_over_450_tokens": 5,
+      "pages_covered": 30,
+      "table_chunks": 0,
+      "pdf_pages": 111,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Exhibit 10.3 CONFIDENTIAL TREATMENT REQUESTED \u2013 REDACTED COPY Confidential Treatment has been requested for portions of this Exhibit. Confidential portions of this Exhibit are designated by [*****]. A"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Brazil, the registered office of which is located at Avenida Marcos Penteado de Ulh\u00f4a Rodrigues, 939 - Edif. Castello Branco Office Park - Torre Jatob\u00e1 - 9\u00b0 andar - CEP 06460-040 - Alphaville Industri"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "as scheduled and unscheduled maintenance, as amended from time to time (\u201cGMA TRIP\u201d)\u037e and, 3) WHEREAS pursuant to an investment agreement dated on May 25, 2012, entered into between Trip shareholders a"
+        }
+      ],
+      "bucket": "contract"
+    },
+    {
+      "pdf_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+      "pdf_file": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.pdf",
+      "strategy": "layout-aware",
+      "elapsed_s": 11.8,
+      "n_chunks": 216,
+      "tokens": {
+        "min": 32,
+        "median": 275,
+        "mean": 266.5,
+        "max": 447
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 78,
+      "table_chunks": 0,
+      "pdf_pages": 111,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Executionversion\nExhibit10.3\nCONFIDENTIALTREATMENTREQUESTED\u2013REDACTEDCOPY\nConfidentialTreatmenthasbeenrequestedforportionsofthisExhibit.Confidential\nportionsofthisExhibitaredesignatedby[*****].Acomplet"
+        },
+        {
+          "page_number": 3,
+          "section_title": "37",
+          "text_head": "AZUL\u2013ATR\nGlobalMaintenanceMasterAgreement\nDS/CS-3957/14/Issue7\nPage2/110\nSource: AZUL SA, F-1/A, 3/3/2017\nExecutionversion"
+        },
+        {
+          "page_number": 4,
+          "section_title": "109",
+          "text_head": "AZUL\u2013ATR\nGlobalMaintenanceMasterAgreement\nDS/CS-3957/14/Issue7\nPage3/110\nSource: AZUL SA, F-1/A, 3/3/2017\nExecutionversion"
+        }
+      ],
+      "bucket": "contract"
+    },
+    {
+      "pdf_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+      "pdf_file": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.pdf",
+      "strategy": "table-aware",
+      "elapsed_s": 11.5,
+      "n_chunks": 283,
+      "tokens": {
+        "min": 18,
+        "median": 402,
+        "mean": 348.7,
+        "max": 448
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 111,
+      "table_chunks": 6,
+      "pdf_pages": 111,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Execution\u00a0version\nExhibit\u00a010.3\nCONFIDENTIAL\u00a0TREATMENT\u00a0REQUESTED\u00a0\u2013\u00a0REDACTED\u00a0COPY\nConfidential\u00a0Treatment\u00a0has\u00a0been\u00a0requested\u00a0for\u00a0portions\u00a0of\u00a0this\u00a0Exhibit.\u00a0Confidential\nportions\u00a0of\u00a0this\u00a0Exhibit\u00a0are\u00a0design"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "Execution\u00a0version\nCONTENTS\nClause\nPage\n1.\nSUBJECT-MATTER\u00a0OF\u00a0THE\u00a0AGREEMENT\n6\n2.\nDEFINITIONS\u00a0AND\u00a0INTERPRETATION\n6\n3.\nDURATION\u00a0AND\u00a0RENEWAL\n15\n4.\nEXCUSABLE\u00a0DELAY\n15\n5.\nSERVICES,\u00a0LEASE\u00a0AND\u00a0OBLIGATIONS\u00a0OF\u00a0T"
+        },
+        {
+          "page_number": 3,
+          "section_title": "",
+          "text_head": "Execution\u00a0version\nEXECUTION\u00a0PAGE\n39\nEXHIBIT\u00a01\u00a0-\u00a0LIST\u00a0OF\u00a0ATR\u00a0AIRCRAFT\u00a0COVERED\u00a0UNDER\u00a0THIS\u00a0AGREEMENT\n40\nEXHIBIT\u00a02\u00a0-\u00a0LIST\u00a0OF\u00a0SERVICES\u00a0PROVIDED\u00a0UNDER\u00a0THIS\u00a0AGREEMENT\n42\nEXHIBIT\u00a03\u00a0-\u00a0MAIN\u00a0ELEMENTS\u00a0COVERED\u00a0UND"
+        }
+      ],
+      "bucket": "contract"
+    },
+    {
+      "pdf_id": "cs_CL_2609.26693v1",
+      "pdf_file": "cs_CL_2609.26693v1.pdf",
+      "strategy": "fixed-size",
+      "elapsed_s": 0.1,
+      "n_chunks": 29,
+      "tokens": {
+        "min": 127,
+        "median": 426,
+        "mean": 373.5,
+        "max": 436
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 9,
+      "table_chunks": 0,
+      "pdf_pages": 9,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Measuring the Serving Stack Instead of the Model:\nHidden Confounds in Local Tool-Use Evaluation\nLijuan Tang\nNortheastern University, Seattle\ntang.lij@northeastern.edu\nYuemeng Zheng\nNortheastern Univer"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "1\nIntroduction\nA coding-agent loop assumes the model can reli-\nably emit a tool call the harness can execute. This\nis a protocol step, separate from the semantic step\nof choosing the right tool. We wa"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "a cross-check, but the mechanism is a property of\nthe serving layer, not of either library. With mod-\nels served through Ollama\u2019s OpenAI-compatible\nendpoint, the default harness sends the tools=\nparam"
+        }
+      ],
+      "bucket": "academic"
+    },
+    {
+      "pdf_id": "cs_CL_2609.26693v1",
+      "pdf_file": "cs_CL_2609.26693v1.pdf",
+      "strategy": "semantic",
+      "elapsed_s": 4.5,
+      "n_chunks": 24,
+      "tokens": {
+        "min": 315,
+        "median": 450,
+        "mean": 442.2,
+        "max": 450
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 2,
+      "table_chunks": 0,
+      "pdf_pages": 9,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation Lijuan Tang Northeastern University, Seattle tang.lij@northeastern.edu Yuemeng Zheng Northeastern Univer"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "mea- sure, on small local models, how often this step succeeds. The measurement turned out to be the problem (Fig. 1). Our contribution is therefore not another tool-use benchmark but a measurement st"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "(all sizes) accepts tools= and returns the call as text. Llama-3.2 returns native tool_calls. Phi-3 and Gemma-3 have the request rejected with HTTP 400 \u201cdoes not support tools\u201d. The harness retries, g"
+        }
+      ],
+      "bucket": "academic"
+    },
+    {
+      "pdf_id": "cs_CL_2609.26693v1",
+      "pdf_file": "cs_CL_2609.26693v1.pdf",
+      "strategy": "layout-aware",
+      "elapsed_s": 2.0,
+      "n_chunks": 41,
+      "tokens": {
+        "min": 71,
+        "median": 194,
+        "mean": 238.6,
+        "max": 435
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 8,
+      "table_chunks": 0,
+      "pdf_pages": 9,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Measuring the Serving Stack Instead of the Model:\nHidden Confounds in Local Tool-Use Evaluation\nLijuan Tang\nNortheastern University, Seattle\ntang.lij@northeastern.edu\nYuemeng Zheng\nNortheastern Univer"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "1\nIntroduction\nA coding-agent loop assumes the model can reli-\nably emit a tool call the harness can execute. This\nis a protocol step, separate from the semantic step\nof choosing the right tool. We wa"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "a cross-check, but the mechanism is a property of\nthe serving layer, not of either library. With mod-\nels served through Ollama\u2019s OpenAI-compatible\nendpoint, the default harness sends the tools=\nparam"
+        }
+      ],
+      "bucket": "academic"
+    },
+    {
+      "pdf_id": "cs_CL_2609.26693v1",
+      "pdf_file": "cs_CL_2609.26693v1.pdf",
+      "strategy": "table-aware",
+      "elapsed_s": 2.1,
+      "n_chunks": 29,
+      "tokens": {
+        "min": 127,
+        "median": 426,
+        "mean": 373.5,
+        "max": 436
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 9,
+      "table_chunks": 0,
+      "pdf_pages": 9,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Measuring the Serving Stack Instead of the Model:\nHidden Confounds in Local Tool-Use Evaluation\nLijuan Tang\nNortheastern University, Seattle\ntang.lij@northeastern.edu\nYuemeng Zheng\nNortheastern Univer"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "1\nIntroduction\nA coding-agent loop assumes the model can reli-\nably emit a tool call the harness can execute. This\nis a protocol step, separate from the semantic step\nof choosing the right tool. We wa"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "a cross-check, but the mechanism is a property of\nthe serving layer, not of either library. With mod-\nels served through Ollama\u2019s OpenAI-compatible\nendpoint, the default harness sends the tools=\nparam"
+        }
+      ],
+      "bucket": "academic"
+    },
+    {
+      "pdf_id": "advanced-excel-formulas-functions-glossary",
+      "pdf_file": "advanced-excel-formulas-functions-glossary.pdf",
+      "strategy": "fixed-size",
+      "elapsed_s": 0.0,
+      "n_chunks": 2,
+      "tokens": {
+        "min": 242,
+        "median": 258,
+        "mean": 258.5,
+        "max": 275
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 2,
+      "table_chunks": 0,
+      "pdf_pages": 2,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "of Key Terms  \n1 of 2 \n \nGlossary of Key Terms \n \n \n \n \nAdvanced Excel Formulas & Functions \n \nTerm \nDefinition \nAND Function \nA logical function that returns TRUE only if all conditions are \nmet. \nCH"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "of Key Terms  \n2 of 2 \n \nOFFSET Function \nReturns a cell or range that is a specified number of rows \nand columns from a starting cell. \nPivot Table \nAn Excel feature used to summarize, analyze, and e"
+        }
+      ],
+      "bucket": "manual"
+    },
+    {
+      "pdf_id": "advanced-excel-formulas-functions-glossary",
+      "pdf_file": "advanced-excel-formulas-functions-glossary.pdf",
+      "strategy": "semantic",
+      "elapsed_s": 0.5,
+      "n_chunks": 2,
+      "tokens": {
+        "min": 200,
+        "median": 203,
+        "mean": 203.0,
+        "max": 206
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 2,
+      "table_chunks": 0,
+      "pdf_pages": 2,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Term Definition AND Function A logical function that returns TRUE only if all conditions are met. CHOOSE Function Returns a value from a list of values based on a given position index. Data Table A to"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "OFFSET Function Returns a cell or range that is a specified number of rows and columns from a starting cell. Pivot Table An Excel feature used to summarize, analyze, and explore large sets of data usi"
+        }
+      ],
+      "bucket": "manual"
+    },
+    {
+      "pdf_id": "advanced-excel-formulas-functions-glossary",
+      "pdf_file": "advanced-excel-formulas-functions-glossary.pdf",
+      "strategy": "layout-aware",
+      "elapsed_s": 0.4,
+      "n_chunks": 2,
+      "tokens": {
+        "min": 229,
+        "median": 245,
+        "mean": 245.5,
+        "max": 262
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 1,
+      "table_chunks": 0,
+      "pdf_pages": 2,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "of Key Terms\n1 of 2\nGlossary of Key Terms\nAdvanced Excel Formulas & Functions\nTerm\nDefinition\nAND Function\nA logical function that returns TRUE only if all conditions are\nmet.\nCHOOSE Function\nReturns "
+        },
+        {
+          "page_number": 1,
+          "section_title": "of Key Terms",
+          "text_head": "2 of 2\nOFFSET Function\nReturns a cell or range that is a specified number of rows\nand columns from a starting cell.\nPivot Table\nAn Excel feature used to summarize, analyze, and explore\nlarge sets of d"
+        }
+      ],
+      "bucket": "manual"
+    },
+    {
+      "pdf_id": "advanced-excel-formulas-functions-glossary",
+      "pdf_file": "advanced-excel-formulas-functions-glossary.pdf",
+      "strategy": "table-aware",
+      "elapsed_s": 0.4,
+      "n_chunks": 4,
+      "tokens": {
+        "min": 8,
+        "median": 116,
+        "mean": 115.0,
+        "max": 220
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 2,
+      "table_chunks": 2,
+      "pdf_pages": 2,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "table",
+          "text_head": "Term | Definition\nAND Function | A logical function that returns TRUE only if all conditions are met.\nCHOOSE Function | Returns a value from a list of values based on a given position index.\nData Tabl"
+        },
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "of Key Terms\n1 of 2\nGlossary of Key Terms\nAdvanced Excel Formulas & Functions"
+        },
+        {
+          "page_number": 2,
+          "section_title": "table",
+          "text_head": "OFFSET Function | Returns a cell or range that is a specified number of rows and columns from a starting cell.\nPivot Table | An Excel feature used to summarize, analyze, and explore large sets of data"
+        }
+      ],
+      "bucket": "manual"
+    },
+    {
+      "pdf_id": "5724245-Health-Powerpoint-Final",
+      "pdf_file": "5724245-Health-Powerpoint-Final.pdf",
+      "strategy": "fixed-size",
+      "elapsed_s": 0.1,
+      "n_chunks": 15,
+      "tokens": {
+        "min": 45,
+        "median": 115,
+        "mean": 109.1,
+        "max": 169
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 15,
+      "table_chunks": 0,
+      "pdf_pages": 15,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Moving Forward on Health \nA Difficult Terrain\nWendell Primus, PhD \nSenior Health Policy and Budget Advisor\nDemocratic Leader Nancy Pelosi\nBCBS Plan\nExecutives \nDecember 4, 2018"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "2\nWhat Does Election Imply?\n\u2022 Amazing victory \u2013 40 seats flipped/Orange County \nblue\n\u2022 Republicans are not attributing loss to repeal and re\u00ad\nplace or tax scam yet\n\u2022 Should be able to work with admini"
+        },
+        {
+          "page_number": 3,
+          "section_title": "",
+          "text_head": "3\nPrescription Drug Pricing\n\u2022 Administration cannot achieve objective without \nlegislation \n\u2022 Three buckets\t \t\n1. Low hanging fruit\n2. Drug negotiation\n3. Part D \n\u2022 Other proposals to slow cost growth"
+        }
+      ],
+      "bucket": "slide_deck"
+    },
+    {
+      "pdf_id": "5724245-Health-Powerpoint-Final",
+      "pdf_file": "5724245-Health-Powerpoint-Final.pdf",
+      "strategy": "semantic",
+      "elapsed_s": 2.4,
+      "n_chunks": 5,
+      "tokens": {
+        "min": 133,
+        "median": 361,
+        "mean": 308.4,
+        "max": 450
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 3,
+      "table_chunks": 0,
+      "pdf_pages": 15,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Moving Forward on Health A Difficult Terrain Wendell Primus, PhD Senior Health Policy and Budget Advisor Democratic Leader Nancy Pelosi BCBS Plan Executives December 4, 2018 2 What Does Election Imply"
+        },
+        {
+          "page_number": 4,
+          "section_title": "",
+          "text_head": "4 Breast Re-operation (re-excision) Rate Clinical consensus is that re-excision rates should never exceed 30% 200 160 120 80 40 0 0% 1-10% Re-excision within 12 months after the initial partial mastec"
+        },
+        {
+          "page_number": 4,
+          "section_title": "",
+          "text_head": "2 1 0 -1 Source: National Health Expenditure Accounts: National Income and Product Accounts. Note: Inflation adjustments use the GDP deflator. Medicare growth rate for 2005-2010 excludes 2006 to avoid"
+        }
+      ],
+      "bucket": "slide_deck"
+    },
+    {
+      "pdf_id": "5724245-Health-Powerpoint-Final",
+      "pdf_file": "5724245-Health-Powerpoint-Final.pdf",
+      "strategy": "layout-aware",
+      "elapsed_s": 0.5,
+      "n_chunks": 9,
+      "tokens": {
+        "min": 7,
+        "median": 98,
+        "mean": 82.3,
+        "max": 143
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 7,
+      "table_chunks": 0,
+      "pdf_pages": 15,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Moving Forward on Health\nA Difficult Terrain\nWendell Primus, PhD\nSenior Health Policy and Budget Advisor\nDemocratic Leader Nancy Pelosi\nBCBS Plan\nExecutives\nDecember 4, 2018"
+        },
+        {
+          "page_number": 5,
+          "section_title": "30%",
+          "text_head": "200\n160\n120\n80\n40\n0\n0%\n1-10%\nRe-excision within 12 months after the initial partial mastectomy for breast cancer\n11-20%\n21-30%\n31-40%\n41-50%\n61-70%\n71-80%\nNumbers of surgeons"
+        },
+        {
+          "page_number": 6,
+          "section_title": "Lower Endoscopy Rate",
+          "text_head": "How often a doctor parses these procedures into two separate\ndays. The vast majority should be done simultaneously.\n2000\n3000\n4000\n5000\n6000\n1000\n0\n0%\n1-10%\nDifferent-day upper and lower endoscopy\n11-"
+        }
+      ],
+      "bucket": "slide_deck"
+    },
+    {
+      "pdf_id": "5724245-Health-Powerpoint-Final",
+      "pdf_file": "5724245-Health-Powerpoint-Final.pdf",
+      "strategy": "table-aware",
+      "elapsed_s": 0.4,
+      "n_chunks": 15,
+      "tokens": {
+        "min": 45,
+        "median": 115,
+        "mean": 106.5,
+        "max": 162
+      },
+      "chunks_over_450_tokens": 0,
+      "pages_covered": 15,
+      "table_chunks": 0,
+      "pdf_pages": 15,
+      "sample_chunks": [
+        {
+          "page_number": 1,
+          "section_title": "",
+          "text_head": "Moving Forward on Health\nA Difficult Terrain\nWendell Primus, PhD\nSenior Health Policy and Budget Advisor\nDemocratic Leader Nancy Pelosi\nBCBS Plan\nExecutives\nDecember 4, 2018"
+        },
+        {
+          "page_number": 2,
+          "section_title": "",
+          "text_head": "2\nWhat Does Election Imply?\n\u2022 Amazing victory \u2013 40 seats flipped/Orange County\nblue\n\u2022 Republicans are not attributing loss to repeal and re\u00ad\nplace or tax scam yet\n\u2022 Should be able to work with adminis"
+        },
+        {
+          "page_number": 3,
+          "section_title": "",
+          "text_head": "3\nPrescription Drug Pricing\n\u2022 Administration cannot achieve objective without\nlegislation\n\u2022 Three buckets\n1. Low hanging fruit\n2. Drug negotiation\n3. Part D\n\u2022 Other proposals to slow cost growth\n\u2022 Sur"
+        }
+      ],
+      "bucket": "slide_deck"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+[pdf: manualzilla-id-7272704] [passages: 127]
+
+=== manualzilla-id-7272704:0001:1 | page 1 | paragraph | section: '' | words 8 ===
+Getting Started Guide 9h MOTO Moto Q 9h
+
+=== manualzilla-id-7272704:0003:1 | page 3 | paragraph | section: '' | words 6 ===
+Contents MOTO Q 9h 3 Contents
+
+=== manualzilla-id-7272704:0003:2 | page 3 | section | section: 'Welcome to AT&T' | words 6 ===
+5 What’s in the Box? 5
+
+=== manualzilla-id-7272704:0003:3 | page 3 | section | section: 'Set Up Your MOTO Q 9h' | words 25 ===
+6 Insert the SIM Card & Battery 6 Charge the Battery 7 Insert a Memory Card 8 Get to Know Your MOTO Q 9h 9
+
+=== manualzilla-id-7272704:0003:4 | page 3 | section | section: 'Use Your MOTO Q 9h' | words 25 ===
+13 Learn to Navigate & Type 13 Connect to AT&T 15 Make Phone Calls 16 Set Up Voicemail 17 Internet 18 Browse the Web 18
+
+=== manualzilla-id-7272704:0003:5 | page 3 | section | section: 'Email & Messaging' | words 24 ===
+19 Set Up Personal Email 19 Set Up Corporate Email 22 Send and Receive Email 25 Text & MMS Messages 26 Instant Messaging 28
+
+=== manualzilla-id-7272704:0004:1 | page 4 | paragraph | section: '' | words 5 ===
+Contents 4 MOTO Q 9h
+
+=== manualzilla-id-7272704:0004:2 | page 4 | section | section: 'Sync Your Phone With Your Computer' | words 9 ===
+29 Sync Contacts, Calendar, Email, Music, & More 29
+
+=== manualzilla-id-7272704:0004:3 | page 4 | section | section: 'Photos & Videos' | words 32 ===
+32 Take a Photo & Send It 32 View Your Pictures 33 Record a Video Clip 33 Picture and Video Options 34 Play a Video Clip 34 Music 36 AT&T Music™ 36
+
+=== manualzilla-id-7272704:0004:4 | page 4 | section | section: 'Tips & Tricks' | words 3 ===
+38 Troubleshooting 40
+
+=== manualzilla-id-7272704:0005:1 | page 5 | section | section: 'Welcome to AT&T' | words 7 ===
+MOTO Q 9h 5 Welcome to AT&T
+
+=== manualzilla-id-7272704:0005:2 | page 5 | section | section: 'or visit att.com/tutorials.' | words 51 ===
+AT&T Staff Meeting 10:00 AM Meeting Room A Profile: Normal 12:00 PM 12/31/2008 Start Contacts Getting Started Disc (includes User’s Guide and synchronization software) Charger BT90 Extra Capacity Battery and cover and Cover BT60 Standard Battery Micro-to-Mini USB Adapter Micro USB to 3.5mm Headset Adapter USB Data Cable MOTO Q™ 9h
+
+=== manualzilla-id-7272704:0006:1 | page 6 | section | section: 'Set Up Your MOTO Q 9h' | words 10 ===
+6 MOTO Q 9h Set Up Your MOTO Q 9h
+
+=== manualzilla-id-7272704:0006:2 | page 6 | section | section: 'Insert the SIM Card & Battery' | words 74 ===
+Caution: Don’t bend or scratch Subscriber Identity Module (SIM) card. Keep it away from static electricity, water, and dirt. Your SIM card contains your phone number and information like your list of contacts. 1. 2. 3. 4. 5. 6. Your MOTO Q 9h comes with two batteries and two battery covers. The BT60 standard battery uses the narrow cover, while the BT90 extra capacity battery requires the larger cover. Steps? 6 Takes? 2 minutes
+
+=== manualzilla-id-7272704:0007:1 | page 7 | section | section: 'Set Up Your MOTO Q 9h' | words 4 ===
+MOTO Q 9h 7
+
+=== manualzilla-id-7272704:0007:2 | page 7 | section | section: 'Charge the Battery' | words 26 ===
+New batteries are not fully charged. Plug the battery charger into your phone and an electrical outlet. It might take several seconds for charging to start.
+
+=== manualzilla-id-7272704:0007:3 | page 7 | section | section: 'battery icon ^. You can’t overcharge your battery.' | words 14 ===
+charging empty full Steps? 1 Takes? 1 minute (to start) Full charge time varies.
+
+=== manualzilla-id-7272704:0008:1 | page 8 | section | section: 'Set Up Your MOTO Q 9h' | words 4 ===
+8 MOTO Q 9h
+
+=== manualzilla-id-7272704:0008:2 | page 8 | section | section: 'Insert a Memory Card' | words 134 ===
+You can use a removable microSD memory card to store music, pictures, videos, and other files. To see the files, press Start > Applications > File Manager. For the maximum card size your phone supports, check att.com/support/. 1. Open the memory slot cover by gently lifting the cover away from the phone as shown. The cover remains attached to the phone. 2. Insert the memory card into its slot, with the card’s metal contacts facing the front of the phone. 3. Put the memory slot cover back in place and push it to close it. The cover clicks into place. Caution: Do not remove your memory card while your phone is using it. Don’t bend or scratch your memory card. Keep it away from static electricity, water, and dirt. Steps? 3 Takes? 2 minutes
+
+=== manualzilla-id-7272704:0009:1 | page 9 | section | section: 'To turn off your phone, press and hold O for' | words 86 ===
+3 seconds, then release it. Note: In the event your phone freezes up and does not respond for more than 30 seconds, be sure that the battery if fully charged. If it is, remove and replace the battery, then turn the phone back on. If these do not help, you can do a hard reset to restart your phone, but this erases your personalized settings and any content stored in phone memory. To perform a hard reset, remove and replace the battery, then hold down the
+
+=== manualzilla-id-7272704:0010:1 | page 10 | section | section: 'Set Up Your MOTO Q 9h' | words 4 ===
+10 MOTO Q 9h
+
+=== manualzilla-id-7272704:0010:2 | page 10 | section | section: 'Meet Your Icons' | words 12 ===
+Status indicators can appear at the top of the home screen: 1.
+
+=== manualzilla-id-7272704:0010:3 | page 10 | section | section: 'Shows E when you missed a' | words 2 ===
+call. 2.
+
+=== manualzilla-id-7272704:0010:4 | page 10 | section | section: 'Shows w when you have new' | words 2 ===
+voicemail. 3.
+
+=== manualzilla-id-7272704:0010:5 | page 10 | section | section: 'Shows C for a new message,' | words 8 ===
+or E when Bluetooth power is on. 4.
+
+=== manualzilla-id-7272704:0010:6 | page 10 | section | section: 'Shows D when call forwarding is on.' | words 1 ===
+5.
+
+=== manualzilla-id-7272704:0010:7 | page 10 | section | section: 'Shows whether your are using a 3G k, GPRS f, or EDGE \\ network.' | words 1 ===
+6.
+
+=== manualzilla-id-7272704:0010:8 | page 10 | section | section: 'Shows when your ring style is Silent (Q) or Vibrate (<). No indicator appears' | words 4 ===
+for other ring styles.
+
+=== manualzilla-id-7272704:0010:9 | page 10 | section | section: 'Note: A % appears when the speakerphone is on.' | words 36 ===
+7. Shows the battery charge level. 8. Shows the strength of your network connection. 5. Network 7. Battery Level 6. Profile 8. Signal Strength 4. Call Forward 3. Message / Bluetooth 2. Voicemail 1. Missed Call
+
+=== manualzilla-id-7272704:0011:1 | page 11 | section | section: 'Lock Your Phone Keypad' | words 37 ===
+Tip: You can make emergency calls (such as 911 in the United States) on a locked phone. A locked phone still lets you answer incoming calls. You can manually lock your phone to prevent accidental key presses
+
+=== manualzilla-id-7272704:0011:2 | page 11 | section | section: 'To lock your phone, press X then f. Your left soft key becomes Unlock.' | words 63 ===
+To unlock your keypad, press Unlock and enter your password. Your phone uses * if you have not set a password. To change your password and lock settings, press the Left Soft key to select Start > System Tools > Settings > More > Security > Device Lock. Choose a password you will remember. If you forget your password, you will have to
+
+=== manualzilla-id-7272704:0011:3 | page 11 | section | section: 'Change Your Ringer and Earpiece Volume' | words 47 ===
+Tip: To silence your phone when it’s ringing, just press the side volume keys. To change the other caller’s voice volume, press volume up/down during a phone call. Note: Bluetooth® accessories, such as headsets, have their own volume controls. Volume Up Volume Down Back Key Side Select
+
+=== manualzilla-id-7272704:0012:1 | page 12 | section | section: 'Set Up Your MOTO Q 9h' | words 11 ===
+12 MOTO Q 9h To change your ringer and sound profile
+
+=== manualzilla-id-7272704:0012:2 | page 12 | section | section: 'from the home screen, press and hold X to' | words 18 ===
+open the Quick List. Then scroll to a profile, such as Normal, Silent, or Vibrate, and press the
+
+=== manualzilla-id-7272704:0012:3 | page 12 | section | section: 'center key s.' | words 55 ===
+To change the sound for alerts or other events, press Start > My Stuff > Personalize My Q > Sounds and Ringtones. Highlight the event and select the sound you want to associate with it. Select Cancel Quick List 1  Power off 2  Wireless Manager 3  Lock 4  Normal 5  Silent 6  Vibrate 7  More...
+
+=== manualzilla-id-7272704:0013:1 | page 13 | section | section: 'visit att.com/' | words 32 ===
+tutorials. AT&T Staff Meeting 10:00 AM Meeting Room A Profile: Normal 12:00 PM 12/31/2008 Start Contacts Messaging Contacts Calendar ActiveSync ATT Music Cellular Video MEdia Net ATT Mall More Start Menu Start
+
+=== manualzilla-id-7272704:0013:2 | page 13 | section | section: 'Menu Screen' | words 127 ===
+Tip: Press the Back Key n to go back one menu. Press the Power Key O to exit any menu or view without saving any changes. 1 Press Start (the left soft key) to open the main menu. 2 Press the Navigation Key up, down, left, or right (S) to highlight a menu feature. 3 Press the Center Key s to select the highlighted feature. Left Soft Key Select the action in the bottom left of the screen (like Start or Done). Right Soft Key Select the action in the bottom right of the screen (like Contacts or Menu). Center Key Select a highlighted item on the screen. Navigation Key Move up, down, left, or right on the screen. Back Key Go back to the previous screen.
+
+=== manualzilla-id-7272704:0014:1 | page 14 | section | section: 'Use Your MOTO Q 9h' | words 4 ===
+14 MOTO Q 9h
+
+=== manualzilla-id-7272704:0014:2 | page 14 | section | section: 'Tip: For' | words 1 ===
+international
+
+=== manualzilla-id-7272704:0014:3 | page 14 | section | section: 'press j.' | words 37 ===
+Press Menu to open the sub-menu. A flashing cursor indicates the insertion point. Press H to switch entry modes (abc, Alt, or ALT). For indicator descriptions, see the following section. Send Text Messages To: 0/160 Menu i
+
+=== manualzilla-id-7272704:0014:4 | page 14 | section | section: 'letter, press k once. to capitalize all letters, press k twice.' | words 1 ===
+Ã
+
+=== manualzilla-id-7272704:0014:5 | page 14 | section | section: 'changes to the i mode to enter letters.' | words 1 ===
+Ä
+
+=== manualzilla-id-7272704:0014:6 | page 14 | section | section: 'Enters only symbols and numbers on the keys until you press H' | words 1 ===
+again.
+
+=== manualzilla-id-7272704:0015:1 | page 15 | section | section: 'Use Your MOTO Q 9h' | words 27 ===
+MOTO Q 9h 15 As you enter letters, your phone might try to predict the word. Predicted text has an orange arrow below it. To accept the
+
+=== manualzilla-id-7272704:0015:2 | page 15 | section | section: 'and hold X' | words 60 ===
+until the Quick List appears, then select Wireless Manager > All. To connect to the wireless network successfully, your MOTO Q 9h™ must be powered on, your wireless service must be active, and you must be in a coverage area. On the top right corner of the home screen, you will find the network coverage indicator: program A Full coverage
+
+=== manualzilla-id-7272704:0016:1 | page 16 | section | section: 'Make Phone Calls' | words 156 ===
+From the home screen, enter a phone number then press N to make a call. To voice dial, press and hold h in your home screen. When prompted, say “Call,” followed by a number or contact name. When your phone rings and/or vibrates, press N to answer. To “hang up,” press O. • To send an incoming call directly to your voicemail, press Ignore. • To put a call on hold, press N. To take the call off hold, press N again. • To answer a second call and put the current call on hold, press N. Then press N to switch between the two calls. To create a three-way conference call between these calls, press Menu > Conference. • To turn the speakerphone on or off, press h during a call. At the top of your display, % means the speaker is on. The speaker won’t work when a car kit or headset is connected.
+
+=== manualzilla-id-7272704:0017:1 | page 17 | section | section: 'Use Your MOTO Q 9h' | words 4 ===
+MOTO Q 9h 17
+
+=== manualzilla-id-7272704:0017:2 | page 17 | section | section: 'Set Up Voicemail' | words 1 ===
+1.
+
+=== manualzilla-id-7272704:0017:3 | page 17 | section | section: 'Press and hold the 1 key to call the voicemail system.' | words 18 ===
+The voicemail system asks you to: 2. Create your password. 3. Record your name. 4. Record a greeting.
+
+=== manualzilla-id-7272704:0017:4 | page 17 | section | section: 'Check Voicemail' | words 7 ===
+When you see the voicemail message indicator
+
+=== manualzilla-id-7272704:0017:5 | page 17 | section | section: '1 key to check your voicemail.' | words 12 ===
+To check your voicemail from another phone, call your 10-digit phone number.
+
+=== manualzilla-id-7272704:0017:6 | page 17 | section | section: 'During your voicemail greeting, press * (# in Puerto Rico) then follow the voice' | words 6 ===
+prompts. Steps? 4 Takes? 3 minutes
+
+=== manualzilla-id-7272704:0018:1 | page 18 | paragraph | section: '' | words 5 ===
+Internet 18 MOTO Q 9h
+
+=== manualzilla-id-7272704:0018:2 | page 18 | section | section: 'InternetBrowse the Web' | words 22 ===
+Tip: All finished? When you are done with the browser, press Menu > Exit to close the browser and conserve battery life.
+
+=== manualzilla-id-7272704:0018:3 | page 18 | section | section: 'To open your Web browser, press @.' | words 31 ===
+• To go to a Web page, press Action > Go to. Enter the Web address and press OK. • To go to a link in a Web page, use the
+
+=== manualzilla-id-7272704:0018:4 | page 18 | section | section: 'and then press the center key s.' | words 67 ===
+Note: Not all Web file formats are supported. Action 1:MEdia Net Home My Links EDIT MEdia Net Home Time Out: Games, Gossip & More Find Cheap Gas Near You Weather Fort Lauderdale Currently 83 more News U.S. offers aid to... more 49ers (NFL) Fantasy Football 32... Search Menu Press Menu to change browser settings and other options. Press Action to open navigation options. Your browser homepage appears.
+
+=== manualzilla-id-7272704:0019:1 | page 19 | section | section: 'Set Up Personal Email' | words 91 ===
+Your Windows® Mobile powered phone can connect to personal email accounts like Yahoo! Premium, AOL and Comcast. To set up these accounts on your MOTO Q 9h, you can use Xpress Mail™ or Microsoft® Outlook. AT&T recommends Xpress Mail because it offers automated setup and synchronization, so that changes and deletions on your MOTO Q 9h appear in your email account. Note: For functions such as web browsing and email, AT&T recommends that you subscribe to an unlimited data plan. Call AT&T at 611 to sign up for a data plan.
+
+=== manualzilla-id-7272704:0019:2 | page 19 | section | section: 'Set Up Xpress Mail™' | words 57 ===
+Xpress Mail™ works with most email services. Windows® Live email users should visit att.com/xpressmail for the latest on support and alternate setup instructions. If you complete this setup process and your email does not start arriving on your device, check with your email provider to validate eligibility. 1. From the home page, press Get Xpress Mail. 2.
+
+=== manualzilla-id-7272704:0020:1 | page 20 | section | section: 'Email & Messaging' | words 175 ===
+20 MOTO Q 9h 4. Press Yes (the Left Soft Key) to continue the download. 5. Press OK (the Right Soft Key) to accept the license agreement. 6. In Mobile Number, enter your 10-digit mobile (cell) number, then press Next (the Right Soft Key). 7. For personal email, select Portal or ISP (and press Next), then select your email provider (and press Next). If your provider is not listed, select More to see more providers. For corporate email, select Work (and press Next), then select Professional Edition (and press Next). 8. Enter your User Name and Password (for your personal email, or the user name and password you created for corporate Xpress Mail), then press Next (the Right Soft Key). 9. Select Register Device, then press Next (the Right Soft Key). 10. Press Register (the Right Soft Key). Back Select email account type: Portal or ISP Work My email account is provided by a portal or internet service company, for example yahoo. Next Choose Portal or ISP for personal E-mail. Choose Work for corporate E-mail.
+
+=== manualzilla-id-7272704:0021:1 | page 21 | section | section: 'Email & Messaging' | words 29 ===
+MOTO Q 9h 21 11. After successfully registering, your MOTO Q 9h automatically displays the XM Settings section. Press the Right Soft Key to go to open your mail.
+
+=== manualzilla-id-7272704:0021:2 | page 21 | section | section: 'Press R > New E-Mail Account.' | words 113 ===
+2. Enter your name and email address, then press Next and follow the setup instructions. If your phone finds your account settings, it automatically fills in the following screens. Just enter your name and password and press Next in the following screens. If your phone cannot find your settings, ask your email provider for your settings and enter them in the following screens. If your email account is not configured POP or IMAP access, ask your email provider how to change your configuration. If your email provider does not provide IMAP or POP access on your account, you can still use the Web browser to access your email. Steps? 2 Takes? 5-10 minutes
+
+=== manualzilla-id-7272704:0022:1 | page 22 | section | section: 'Set Up Corporate Email' | words 97 ===
+Your Windows® Mobile powered phone can connect to corporate email accounts like Microsoft® Exchange or Lotus Notes. These accounts are managed by your IT organization. To set up these accounts on your MOTO Q 9h, you can use Xpress Mail™ (for self-service access, described on page 22) or Good Mobile Messaging and Microsoft® DIrect Push (for access with assistance from your IT organization, described on page 23). Note: For functions such as web browsing and email, AT&T recommends that you subscribe to an unlimited data plan. Call AT&T at 611 to sign up for a data plan.
+
+=== manualzilla-id-7272704:0022:2 | page 22 | section | section: 'Set Up Self-Service Corporate Email with Xpress Mail™' | words 87 ===
+To set up corporate Xpress Mail, you need to know your work email address and what kind of mail server your company has (Microsoft® Exchange, Lotus Notes, or IMAP). Once you know this, complete these steps on your work computer, with an Internet connection: 1. Go to the Web page http://xpressmailpe.wireless.att.com 2. Click on Register Now and fill in your information. Note: You will create an Xpress Mail user name and password in this step. Remember these for later in the setup. Steps? 7 Takes? 10 minutes
+
+=== manualzilla-id-7272704:0023:1 | page 23 | section | section: 'Email & Messaging' | words 86 ===
+MOTO Q 9h 23 3. On the download page, click Download. 4. Click the Open or Run button to download the software. 5. Click Yes to install the software. 6. Click Next to begin setup, and follow the on-screen instructions. When prompted for a user name and password, use those created in step 2 of this procedure. 7. When Xpress Mail connects to your corporate email account, you will receive a message confirming it. Complete the setup process with “Set Up Xpress Mail™” on page 19.
+
+=== manualzilla-id-7272704:0023:2 | page 23 | section | section: 'Set Up IT-Managed Corporate Email' | words 21 ===
+IT-managed email means that your company supports Good Mobile Messaging or Microsoft® Direct Push to enable wireless synchronization of corporate email.
+
+=== manualzilla-id-7272704:0023:3 | page 23 | section | section: 'Good Mobile Messaging' | words 61 ===
+Good Mobile Messaging provides real-time wireless push synchronization of your corporate email, calendar, contacts, tasks and notes for Microsoft Outlook and Lotus Notes. You must have an account on your company’s Good Mobile Messaging server. Contact your IT department if you do not have an account. A “PDA Enterprise for Good” data plan must also be activated on your AT&T wireless
+
+=== manualzilla-id-7272704:0024:1 | page 24 | section | section: 'Email & Messaging' | words 25 ===
+24 MOTO Q 9h account before using Good Mobile Messaging. Set-up instructions for Good will be sent to you via email upon your account activation.
+
+=== manualzilla-id-7272704:0024:2 | page 24 | section | section: 'Microsoft® Direct Push' | words 154 ===
+Microsoft Direct Push provides wireless access to your corporate Microsoft email, contacts, calendar and tasks. Activate a “PDA Enterprise for Microsoft Direct Push” data plan on your AT&T wireless account before using Direct Push. Once IT sets you up for access, follow these steps to enable Microsoft Direct Push on your MOTO Q 9h. Your phone’s menus might be different: 1. Press Start > ActiveSync, then press Menu > Add Server Source. 2. Enter the Exchange Server Address (if necessary, check This server requires an encrypted (SSL) connection), then press Next. 3. Enter your User Name and Password (if necessary, enter the server’s Domain), then press Next. 4. Choose if you want to synchronize Contacts, Calendar, Email, and Tasks, then press Finish. Tip: To change how often your phone checks for email, press Start > ActiveSync, then press Menu > Schedule. To conserve battery life, choose a longer interval. Steps? 4 Takes? 5 minutes
+
+=== manualzilla-id-7272704:0025:1 | page 25 | section | section: 'Press R.' | words 66 ===
+2. Select your email account (your provider name or Xpress Mail). To write a new message, press Menu > New. Compose a message (to insert items in the message area, press Menu > Insert.), then press Send to send it. To use the following shortcut keys:  In the inbox, highlight a message and press the key.  When a message is open, press and hold the key.
+
+=== manualzilla-id-7272704:0025:2 | page 25 | section | section: '0 list shortcuts' | words 42 ===
+Delete Xpress Mail (4) Message 4 Sender 6:00 PM Message 4 Subject Message 3 Sender 5:30 PM Message 3 Subject Message 2 Sender 2:00 PM Message 2 Subject Message 1 Sender 12:36 PM Message 1 Subject Menu Steps? 2 Takes? 2 minutes
+
+=== manualzilla-id-7272704:0026:1 | page 26 | section | section: 'Email & Messaging' | words 4 ===
+26 MOTO Q 9h
+
+=== manualzilla-id-7272704:0026:2 | page 26 | section | section: 'Text & MMS Messages' | words 15 ===
+In addition to email, you can send and receive text (SMS) and multimedia (MMS) messages.
+
+=== manualzilla-id-7272704:0026:3 | page 26 | section | section: 'Send Text and Multimedia Messages' | words 1 ===
+1.
+
+=== manualzilla-id-7272704:0026:4 | page 26 | section | section: 'Press R > Text Messages or MMS' | words 19 ===
+2. Press Menu > New. 3. Enter the contact telephone number. Tip: To quickly enter your contacts in To,
+
+=== manualzilla-id-7272704:0026:5 | page 26 | section | section: 'press j or s and select a contact. Then' | words 77 ===
+select the contact's phone number or email address. 4. Use the keypad to compose a message. 5. Press Send. Steps? 5 Takes? 4 minutes To: 0/160 Text Messages Select Contact Number 1 Contact Number 2 Contact Number 3 Contact Number 4 Contact Number 5 Contact Number 6 Contact Number 7 Contact Number 8 Select a Contact Tip: In the message area of an MMS message, you can press Menu > Insert and select an item to insert.
+
+=== manualzilla-id-7272704:0027:1 | page 27 | section | section: 'Email & Messaging' | words 4 ===
+MOTO Q 9h 27
+
+=== manualzilla-id-7272704:0027:2 | page 27 | section | section: 'Read Text and MMS Messages' | words 14 ===
+When you receive a message your phone plays an alert and shows New Message
+
+=== manualzilla-id-7272704:0027:3 | page 27 | section | section: 'with a message indicator such as C.' | words 1 ===
+1.
+
+=== manualzilla-id-7272704:0027:4 | page 27 | section | section: 'On the home screen, press R > Text Messages or MMS.' | words 14 ===
+If you do not see your messages, press Menu > Folders > Inbox. 2.
+
+=== manualzilla-id-7272704:0027:5 | page 27 | section | section: 'Press the navigation key ] to select a message. Press the center key s to' | words 2 ===
+open it.
+
+=== manualzilla-id-7272704:0027:6 | page 27 | section | section: 'With a message open, press the navigation key ] right to open the next' | words 13 ===
+message, or left to open the previous message. Steps? 2 Takes? 2 minutes
+
+=== manualzilla-id-7272704:0028:1 | page 28 | section | section: 'Instant Messaging' | words 34 ===
+If you subscribe to an instant messaging service such as Yahoo! Messenger, AIM®, or Windows® Live Messenger, you can take the convenience and fun of instant messaging on the go with your mobile phone.
+
+=== manualzilla-id-7272704:0028:2 | page 28 | section | section: 'To start a conversation, highlight a contact and press the center key s, enter text,' | words 54 ===
+and press Send Message. During a conversation, press Menu to insert emoticons or end the conversation. When you are signed in but not in a conversation, press Menu to manage your contacts or groups, change your status, or sign out (to conserve battery life, be sure to sign off IM when not in use).
+
+=== manualzilla-id-7272704:0028:3 | page 28 | section | section: 'Add a Contact' | words 28 ===
+1. On the IM main screen, press Menu > Add a contact or Add Buddy. 2. Enter the contact’s ID and press Add. Steps? 3 Takes? 5 minutes
+
+=== manualzilla-id-7272704:0029:1 | page 29 | section | section: 'Sync Contacts, Calendar, Email, Music, & More' | words 27 ===
+You can use Microsoft® ActiveSync version 4.5 or above, or Windows® Mobile Device Center to synchronize your personal information and files between your phone and desktop computer.
+
+=== manualzilla-id-7272704:0029:2 | page 29 | section | section: 'Installing and Setting Up ActiveSync' | words 137 ===
+Note: Synchronization software is included on the Getting Started Disc packed with your phone. Before installing the software, verify that your computer and operating system meet the minimum requirements stated at www.microsoft.com/windowsmobile, where you can also download the latest software for ActiveSync. 1. Install Microsoft ActiveSync (for Windows® XP™ or earlier) or Windows Mobile Device Center (for Windows Vista) on your PC. 2. After setup completes, connect your phone to the PC using the USB data cable. The phone drivers install on your computer and then the Sync Setup Wizard automatically starts. 3. Follow the instructions on the screen to complete the wizard. Once the wizard is complete, the items you have selected will be synced. You can disconnect your phone from your PC, and you may need to restart your PC. Steps? 3 Takes? 10 minutes
+
+=== manualzilla-id-7272704:0030:1 | page 30 | section | section: 'Sync Your Phone With Your Computer' | words 42 ===
+30 MOTO Q 9h Note: If you have wireless ActiveSync set up with an Exchange Server, you cannot also sync email, contacts and calendar with a PC running Microsoft Vista.  However, you can synchronize media and transfer files through the cable connection.
+
+=== manualzilla-id-7272704:0030:2 | page 30 | section | section: 'Sync Music and Other Files With Your Computer' | words 123 ===
+Tip: For best results, choose media files with 15 frames per second, 320x240 pixel size, 384 kbps bit rate You will need: • a computer with media files, and a program that manages them. Your phone plays WMA, WMV, MP3, AAC, eAAC, eAAC+, WAV, MP4, M4A, 3GP, MIDI, and Real Audio files. For more details, see att.com/music. • a microSD memory card (see page 8). • a USB data cable, or a computer with Bluetooth® capability. To connect the phone to your PC: 1. Turn on your phone and connect the data cable provided with your phone to the USB port on your computer. 2. In ActiveSync on your PC, select Explore and double-click My Windows Mobile device. Steps? 4 Takes? 5 minutes
+
+=== manualzilla-id-7272704:0031:1 | page 31 | section | section: 'Sync Your Phone With Your Computer' | words 83 ===
+MOTO Q 9h 31 3. On your computer, find the files you would like to copy to your phone and drag them into the folder where you want them (such as My Documents). 4. Your files are now available on your phone. In the media player, press Menu > Update Library to see the files. Note: For more detailed information, see “Connecting a mobile device to a PC” in ActiveSync Help on your PC, the Microsoft Web Site for ActiveSync or visit att.com/tutorials.
+
+=== manualzilla-id-7272704:0032:1 | page 32 | section | section: 'Photos & Videos' | words 7 ===
+32 MOTO Q 9h Photos & Videos
+
+=== manualzilla-id-7272704:0032:2 | page 32 | section | section: 'Take a Photo & Send It' | words 1 ===
+1.
+
+=== manualzilla-id-7272704:0032:3 | page 32 | section | section: 'Press e to open the camera viewfinder.' | words 10 ===
+2. Point the camera lens at the photo subject. 3.
+
+=== manualzilla-id-7272704:0032:4 | page 32 | section | section: 'Press the center key s to take a photo.' | words 99 ===
+4. Your phone saves the picture and shows it in the viewfinder. To see stored pictures, press Start > My Stuff > My Pictures & Videos. • To send the photo in a multimedia message, press Menu > Send > MMS, then see “Send Text and Multimedia Messages” on page 26. • To edit the picture, press Menu > Edit. • To view picture properties, like the filename, press Menu > Properties. 877 1.0x IMAGE AREA Thumbnails Pictures & Videos Menu Before you take a picture, you can press Menu to adjust picture settings. Steps? 4 Takes? 2 minutes
+
+=== manualzilla-id-7272704:0033:1 | page 33 | section | section: 'Photos & Videos' | words 4 ===
+MOTO Q 9h 33
+
+=== manualzilla-id-7272704:0033:2 | page 33 | section | section: 'View Your Pictures' | words 1 ===
+1.
+
+=== manualzilla-id-7272704:0033:3 | page 33 | section | section: 'Press e > Thumbnails.' | words 8 ===
+2. Scroll to the picture and press View.
+
+=== manualzilla-id-7272704:0033:4 | page 33 | section | section: 'To see pictures stored in another folder or on your memory card, press e' | words 14 ===
+> Thumbnails, then press Menu > Folders > My Device and choose the folder.
+
+=== manualzilla-id-7272704:0033:5 | page 33 | section | section: 'Record a Video Clip' | words 1 ===
+1.
+
+=== manualzilla-id-7272704:0033:6 | page 33 | section | section: 'Press e, then Menu > Video' | words 10 ===
+2. Point the camera lens at the photo subject. 3.
+
+=== manualzilla-id-7272704:0033:7 | page 33 | section | section: 'Press the center key s to begin recording' | words 3 ===
+a video. 4.
+
+=== manualzilla-id-7272704:0033:8 | page 33 | section | section: 'Press the center key s to stop recording' | words 53 ===
+and save the video, or press Pause to pause recording. To continue a paused recording, press Resume. Steps? 2 Takes? 2 minutes 00:05 43:20 VIDEO AREA Stop Pictures & Videos Pause Remaining recording time Current recording length Steps? 4 Takes? 4 minutes Tip: In the video viewfinder, press Menu to adjust video settings.
+
+=== manualzilla-id-7272704:0034:1 | page 34 | section | section: 'Photos & Videos' | words 4 ===
+34 MOTO Q 9h
+
+=== manualzilla-id-7272704:0034:2 | page 34 | section | section: 'Picture and Video Options' | words 52 ===
+In the photo or video viewfinder press Menu > Options to open the options menu: • Camera: Set default save locations, video filename prefixes, and image compression level. • Video: Set audio and time limit settings for video files. Note: In this menu, the General and Slideshow options are for picture files.
+
+=== manualzilla-id-7272704:0034:3 | page 34 | section | section: 'Play a Video Clip' | words 1 ===
+1.
+
+=== manualzilla-id-7272704:0034:4 | page 34 | section | section: 'Press e > Thumbnails.' | words 27 ===
+2. Scroll to a video clip. 3. Press Play. The video clip plays in the Windows Media Player. To play videos stored in another folder or on
+
+=== manualzilla-id-7272704:0034:5 | page 34 | section | section: 'your memory card, press e > Thumbnails,' | words 26 ===
+then press Menu > Folders and choose the location for the folder. 00:00 70% Now Playing Adrenaline Playing Windows Media Menu Steps? 3 Takes? 4 minutes
+
+=== manualzilla-id-7272704:0035:1 | page 35 | section | section: 'Photos & Videos' | words 4 ===
+MOTO Q 9h 35
+
+=== manualzilla-id-7272704:0035:2 | page 35 | section | section: 'Note: To switch to full screen mode and back, press 0. Videos recorded in a low' | words 37 ===
+resolution may not play in full screen mode. While watching a video you can change your default view to full screen by pressing Menu > Options > Video.  Then select Always and check Scale to fit window.
+
+=== manualzilla-id-7272704:0036:1 | page 36 | paragraph | section: '' | words 5 ===
+Music 36 MOTO Q 9h
+
+=== manualzilla-id-7272704:0036:2 | page 36 | section | section: 'MusicAT&T Music™' | words 128 ===
+AT&T Music™ is the ultimate, integrated, on-the-go music experience. Wherever you go, AT&T Music will connect you to your music with a touch of a button. You can listen to your music, discover the latest songs, music news, concert updates, streaming music, ringtones, Answer Tones™, and watch the latest music videos. You can access all AT&T Music features by pressing Start > AT&T Music. Note: Some networks limit the size of file that you can use for a ring tone. The Streaming Music application uses a large amount of data, and you are responsible for all data charges incurred. AT&T strongly recommends that you subscribe to an unlimited data plan in addition to this purchase. Call AT&T at 611 to sign up for the appropriate unlimited data package.
+
+=== manualzilla-id-7272704:0037:1 | page 37 | paragraph | section: '' | words 5 ===
+Music MOTO Q 9h 37
+
+=== manualzilla-id-7272704:0037:2 | page 37 | section | section: 'Music Player' | words 21 ===
+After syncing or downloading music to your device (as described on page 30), you should update the library on your device.
+
+=== manualzilla-id-7272704:0037:3 | page 37 | section | section: '• To update the library, press [' | words 10 ===
+> Music Player > Menu > Update Library > Done.
+
+=== manualzilla-id-7272704:0037:4 | page 37 | section | section: '• To play music, press [ > Music Player' | words 9 ===
+> My Music > All Music, then press the
+
+=== manualzilla-id-7272704:0037:5 | page 37 | section | section: 'Music Controls' | words 6 ===
+Tip: To mute and unmute sound,
+
+=== manualzilla-id-7272704:0037:6 | page 37 | section | section: '• To increase or decrease the volume, press the navigation key ] up or' | words 1 ===
+down.
+
+=== manualzilla-id-7272704:0037:7 | page 37 | section | section: '• To play or pause, press the center key s.' | words 10 ===
+00:00 70% Now Playing Song Title Playing Windows Media Menu
+
+=== manualzilla-id-7272704:0038:1 | page 38 | section | section: 'Tips & Tricks' | words 22 ===
+38 MOTO Q 9h Tips & Tricks From the home screen, you can use the following shortcuts: To... Do this... lock keypad
+
+=== manualzilla-id-7272704:0038:2 | page 38 | section | section: 'To activate voice commands, press and hold h. When' | words 23 ===
+prompted, say one of the commands listed on the screen (such as “Call” followed by a number or contact name). open quick list
+
+=== manualzilla-id-7272704:0038:3 | page 38 | section | section: 'Press and hold X for quick access to your sound profiles,' | words 25 ===
+device lock and wireless manager. play music or games on an airplane To keep using your games and music on a flight, turn off your
+
+=== manualzilla-id-7272704:0039:1 | page 39 | section | section: 'Tips & Tricks' | words 7 ===
+MOTO Q 9h 39 use the speakerphone
+
+=== manualzilla-id-7272704:0039:2 | page 39 | section | section: 'During a call, press h to turn the speakerphone on or off.' | words 32 ===
+extend battery life To reduce the backlight time out, press Start > System Tools > Settings > More... > Power Management > Backlight time out on battery, then choose a short time.
+
+=== manualzilla-id-7272704:0039:3 | page 39 | section | section: 'To extend email send/receive intervals, press R, select an' | words 81 ===
+email account, press Menu > Settings, and press Next until you can change the Automatic Send/Receive interval. If you have more than one email account set up, choose only one account to automatically send/receive messages. To close unused programs, press Start > System Tools > Task Manager. Select the unused program and press Menu > Kill. personalize your device Press Start > My Stuff > Personalize My Q to customize sounds, home screen, sounds, soft keys and more.. To... Do this...
+
+=== manualzilla-id-7272704:0040:1 | page 40 | paragraph | section: '' | words 57 ===
+Troubleshooting 40 MOTO Q 9h Troubleshooting If you have questions or need assistance, we're here to help. AT&T Support: Go to att.com/support/, where you can select from a number of customer care options.  You can also contact the AT&T Customer Support Center at 611 on your cell phone. Microsoft® Windows® Mobile and ActiveSync Support: Windows Mobile: www.microsoft.com/windowsmobile/help/smartphone/
+
+=== manualzilla-id-7272704:0041:1 | page 41 | paragraph | section: '' | words 233 ===
+MOTO Q 9h 41 Motorola, Inc. Consumer Advocacy Office 1307 East Algonquin Road Schaumburg, IL 60196 www.hellomoto.com 1-800-331-6456 (United States) 1-888-390-6456 (TTY/TDD United States for hearing impaired) 1-800-461-4575 (Canada) Certain mobile phone features are dependent on the capabilities and settings of your service provider’s network. Additionally, certain features may not be activated by your service provider, and/or the provider’s network settings may limit the feature’s functionality. Always contact your service provider about feature availability and functionality. All features, functionality, and other product specifications, as well as the information contained in this user’s guide are based upon the latest available information and are believed to be accurate at the time of printing. Motorola reserves the right to change or modify any information or specifications without notice or obligation. MOTOROLA and the Stylized M Logo are registered in the US Patent & Trademark Office. All other product or service names are the property of their respective owners. The Bluetooth trademarks are owned by their proprietor and used by Motorola, Inc. under license.  Microsoft, Windows and Windows Me are registered trademarks of Microsoft Corporation; and Windows XP is a trademark of Microsoft Corporation. AT&T, AT&T logo and Your World. Delivered. are trademarks of AT&T Knowledge Ventures. © Motorola, Inc. 2007. Caution:  Changes or modifications made in the radio phone, not expressly approved by Motorola, will void the user’s authority to operate the equipment. Manual Number: 6809513A39-O
+
+=== manualzilla-id-7272704:0042:1 | page 42 | paragraph | section: '' | words 60 ===
+42 MOTO Q 9h AT&T Staff Meeting 10:00 AM Meeting Room A Profile: Normal 12:00 PM 12/31/2008 Start Contacts Navigation Key Center Select Key Messaging Key Right Soft Key Speakerphone / Voice Key Camera Key AT&T Music Key Call/Answer Key Home Key Left Soft Key MEdia Net Key Function Key Calendar Key Contacts Key Power/End Key Enter Key Caps Key
+
+=== manualzilla-id-7272704:0043:1 | page 43 | paragraph | section: '' | words 42 ===
+MOTO Q 9h 43 AT&T Staff Meeting 10:00 AM Meeting Room A Profile: Normal 12:00 PM 12/31/2008 Start Contacts microSD memory card slot Micro-USB Connector Microphone Side Scroll Key (up) Side Scroll Key (down) Back Keys Side Select Key Select highlighted items.

@@ -1,0 +1,911 @@
+[pdf: CVX_10-Q_0000093410-26-000167] [passages: 154]
+
+=== CVX_10-Q_0000093410-26-000167:0001:1 | page 1 | section | section: 'Chevron Corporation' | words 139 ===
+(Exact name of registrant as specified in its charter) 1400 Smith Street Delaware 94-0890210 Houston, TX 77002-7327 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) (Address of principal executive offices) (Zip Code) Registrant’s telephone number, including area code: (832) 854-1000 NONE (Former name, former address and former fiscal year, if changed since last report.) Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol Name of each exchange on which registered Common stock, par value $.75 per share CVX New York Stock Exchange Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+
+=== CVX_10-Q_0000093410-26-000167:0001:2 | page 1 | section | section: 'and (2)\xa0has been subject to such filing requirements for the past 90 days.\xa0\xa0\xa0\xa0Yes\xa0\xa0☑\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0No\xa0\xa0☐' | words 43 ===
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+
+=== CVX_10-Q_0000093410-26-000167:0001:3 | page 1 | section | section: 'was required to submit such files).\xa0\xa0\xa0\xa0Yes\xa0\xa0☑\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0No\xa0\xa0☐' | words 54 ===
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. Large accelerated filer ☑
+
+=== CVX_10-Q_0000093410-26-000167:0001:4 | page 1 | section | section: 'Emerging growth company ☐' | words 79 ===
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes  ☐       No  ☑ There were 1,975,771,274 shares of the company’s common stock outstanding on June 30, 2026.
+
+=== CVX_10-Q_0000093410-26-000167:0003:1 | page 3 | paragraph | section: '' | words 196 ===
+Table of Contents TABLE OF CONTENTS Page No. Cautionary Statements Relevant to Forward-Looking Information for the Purpose of “Safe Harbor” Provisions of the Private Securities Litigation Reform Act of 1995 2 PART I FINANCIAL INFORMATION Item 1. Consolidated Financial Statements Consolidated Statement of Income for the Three and Six Months Ended June 30, 2026 and 2025 3 Consolidated Statement of Comprehensive Income for the Three and Six Months Ended June 30, 2026 and 2025 4 Consolidated Balance Sheet at June 30, 2026 and December 31, 2025 5 Consolidated Statement of Cash Flows for the Three and Six Months Ended June 30, 2026 and 2025 6 Consolidated Statement of Equity for the Three and Six Months Ended June 30, 2026 and 2025 7 Notes to Consolidated Financial Statements 8 Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 26 Item 3. Quantitative and Qualitative Disclosures About Market Risk 44 Item 4. Controls and Procedures 44 PART II OTHER INFORMATION Item 1. Legal Proceedings 44 Item 1A. Risk Factors 45 Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 45 Item 5. Other Information 45 Item 6. Exhibits 46 Signature 47 1
+
+=== CVX_10-Q_0000093410-26-000167:0004:1 | page 4 | paragraph | section: '' | words 249 ===
+Table of Contents CAUTIONARY STATEMENTS RELEVANT TO FORWARD-LOOKING INFORMATION FOR THE PURPOSE OF “SAFE HARBOR” PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995 This quarterly report on Form 10-Q of Chevron Corporation contains forward-looking statements relating to Chevron’s operations, assets, and strategy that are based on management’s current expectations, estimates and projections about the petroleum, chemicals and other energy-related industries. Words or phrases such as “anticipates,” “expects,” “intends,” “plans,” “targets,” “advances,” “commits,” “drives,” “aims,” “forecasts,” “projects,” “believes,” “approaches,” “seeks,” “schedules,” “estimates,” “positions,” “pursues,” “progress,” “design,” “enable,” “may,” “can,” “could,” “should,” “will,” “budgets,” “outlook,” “trends,” “guidance,” “focus,” “on track,” “trajectory,” “goals,” “objectives,” “strategies,” “opportunities,” “poised,” “potential,” “ambitions,” “future,” “aspires” and similar expressions, and variations or negatives of these words, are intended to identify such forward-looking statements, but not all forward-looking statements include such words. These statements are not guarantees of future performance and are subject to numerous risks, uncertainties and other factors, many of which are beyond the company’s control and are difficult to predict. Therefore, actual outcomes and results may differ materially from what is expressed or forecasted in such forward-looking statements. The reader should not place undue reliance on these forward-looking statements, which speak only as of the date of this report. Unless legally required, Chevron undertakes no obligation to update publicly any forward-looking statements, whether as a result of new information, future events or otherwise. Among the important factors that could cause actual results to differ materially from those in the forward-looking statements are: changing
+
+=== CVX_10-Q_0000093410-26-000167:0004:2 | page 4 | paragraph | section: '' | words 267 ===
+crude oil and natural gas prices and demand for the company’s products, and production curtailments due to market conditions; crude oil production quotas or other actions that might be imposed by the Organization of Petroleum Exporting Countries and other producing countries; technological advancements; changes to government policies in the countries in which the company operates; public health crises, such as pandemics and epidemics, and any related government policies and actions; disruptions in the company’s global supply chain, including supply chain constraints and escalation of the cost of goods and services; changing economic, regulatory and political environments in the various countries in which the company operates, including Venezuela; general domestic and international economic, market and political conditions, including the conflict between Russia and Ukraine, the ongoing conflict in the Middle East and the global response to these hostilities; changing refining, marketing and chemicals margins; the amount and timing of settlements on the company’s commodity derivative contracts; the company’s ability to realize anticipated cost savings and efficiencies associated with enterprise structural cost reduction initiatives; actions of competitors or regulators; timing of exploration expenses; changes in projected future cash flows; timing of crude oil liftings; uncertainties about the estimated quantities of crude oil, natural gas liquids and natural gas reserves; the competitiveness of alternate-energy sources or product substitutes; pace and scale of the development of large carbon capture and storage and offset markets; the results of operations and financial condition of the company’s suppliers, vendors, partners and equity affiliates; the inability or failure of the company’s joint-venture partners to fund their share of operations and development activities; the potential failure
+
+=== CVX_10-Q_0000093410-26-000167:0004:3 | page 4 | paragraph | section: '' | words 267 ===
+to achieve expected net production from existing and future crude oil and natural gas development projects; potential delays in the development, construction or start-up of planned projects; the potential disruption or interruption of the company’s operations due to war, accidents, political events, civil unrest, severe weather, cyber threats, terrorist acts, or other natural or human causes beyond the company’s control; the potential liability for remedial actions or assessments under existing or future environmental regulations and litigation; significant operational, investment or product changes undertaken or required by existing or future environmental statutes and regulations, including international agreements and national or regional legislation and regulatory measures related to greenhouse gas emissions and climate change; the potential liability resulting from pending or future litigation; the company’s ability to achieve the anticipated benefits from the acquisition of Hess Corporation; the company’s future acquisitions or dispositions of assets or shares or the delay or failure of such transactions to close based on required closing conditions; the potential for gains and losses from asset dispositions or impairments; government mandated sales, divestitures, recapitalizations, taxes and tax audits, tariffs, sanctions, changes in fiscal terms or restrictions on scope of company operations; foreign currency movements compared with the U.S. dollar; higher inflation and related impacts; material reductions in corporate liquidity and access to debt markets; changes to the company’s capital allocation strategies; the effects of changed accounting rules under generally accepted accounting principles promulgated by rule-setting bodies; the company’s ability to identify and mitigate the risks and hazards inherent in operating in the global energy industry; and the factors set forth under the heading “Risk Factors”
+
+=== CVX_10-Q_0000093410-26-000167:0004:4 | page 4 | paragraph | section: '' | words 45 ===
+on pages 21 through 27 of the company’s 2025 Annual Report on Form 10-K and in subsequent filings with the U.S. Securities and Exchange Commission. Other unpredictable or unknown factors not discussed in this report could also have material adverse effects on forward-looking statements. 2
+
+=== CVX_10-Q_0000093410-26-000167:0005:1 | page 5 | paragraph | section: '' | words 53 ===
+Table of Contents PART I. FINANCIAL INFORMATION Item 1. Consolidated Financial Statements CHEVRON CORPORATION AND SUBSIDIARIES CONSOLIDATED STATEMENT OF INCOME (Unaudited) Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars, except per-share amounts) Revenues and Other Income See accompanying notes to consolidated financial statements. 3
+
+=== CVX_10-Q_0000093410-26-000167:0005:2 | page 5 | table | section: '' | words 476 ===
+Sales and other operating revenues | $ | 67,199 |  | $ | 44,375 |  | $ | 114,755 |  | $ | 90,476
+Income (loss) from equity affiliates | 2,125 |  |  | 536 |  |  | 2,870 |  |  | 1,356 | 
+Other income (loss) | 731 |  |  | (89) |  |  | 1,037 |  |  | 600 | 
+Total Revenues and Other Income | 70,055 |  |  | 44,822 |  |  | 118,662 |  |  | 92,432 | 
+Costs and Other Deductions |  |  |  |  |  |  |  |  |  |  | 
+Purchased crude oil and products | 36,607 |  |  | 26,858 |  |  | 64,872 |  |  | 55,468 | 
+Operating expenses | 7,451 |  |  | 6,674 |  |  | 15,127 |  |  | 13,082 | 
+Selling, general and administrative expenses | 1,314 |  |  | 889 |  |  | 2,380 |  |  | 2,110 | 
+Exploration expenses | 256 |  |  | 252 |  |  | 461 |  |  | 439 | 
+Depreciation, depletion and amortization | 6,082 |  |  | 4,344 |  |  | 11,890 |  |  | 8,467 | 
+Taxes other than on income | 1,213 |  |  | 1,301 |  |  | 2,527 |  |  | 2,556 | 
+Interest and debt expense | 352 |  |  | 274 |  |  | 697 |  |  | 486 | 
+Other components of net periodic benefit costs | 96 |  |  | 83 |  |  | 78 |  |  | 94 | 
+Total Costs and Other Deductions | 53,371 |  |  | 40,675 |  |  | 98,032 |  |  | 82,702 | 
+Income (Loss) Before Income Tax Expense | 16,684 |  |  | 4,147 |  |  | 20,630 |  |  | 9,730 | 
+Income Tax Expense (Benefit) | 4,470 |  |  | 1,632 |  |  | 6,123 |  |  | 3,703 | 
+Net Income (Loss) | 12,214 |  |  | 2,515 |  |  | 14,507 |  |  | 6,027 | 
+Less: Net income (loss) attributable to noncontrolling interests | 142 |  |  | 25 |  |  | 225 |  |  | 37 | 
+Net Income (Loss) Attributable to Chevron Corporation | $ | 12,072 |  | $ | 2,490 |  | $ | 14,282 |  | $ | 5,990
+Per Share of Common Stock |  |  |  |  |  |  |  |  |  |  | 
+Net Income (Loss) Attributable to Chevron Corporation |  |  |  |  |  |  |  |  |  |  | 
+- Basic | $ | 6.13 |  | $ | 1.45 |  | $ | 7.23 |  | $ | 3.46
+- Diluted | $ | 6.11 |  | $ | 1.45 |  | $ | 7.21 |  | $ | 3.45
+Weighted Average Number of Shares Outstanding (000s) |  |  |  |  |  |  |  |  |  |  | 
+- Basic | 1,969,868 
+
+=== CVX_10-Q_0000093410-26-000167:0005:3 | page 5 | table | section: '' | words 30 ===
+|  |  | 1,719,184 |  |  | 1,974,979 |  |  | 1,731,836 | 
+- Diluted | 1,975,087 |  |  | 1,724,397 |  |  | 1,980,464 |  |  | 1,737,844 |
+
+=== CVX_10-Q_0000093410-26-000167:0006:1 | page 6 | paragraph | section: '' | words 56 ===
+Table of Contents CHEVRON CORPORATION AND SUBSIDIARIES CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (Unaudited) Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Currency translation adjustment (74) 54 (92) 70 Net derivatives gain (loss) on hedge transactions 129 6 (24) (17) See accompanying notes to consolidated financial statements. 4
+
+=== CVX_10-Q_0000093410-26-000167:0006:2 | page 6 | table | section: '' | words 22 ===
+Net Income (Loss) | $ | 12,214 |  | $ | 2,515 |  | $ | 14,507 |  | $ | 6,027
+
+=== CVX_10-Q_0000093410-26-000167:0006:3 | page 6 | table | section: '' | words 31 ===
+Unrealized holding gain (loss) on securities |  |  |  |  |  |  | 
+ | 2 | 13 |  |  | 1 |  | 
+Derivatives |  |  |  |  |  |  |
+
+=== CVX_10-Q_0000093410-26-000167:0006:4 | page 6 | table | section: '' | words 343 ===
+Reclassification to net income | 153 |  |  | 23 |  |  | 143 |  |  | 40 | 
+Income taxes on derivatives transactions | (63) |  |  | (6) |  |  | (27) (4) |  |  |  | 
+Total | 219 |  |  | 23 |  |  | 92 |  |  | 19 | 
+Defined benefit plans |  |  |  |  |  |  |  |  |  |  | 
+Actuarial gain (loss) |  |  |  |  |  |  |  |  |  |  | 
+Amortization to net income of net actuarial loss and settlements | 149 |  |  | 37 |  |  | 186 |  |  | 75 | 
+Actuarial gain (loss) arising during period | 283 |  |  | 35 |  |  | 283 |  |  | 34 | 
+Prior service credits (cost) |  |  |  |  |  |  |  |  |  |  | 
+Amortization to net income of net prior service costs and curtailments | (2) |  |  | (1) |  |  | (4) |  |  | (3) | 
+Prior service (costs) credits arising during period | — |  |  | — |  |  | — |  |  | — | 
+Defined benefit plans sponsored by equity affiliates - benefit (cost) | 1 |  |  | — |  |  | 5 |  |  | 9 | 
+Income (taxes) benefit on defined benefit plans | (98) |  |  | (19) |  |  | (120) |  |  | (29) | 
+Total | 333 |  |  | 52 |  |  | 350 |  |  | 86 | 
+Other Comprehensive Gain (Loss), Net of Tax | 480 |  |  | 142 |  |  | 351 |  |  | 193 | 
+Comprehensive Income (Loss) | 12,694 |  |  | 2,657 |  |  | 14,858 |  |  | 6,220 | 
+Comprehensive loss (income) attributable to noncontrolling interests | (142) |  |  | (25) |  |  | (225) |  |  | (37) | 
+Comprehensive Income (Loss) Attributable to Chevron Corporation | $ | 12,552 |  | $ | 2,632 |  | $ | 14,633 |  | $ | 6,183
+
+=== CVX_10-Q_0000093410-26-000167:0007:1 | page 7 | paragraph | section: '' | words 11 ===
+Table of Contents CHEVRON CORPORATION AND SUBSIDIARIES CONSOLIDATED BALANCE SHEET (Unaudited)
+
+=== CVX_10-Q_0000093410-26-000167:0008:1 | page 8 | table | section: '' | words 414 ===
+Cash and cash equivalents |  | $ | 8,527 |  | $ | 6,293
+Time deposits |  | 3 |  |  | 4 | 
+Accounts and notes receivable (less allowance: 2026 - $178; 2025 - $176) |  | 24,575 |  |  | 18,075 | 
+Inventories: |  |  |  |  |  | 
+Crude oil and products |  | 7,168 |  |  | 6,640 | 
+Chemicals |  | 632 |  |  | 571 | 
+Materials, supplies and other |  | 2,722 |  |  | 2,500 | 
+Total inventories |  | 10,522 |  |  | 9,711 | 
+Prepaid expenses and other current assets |  | 5,509 |  |  | 4,469 | 
+Total Current Assets |  | 49,136 |  |  | 38,552 | 
+Long-term receivables (less allowance: 2026 - $216; 2025 - $216) |  | 903 |  |  | 1,035 | 
+Investments and advances |  | 42,346 |  |  | 43,867 | 
+Properties, plant and equipment, at cost |  | 440,714 |  |  | 434,955 | 
+Less: Accumulated depreciation, depletion and amortization |  | 224,777 |  |  | 215,226 | 
+Properties, plant and equipment, net |  | 215,937 |  |  | 219,729 | 
+Deferred charges and other assets |  | 16,465 |  |  | 16,236 | 
+Goodwill |  | 4,568 |  |  | 4,568 | 
+Assets held for sale |  | 780 |  |  | 25 | 
+Total Assets |  | $ | 330,135 |  | $ | 324,012
+Liabilities and Equity |  |  |  |  |  | 
+Short-term debt |  | $ | 401 |  | $ | 977
+Accounts payable |  | 24,419 |  |  | 19,280 | 
+Accrued liabilities |  | 10,840 |  |  | 10,763 | 
+Federal and other taxes on income |  | 2,204 |  |  | 844 | 
+Other taxes payable |  | 1,377 |  |  | 1,523 | 
+Total Current Liabilities |  | 39,241 |  |  | 33,387 | 
+Long-term debt |  | 36,674 |  |  | 39,781 | 
+Deferred credits and other noncurrent obligations |  | 24,392 |  |  | 24,543 | 
+Noncurrent deferred income taxes |  | 30,338 |  |  | 30,014 | 
+Noncurrent employee benefit plans |  | 3,932 |  |  | 4,111 | 
+Total Liabilities* |  | $ | 134,577 |  | $ | 131,836
+Preferred stock (authorized 100,000,000 shares; $1.00 par value; none issued) |  | — |  |  | — | 
+Common stock (authorized 6,000,000,000 shares, $0.75 par value; 2,442,676,580 shares issued at June 30, 2026 and December 31, 2025) |  | 1,832 |  |  
+
+=== CVX_10-Q_0000093410-26-000167:0008:2 | page 8 | table | section: '' | words 140 ===
+| 1,832 | 
+Capital in excess of par value |  | 33,999 |  |  | 33,886 | 
+Retained earnings |  | 212,595 |  |  | 205,365 | 
+Accumulated other comprehensive losses |  | (2,113) |  |  | (2,464) | 
+Deferred compensation and benefit plan trust |  | (240) |  |  | (240) | 
+Treasury stock, at cost (466,905,306 and 448,260,458 shares at June 30, 2026 and December 31, 2025, respectively) |  | (56,190) |  |  | (51,929) | 
+Total Chevron Corporation Stockholders’ Equity |  | 189,883 |  |  | 186,450 | 
+Noncontrolling interests |  | 5,675 |  |  | 5,726 | 
+Total Equity |  | 195,558 |  |  | 192,176 | 
+Total Liabilities and Equity |  | $ | 330,135 |  | $ | 324,012
+* Refer to Note 12 Other Contingencies and Commitments. |  |  |  |  |  |
+
+=== CVX_10-Q_0000093410-26-000167:0009:1 | page 9 | paragraph | section: '' | words 8 ===
+See accompanying notes to consolidated financial statements. 5
+
+=== CVX_10-Q_0000093410-26-000167:0010:1 | page 10 | paragraph | section: '' | words 31 ===
+Table of Contents CHEVRON CORPORATION AND SUBSIDIARIES CONSOLIDATED STATEMENT OF CASH FLOWS (Unaudited) Six Months Ended June 30 2026 2025 (Millions of dollars) See accompanying notes to consolidated financial statements. 6
+
+=== CVX_10-Q_0000093410-26-000167:0010:2 | page 10 | table | section: '' | words 383 ===
+Operating Activities |  |  |  |  | 
+Net Income (Loss) | $ | 14,507 |  | $ | 6,027
+Adjustments |  |  |  |  | 
+Depreciation, depletion and amortization | 11,890 |  |  | 8,467 | 
+Dry hole expense | 144 |  |  | 177 | 
+Distributions more (less) than income from equity affiliates | 474 |  |  | 1,176 | 
+Net before-tax losses (gains) on asset retirements and sales | (232) |  |  | (299) | 
+Net foreign currency effects | 168 |  |  | 470 | 
+Deferred income tax provision | 34 |  |  | 509 | 
+Net decrease (increase) in operating working capital | (1,680) |  |  | (2,130) | 
+Decrease (increase) in long-term receivables | 129 |  |  | (10) | 
+Net decrease (increase) in other deferred charges | 133 |  |  | (227) | 
+Cash contributions to employee pension plans | (396) |  |  | (444) | 
+Other | (24) |  |  | 49 | 
+Net Cash Provided by Operating Activities | 25,147 |  |  | 13,765 | 
+Investing Activities |  |  |  |  | 
+Acquisition of Hess Corporation common stock | — |  |  | (2,225) | 
+Capital expenditures | (8,601) |  |  | (7,639) | 
+Proceeds and deposits related to asset sales and returns of investment | 355 |  |  | 990 | 
+Net maturities of (investments in) time deposits | 1 |  |  | — | 
+Net repayment (borrowing) of loans by equity affiliates | 979 |  |  | (176) | 
+Net Cash Used for Investing Activities | (7,266) |  |  | (9,050) | 
+Financing Activities |  |  |  |  | 
+Net borrowings (repayments) of short-term obligations | (794) |  |  | 1,891 | 
+Proceeds from issuances of long-term debt | 99 |  |  | 5,491 | 
+Repayments of long-term debt and other financing obligations | (3,069) |  |  | (2,651) | 
+Cash dividends - common stock | (7,030) |  |  | (5,918) | 
+Net contributions from (distributions to) noncontrolling interests | (269) |  |  | (30) | 
+Net sales (purchases) of treasury shares | (4,480) |  |  | (6,432) | 
+Net Cash Provided by (Used for) Financing Activities | (15,543) |  |  | (7,649) | 
+Effect of Exchange Rate Changes on Cash, Cash Equivalents and Restricted Cash | (41) |  |  | 47 |
+
+=== CVX_10-Q_0000093410-26-000167:0010:3 | page 10 | table | section: '' | words 50 ===
+ 
+Net Change in Cash, Cash Equivalents and Restricted Cash | 2,297 |  |  | (2,887) | 
+Cash, Cash Equivalents and Restricted Cash at January 1 | 7,285 |  |  | 8,262 | 
+Cash, Cash Equivalents and Restricted Cash at June 30 | $ | 9,582 |  | $ | 5,375
+
+=== CVX_10-Q_0000093410-26-000167:0011:1 | page 11 | paragraph | section: '' | words 12 ===
+Table of Contents CHEVRON CORPORATION AND SUBSIDIARIES CONSOLIDATED STATEMENT OF EQUITY (Unaudited)
+
+=== CVX_10-Q_0000093410-26-000167:0012:1 | page 12 | paragraph | section: '' | words 74 ===
+(Millions of dollars) Accumulated Treasury Chevron Corp. Non- Common Retained Other Comp. Stock Stockholders’ Controlling Total Three Months Ended June 30 Stock Earnings Income (Loss) (at cost) Equity Interests Equity Beginning and ending balances for all periods include capital in excess of par, common stock issued at par for $1,832, and $(240) associated with Chevron’s Benefit Plan Trust. Changes reflect capital in excess of par. Includes excise tax on share repurchases. (1) (1) (2)
+
+=== CVX_10-Q_0000093410-26-000167:0012:2 | page 12 | table | section: '' | words 563 ===
+Balance at March 31, 2025 | $ | 23,311 | $ | 206,359 | $ | (2,709) | $ | (77,717) | $ | 149,244 | $ | 836 | $ | 150,080
+Treasury stock transactions | 96 |  | — |  | — |  | — |  | 96 |  | — |  | 96 | 
+Net income (loss) | — |  | 2,490 |  | — |  | — |  | 2,490 |  | 25 |  | 2,515 | 
+Cash dividends ($1.71 per share) | — |  | (2,934) |  | — |  | — |  | (2,934) |  | (20) |  | (2,954) | 
+Stock dividends | — |  | (9) |  | — |  | — |  | (9) |  | — |  | (9) | 
+Other comprehensive income | — |  | — |  | 142 |  | — |  | 142 |  | — |  | 142 | 
+Purchases of treasury shares(2) | — |  | — |  | — |  | (2,770) |  | (2,770) |  | — |  | (2,770) | 
+Issuances of treasury shares | (12) |  | — |  | — |  | 171 |  | 159 |  | — |  | 159 | 
+Other changes, net | — |  | (1) |  | — |  | — |  | (1) |  | — |  | (1) | 
+Balance at June 30, 2025 | $ | 23,395 | $ | 205,905 | $ | (2,567) | $ | (80,316) | $ | 146,417 | $ | 841 | $ | 147,258
+Balance at March 31, 2026 | $ | 35,478 | $ | 204,039 | $ | (2,593) | $ | (53,209) | $ | 183,715 | $ | 5,656 | $ | 189,371
+Treasury stock transactions | (23) |  | — |  | — |  | — |  | (23) |  | — |  | (23) | 
+Net income (loss) | — |  | 12,072 |  | — |  | — |  | 12,072 |  | 142 |  | 12,214 | 
+Cash dividends ($1.78 per share) | — |  | (3,504) |  | — |  | — |  | (3,504) |  | (123) |  | (3,627) | 
+Stock dividends | — |  | (11) |  | — |  | — |  | (11) |  | — |  | (11) | 
+Other comprehensive income | — |  | — |  | 480 |  | — |  | 480 |  | — |  | 480 | 
+Purchases of treasury shares(2) | — |  | — |  | — |  | (3,147) |  | (3,147) |  | — |  | (3,147) | 
+Issuances of treasury shares | 136 |  | — |  | — |  | 166 |  | 302 |  | — |  | 302 | 
+Other changes, net | — |  | (1) |  | — |  | — |  | (1) |  | — |  | (1) | 
+Balance at June 30, 2026 | $ | 35,591 | $ | 212,595 | $ | (2,113) | $ | (56,190) | $ | 189,883 | $ | 5,675 | $ | 195,558
+Six Months Ended June 30 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Balance at December 31, 2024 | $ | 23,263 | $ | 205,852 | $ | (2,760) | $ | (74,037) |
+
+=== CVX_10-Q_0000093410-26-000167:0012:3 | page 12 | table | section: '' | words 552 ===
+ $ | 152,318 | $ | 839 | $ | 153,157
+Treasury stock transactions | 199 |  | — |  | — |  | — |  | 199 |  | — |  | 199 | 
+Net income (loss) | — |  | 5,990 |  | — |  | — |  | 5,990 |  | 37 |  | 6,027 | 
+Cash dividends ($3.42 per share) | — |  | (5,918) |  | — |  | — |  | (5,918) |  | (35) |  | (5,953) | 
+Stock dividends | — |  | (18) |  | — |  | — |  | (18) |  | — |  | (18) | 
+Other comprehensive income | — |  | — |  | 193 |  | — |  | 193 |  | — |  | 193 | 
+Purchases of treasury shares | — |  | — |  | — |  | (6,722) |  | (6,722) |  | — |  | (6,722) | 
+Issuances of treasury shares | (67) |  | — |  | — |  | 443 |  | 376 |  | — |  | 376 | 
+Other changes, net | — |  | (1) |  | — |  | — |  | (1) |  | — |  | (1) | 
+Balance at June 30, 2025 | $ | 23,395 | $ | 205,905 | $ | (2,567) | $ | (80,316) | $ | 146,417 | $ | 841 | $ | 147,258
+Balance at December 31, 2025 | $ | 35,478 | $ | 205,365 | $ | (2,464) | $ | (51,929) | $ | 186,450 | $ | 5,726 | $ | 192,176
+Treasury stock transactions | 114 |  | — |  | — |  | — |  | 114 |  | — |  | 114 | 
+Net income (loss) | — |  | 14,282 |  | — |  | — |  | 14,282 |  | 225 |  | 14,507 | 
+Cash dividends ($3.56 per share) | — |  | (7,030) |  | — |  | — |  | (7,030) |  | (277) |  | (7,307) | 
+Stock dividends | — |  | (22) |  | — |  | — |  | (22) |  | — |  | (22) | 
+Other comprehensive income | — |  | — |  | 351 |  | — |  | 351 |  | — |  | 351 | 
+Purchases of treasury shares(2) | — |  | — |  | — |  | (5,724) |  | (5,724) |  | — |  | (5,724) | 
+Issuances of treasury shares | (1) |  | — |  | — |  | 1,463 |  | 1,462 |  | — |  | 1,462 | 
+Other changes, net | — |  | — |  | — |  | — |  | — |  | 1 |  | 1 | 
+Balance at June 30, 2026 | $ | 35,591 | $ | 212,595 | $ | (2,113) | $ | (56,190) | $ | 189,883 | $ | 5,675 | $ | 195,558
+(Number of Shares) | Common Stock - 2026 |  |  |  |  |  |  |  | Common Stock - 2025 |  |  |  |  | 
+Three Months Ended June 30 | Issued(3) |  | Treasury |  | Outstanding |  |  |  | Issued(3) |  | Treasury |  | Outstanding | 
+Balance a
+
+=== CVX_10-Q_0000093410-26-000167:0012:4 | page 12 | table | section: '' | words 212 ===
+t March 31 | 2,442,676,580 |  | (451,078,848) |  | 1,991,597,732 |  |  |  | 2,442,676,580 |  | (696,282,675) |  | 1,746,393,905 | 
+Purchases | — |  | (16,255,113) |  | (16,255,113) |  |  |  | — |  | (18,620,921) |  | (18,620,921) | 
+Issuances | — |  | 428,655 |  | 428,655 |  |  |  | — |  | 217,392 |  | 217,392 | 
+Balance at June 30 | 2,442,676,580 |  | (466,905,306) |  | 1,975,771,274 |  |  |  | 2,442,676,580 |  | (714,686,204) |  | 1,727,990,376 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Six Months Ended June 30 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Balance at December 31 | 2,442,676,580 |  | (448,260,458) |  | 1,994,416,122 |  |  |  | 2,442,676,580 |  | (673,664,306) |  | 1,769,012,274 | 
+Purchases | — |  | (30,251,590) |  | (30,251,590) |  |  |  | — |  | (43,708,349) |  | (43,708,349) | 
+Issuances | — |  | 11,606,742 |  | 11,606,742 |  |  |  | — |  | 2,686,451 |  | 2,686,451 | 
+Balance at June 30 | 2,442,676,580 |  | (466,905,306) |  | 1,975,771,274 |  |  |  | 2,442,676,580 |  | (714,686,204) |  | 1,727,990,376 |
+
+=== CVX_10-Q_0000093410-26-000167:0013:1 | page 13 | paragraph | section: '' | words 28 ===
+Beginning and ending total issued share balances include 14,168,000 shares associated with Chevron’s Benefit Plan Trust for all periods. (3) See accompanying notes to consolidated financial statements. 7
+
+=== CVX_10-Q_0000093410-26-000167:0014:1 | page 14 | paragraph | section: '' | words 293 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS Note 1. General Basis of Presentation The accompanying consolidated financial statements of Chevron Corporation and its subsidiaries (together, Chevron or the company) have not been audited by an independent registered public accounting firm. In the opinion of the company’s management, the interim data includes all adjustments necessary for a fair statement of the results for the interim periods. These adjustments were of a normal recurring nature. The results for the three- and six-month periods ended June 30, 2026, are not necessarily indicative of future financial results. The term “earnings” is defined as net income attributable to Chevron. Certain notes and other information have been condensed or omitted from the interim financial statements presented in this Quarterly Report on Form 10-Q. Therefore, these financial statements should be read in conjunction with the company’s 2025 Annual Report on Form 10-K. Note 2. Changes in Accumulated Other Comprehensive Losses The change in Accumulated Other Comprehensive Losses (AOCL) presented on the Consolidated Balance Sheet and the impact of significant amounts reclassified from AOCL on information presented in the Consolidated Statement of Income for the six months ended June 30, 2026 and 2025, are reflected in the table below. Changes in Accumulated Other Comprehensive Income (Loss) by Component Currency Translation Adjustment Unrealized Holding Gains (Losses) on Securities Derivatives Defined Benefit Plans Total (Millions of dollars) All amounts are net of tax. Refer to Note 14 Financial and Derivative Instruments for reclassified components of cash flow hedging. Refer to Note 8 Employee Benefits for reclassified components, including amortization of actuarial gains or losses, amortization of prior service costs, and special events, including settlements, totaling $182 that are included in employee benefit costs for the six months ended June 30, 2026. Rel
+
+=== CVX_10-Q_0000093410-26-000167:0014:2 | page 14 | paragraph | section: '' | words 27 ===
+period, totaling $43, are reflected in “Income Tax Expense (Benefit)” on the Consolidated Statement of Income. All other reclassified amounts were insignificant. (1) (1) (2) (3) 8
+
+=== CVX_10-Q_0000093410-26-000167:0014:3 | page 14 | table | section: '' | words 315 ===
+Balance at December 31, 2024 |  | $ | (259) |  | $ | (19) |  | $ | (14) |  | $ | (2,468) |  | $ | (2,760)
+Components of Other Comprehensive Income (Loss): |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Before Reclassifications |  | 70 |  |  | 18 |  |  | (21) |  |  | 34 |  |  | 101 | 
+Reclassifications(2) (3) |  | — |  |  | — |  |  | 40 |  |  | 52 |  |  | 92 | 
+Net Other Comprehensive Income (Loss) |  | 70 |  |  | 18 |  |  | 19 |  |  | 86 |  |  | 193 | 
+Balance at June 30, 2025 |  | $ | (189) |  | $ | (1) |  | $ | 5 |  | $ | (2,382) |  | $ | (2,567)
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Balance at December 31, 2025 |  | $ | (199) |  | $ | (4) |  | $ | 8 |  | $ | (2,269) |  | $ | (2,464)
+Components of Other Comprehensive Income (Loss): |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Before Reclassifications |  | (92) |  |  | 1 |  |  | (51) |  |  | 211 |  |  | 69 | 
+Reclassifications(2) (3) |  | — |  |  | — |  |  | 143 |  |  | 139 |  |  | 282 | 
+Net Other Comprehensive Income (Loss) |  | (92) |  |  | 1 |  |  | 92 |  |  | 350 |  |  | 351 | 
+Balance at June 30, 2026 |  | $ | (291) |  | $ | (3) |  | $ | 100 |  | $ | (1,919) |  | $ | (2,113)
+
+=== CVX_10-Q_0000093410-26-000167:0015:1 | page 15 | paragraph | section: '' | words 77 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Note 3. Information Relating to the Consolidated Statement of Cash Flows Six Months Ended June 30 2026 2025 (Millions of dollars) Net decrease (increase) in operating working capital $ (1,680) $ (2,130) Net borrowings (repayments) of short-term obligations $ (794) $ 1,891 Share repurchase excise tax payment (114) (146) The Consolidated Statement of Cash Flows excludes changes to the Consolidated Balance Sheet that did not affect cash.
+
+=== CVX_10-Q_0000093410-26-000167:0015:2 | page 15 | table | section: '' | words 148 ===
+Distributions more (less) than income from equity affiliates included the following: |  |  |  |  | 
+Distributions from equity affiliates | $ | 3,344 |  | $ | 2,532
+(Income) loss from equity affiliates | (2,870) |  |  | (1,356) | 
+Distributions more (less) than income from equity affiliates | $ | 474 |  | $ | 1,176
+Net decrease (increase) in operating working capital was composed of the following: |  |  |  |  | 
+Decrease (increase) in accounts and notes receivable | $ | (6,569) |  | $ | 3,089
+Decrease (increase) in inventories | (804) |  |  | 153 | 
+Decrease (increase) in prepaid expenses and other current assets | (878) |  |  | 214 | 
+Increase (decrease) in accounts payable and accrued liabilities | 5,249 |  |  | (3,962) | 
+Increase (decrease) in income and other taxes payable | 1,322 |  |  | (1,624) |
+
+=== CVX_10-Q_0000093410-26-000167:0015:3 | page 15 | table | section: '' | words 301 ===
+Net cash provided by operating activities included the following cash payments: |  |  |  |  | 
+Interest on debt (net of capitalized interest) | $ | 739 |  | $ | 410
+Income taxes | 4,539 |  |  | 4,136 | 
+Proceeds and deposits related to asset sales and returns of investment consisted of the following gross amounts: |  |  |  |  | 
+Proceeds and deposits related to asset sales | $ | 305 |  | $ | 932
+Returns of investment from equity affiliates | 50 |  |  | 58 | 
+Proceeds and deposits related to asset sales and returns of investment | $ | 355 |  | $ | 990
+Net maturities of (investments in) time deposits consisted of the following gross amounts: |  |  |  |  | 
+Investments in time deposits | $ | (7) |  | $ | (9)
+Maturities of time deposits | 8 |  |  | 9 | 
+Net maturities of (investments in) time deposits | $ | 1 |  | $ | —
+Net repayment (borrowing) of loans by equity affiliates consisted of the following gross amounts: |  |  |  |  | 
+Borrowing of loans by equity affiliates | $ | (65) |  | $ | (216)
+Repayment of loans by equity affiliates | 1,044 |  |  | 40 | 
+Net repayment (borrowing) of loans by equity affiliates | $ | 979 |  | $ | (176)
+Net borrowings (repayments) of short-term obligations consisted of the following gross and net amounts: |  |  |  |  | 
+Proceeds from issuances of short-term debt obligations | $ | 4,882 |  | $ | 6,779
+Repayments of short-term debt obligations | (2,911) |  |  | (3,957) | 
+Net borrowings (repayments) of short-term debt obligations with three months or less maturity | (2,765) |  |  | (931) |
+
+=== CVX_10-Q_0000093410-26-000167:0015:4 | page 15 | table | section: '' | words 108 ===
+Net contributions from (distributions to) noncontrolling interests consisted of the following gross amounts: |  |  |  |  | 
+Distributions to noncontrolling interests | $ | (277) |  | $ | (34)
+Contributions from noncontrolling interests | 8 |  |  | 4 | 
+Net contributions from (distributions to) noncontrolling interests | $ | (269) |  | $ | (30)
+Net sales (purchases) of treasury shares consisted of the following gross and net amounts: |  |  |  |  | 
+Shares issued for share-based compensation plans | $ | 1,209 |  | $ | 229
+Shares purchased under share repurchase and executive compensation plans | (5,575) |  |  | (6,515) |
+
+=== CVX_10-Q_0000093410-26-000167:0016:1 | page 16 | paragraph | section: '' | words 1 ===
+9
+
+=== CVX_10-Q_0000093410-26-000167:0017:1 | page 17 | paragraph | section: '' | words 280 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) The “Other” line in the Operating Activities section includes changes in asset retirement obligations, abandonment and decommissioning obligations associated with previously sold assets, postretirement benefits obligations, equity-based compensation adjustments, and other long-term liabilities. The company paid dividends of $1.78 per share of common stock in second quarter 2026. This compares to dividends of $1.71 per share paid in the year-ago corresponding period. The components of “Capital expenditures” are presented in the following table: Six Months Ended June 30 2026 2025 (Millions of dollars) The table below quantifies the beginning and ending balances of restricted cash and restricted cash equivalents in the Consolidated Balance Sheet: At June 30 At December 31 2026 2025 2025 2024 (Millions of dollars) (Millions of dollars) Restricted cash included in “Prepaid expenses and other current assets” 236 237 174 281 Total cash, cash equivalents and restricted cash $ 9,582 $ 5,375 $ 7,285 $ 8,262 Additional information related to restricted cash is included in Note 13 Fair Value Measurements under the heading “Restricted Cash.” Note 4. New Accounting Standards Income Statement (Topic 220) Reporting Comprehensive Income - Expense Disaggregation Disclosures In November 2024, the FASB issued ASU 2024-03, which becomes effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. The standard requires companies to disclose disaggregated information about certain income statement expense line items. The company does not expect the standard to have a material effect on its consolidated financial statements and has begun evaluating disclosure presentation alternatives. Environmental Credits and Environmental Credit Obligations (Topic 818) In May 2026, the FASB issued ASU 2026-02, which
+
+=== CVX_10-Q_0000093410-26-000167:0017:2 | page 17 | paragraph | section: '' | words 54 ===
+becomes effective for fiscal years beginning after December 15, 2027, and interim periods within those annual reporting periods. The standard provides specific authoritative guidance on the recognition, measurement, presentation and disclosure of environmental credits and environmental credit obligations. The company is evaluating the effect of the standard on the company’s consolidated financial statements. 10
+
+=== CVX_10-Q_0000093410-26-000167:0017:3 | page 17 | table | section: '' | words 48 ===
+Additions to properties, plant and equipment | $ | 8,340 |  | $ | 7,377
+Additions to investments | 129 |  |  | 101 | 
+Current-year dry hole expenditures | 132 |  |  | $ | 161
+Capital expenditures | $ | 8,601 |  | $ | 7,639
+
+=== CVX_10-Q_0000093410-26-000167:0017:4 | page 17 | table | section: '' | words 23 ===
+Cash and cash equivalents | $ | 8,527 |  | $ | 4,061 |  | $ | 6,293 |  | $ | 6,781
+
+=== CVX_10-Q_0000093410-26-000167:0017:5 | page 17 | table | section: '' | words 20 ===
+Restricted cash included in “Deferred charges and other assets” | 819 |  | 1,077 |  | 818 |  | 1,200
+
+=== CVX_10-Q_0000093410-26-000167:0018:1 | page 18 | paragraph | section: '' | words 208 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Note 5. Summarized Financial Data — Tengizchevroil LLP Chevron has a 50 percent equity ownership interest in Tengizchevroil LLP (TCO). Summarized financial information for 100 percent of TCO is presented in the following table: Six Months Ended June 30 2026 2025 (Millions of dollars) Note 6. Summarized Financial Data — Chevron U.S.A. Inc. Chevron U.S.A. Inc. (CUSA) is a major subsidiary of Chevron Corporation. CUSA and its subsidiaries manage and operate most of Chevron’s U.S. businesses. Assets include those related to the exploration and production of crude oil, natural gas liquids and natural gas and those associated with refining, marketing, and supply and distribution of products derived from petroleum, excluding most of the regulated pipeline operations of Chevron. CUSA also holds the company’s investment in the Chevron Phillips Chemical Company LLC (CPChem) joint venture, which is accounted for using the equity method. The summarized financial information for CUSA and its consolidated subsidiaries is as follows: Six Months Ended June 30 2026 2025 (Millions of dollars) Costs and other deductions 87,034 67,891 At June 30, 2026 At December 31, 2025 (Millions of dollars) Other assets 59,399 59,166 Other liabilities 31,229 31,646 Memo: Total debt $ 19,245 $ 19,371 11
+
+=== CVX_10-Q_0000093410-26-000167:0018:2 | page 18 | table | section: '' | words 31 ===
+Sales and other operating revenues | $ 13,508 |  | $ | 11,044
+ | 9,559 |  |  | 
+Net income attributable to TCO | $ 2,811 |  | $ | 1,320
+
+=== CVX_10-Q_0000093410-26-000167:0019:1 | page 19 | section | section: 'Note 7. Operating Segments and Geographic Data' | words 52 ===
+Upstream Downstream Segment Total All Other Total Three months ended June 30, 2026 U.S. Int’l. U.S. Int’l. Values have been adjusted for eliminations, unless otherwise specified. Includes interest income of $71 in “All Other.” Valuation of product transfers between operating segments. Includes interest expense of $318 in “All Other.” (1) (2) (3)
+
+=== CVX_10-Q_0000093410-26-000167:0019:2 | page 19 | table | section: 'Note 7. Operating Segments and Geographic Data' | words 460 ===
+Sales and other operating revenues before elimination | $ | 15,969 | $ | 18,523 | $ | 28,503 | $ | 25,623 | $ | 88,618 | $ | 161 | $ | 88,779
+Intersegment revenue elimination | (10,309) |  | (6,655) |  | (3,780) |  | (700) |  | (21,444) |  | (136) |  | (21,580) | 
+Sales and Other Operating Revenues | 5,660 |  | 11,868 |  | 24,723 |  | 24,923 |  | 67,174 |  | 25 |  | 67,199 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Income (loss) from equity affiliates | (33) |  | 1,303 |  | 456 |  | 399 |  | 2,125 |  | — |  | 2,125 | 
+Other income (loss)(1) | (20) |  | 364 |  | 19 |  | 247 |  | 610 |  | 121 |  | 731 | 
+Total Revenues and Other Income | 5,607 |  | 13,535 |  | 25,198 |  | 25,569 |  | 69,909 |  | 146 |  | 70,055 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Intersegment product transfers(2) | 9,017 |  | 3,111 |  | (10,355) |  | (2,023) |  | (250) |  | 250 |  | — | 
+Less expenses: |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Purchased crude oil and products | 4,359 |  | 4,990 |  | 9,161 |  | 18,097 |  | 36,607 |  | — |  | 36,607 | 
+Operating and SG&A expenses | 2,050 |  | 1,417 |  | 2,270 |  | 2,006 |  | 7,743 |  | 1,118 |  | 8,861 | 
+Depreciation, depletion and amortization | 3,076 |  | 2,581 |  | 259 |  | 75 |  | 5,991 |  | 91 |  | 6,082 | 
+Other costs and deductions(3) | 494 |  | 362 |  | 123 |  | 456 |  | 1,435 |  | 386 |  | 1,821 | 
+Total Costs and Other Deductions | 9,979 |  | 9,350 |  | 11,813 |  | 20,634 |  | 51,776 |  | 1,595 |  | 53,371 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Income Tax Expense (Benefit) | 1,041 |  | 2,653 |  | 619 |  | 378 |  | 4,691 |  | (221) |  | 4,470 | 
+Less: Net income (loss) attributable to non- controlling interests | 63 |  | 2 |  | — |  | 77 |  | 142 |  | — |  | 142 | 
+Net Income (Loss) Attributable to Chevron Corporation | $ | 3,541 | $ | 4,641 | $ | 2,411 | $ | 2,457 | $ | 13,050 | $ | (978) | $ | 12,072
+
+=== CVX_10-Q_0000093410-26-000167:0020:1 | page 20 | paragraph | section: '' | words 53 ===
+Upstream Downstream Segment Total All Other Total Three months ended June 30, 2025 U.S. Int’l. U.S. Int’l. Values have been adjusted for eliminations, unless otherwise specified. Includes interest income of $63 in “All Other.” Valuation of product transfers between operating segments. Includes interest expense of $250 in “All Other.” (1) (2) (3) 12
+
+=== CVX_10-Q_0000093410-26-000167:0020:2 | page 20 | table | section: '' | words 460 ===
+Sales and other operating revenues before elimination | $ | 10,385 | $ | 9,182 | $ | 18,708 | $ | 18,274 | $ | 56,549 | $ | 149 | $ | 56,698
+Intersegment revenue elimination | (6,321) |  | (2,178) |  | (1,901) |  | (1,804) |  | (12,204) |  | (119) |  | (12,323) | 
+Sales and Other Operating Revenues | 4,064 |  | 7,004 |  | 16,807 |  | 16,470 |  | 44,345 |  | 30 |  | 44,375 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Income (loss) from equity affiliates | (13) |  | 438 |  | 55 |  | 55 |  | 535 |  | 1 |  | 536 | 
+Other income (loss)(1) | 258 |  | (145) |  | 28 |  | (23) |  | 118 |  | (207) |  | (89) | 
+Total Revenues and Other Income | 4,309 |  | 7,297 |  | 16,890 |  | 16,502 |  | 44,998 |  | (176) |  | 44,822 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Intersegment product transfers(2) | 5,415 |  | 782 |  | (6,071) |  | (134) |  | (8) |  | 8 |  | — | 
+Less expenses: |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Purchased crude oil and products | 3,284 |  | 2,173 |  | 7,787 |  | 13,614 |  | 26,858 |  | — |  | 26,858 | 
+Operating and SG&A expenses | 2,082 |  | 1,300 |  | 2,137 |  | 1,506 |  | 7,025 |  | 621 |  | 7,646 | 
+Depreciation, depletion and amortization | 2,142 |  | 1,824 |  | 243 |  | 75 |  | 4,284 |  | 60 |  | 4,344 | 
+Other costs and deductions(3) | 362 |  | 363 |  | 178 |  | 619 |  | 1,522 |  | 305 |  | 1,827 | 
+Total Costs and Other Deductions | 7,870 |  | 5,660 |  | 10,345 |  | 15,814 |  | 39,689 |  | 986 |  | 40,675 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Income Tax Expense (Benefit) | 431 |  | 1,107 |  | 70 |  | 204 |  | 1,812 |  | (180) |  | 1,632 | 
+Less: Net income (loss) attributable to non- controlling interests | 5 |  | 3 |  | — |  | 17 |  | 25 |  | — |  | 25 | 
+Net Income (Loss) Attributable to Chevron Corporation | $ | 1,418 | $ | 1,309 | $ | 404 | $ | 333 | $ | 3,464 | $ | (974) | $ | 2,490
+
+=== CVX_10-Q_0000093410-26-000167:0021:1 | page 21 | section | section: 'NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)' | words 52 ===
+Upstream Downstream Segment Total All Other Total Six Months Ended June 30, 2026 U.S. Int'l. U.S. Int'l. Values have been adjusted for eliminations, unless otherwise specified. Includes interest income of $121 in “All Other.” Valuation of product transfers between operating segments. Includes interest expense of $628 in “All Other.” (1) (2) (3)
+
+=== CVX_10-Q_0000093410-26-000167:0021:2 | page 21 | table | section: 'NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued)' | words 460 ===
+Sales and other operating revenues before elimination | $ | 28,811 | $ | 30,536 | $ | 47,304 | $ | 44,116 | $ | 150,767 | $ | 277 | $ | 151,044
+Intersegment revenue elimination | (17,064) |  | (11,576) |  | (6,168) |  | (1,243) |  | (36,051) |  | (238) |  | (36,289) | 
+Sales and Other Operating Revenues | 11,747 |  | 18,960 |  | 41,136 |  | 42,873 |  | 114,716 |  | 39 |  | 114,755 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Income (loss) from equity affiliates | (39) |  | 1,911 |  | 608 |  | 390 |  | 2,870 |  | — |  | 2,870 | 
+Other income (loss)(1) | 19 |  | 504 |  | 30 |  | 248 |  | 801 |  | 236 |  | 1,037 | 
+Total Revenues and Other Income | 11,727 |  | 21,375 |  | 41,774 |  | 43,511 |  | 118,387 |  | 275 |  | 118,662 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Intersegment product transfers(2) | 15,263 |  | 5,798 |  | (17,238) |  | (3,958) |  | (135) |  | 135 |  | — | 
+Less expenses: |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Purchased crude oil and products | 8,103 |  | 8,162 |  | 15,656 |  | 32,951 |  | 64,872 |  | — |  | 64,872 | 
+Operating and SG&A expenses | 4,518 |  | 2,844 |  | 4,848 |  | 3,706 |  | 15,916 |  | 1,669 |  | 17,585 | 
+Depreciation, depletion and amortization | 5,963 |  | 5,105 |  | 517 |  | 148 |  | 11,733 |  | 157 |  | 11,890 | 
+Other costs and deductions(3) | 956 |  | 671 |  | 277 |  | 958 |  | 2,862 |  | 823 |  | 3,685 | 
+Total Costs and Other Deductions | 19,540 |  | 16,782 |  | 21,298 |  | 37,763 |  | 95,383 |  | 2,649 |  | 98,032 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Income Tax Expense (Benefit) | 1,687 |  | 3,950 |  | 631 |  | 234 |  | 6,502 |  | (379) |  | 6,123 | 
+Less: Net income (loss) attributable to non- controlling interests | 110 |  | 3 |  | — |  | 112 |  | 225 |  | — |  | 225 | 
+Net Income (Loss) Attributable to Chevron Corporation | $ | 5,653 | $ | 6,438 | $ | 2,607 | $ | 1,444 | $ | 16,142 | $ | (1,860) | $ | 14,282
+
+=== CVX_10-Q_0000093410-26-000167:0022:1 | page 22 | paragraph | section: '' | words 53 ===
+Upstream Downstream Segment Total All Other Total Six Months Ended June 30, 2025 U.S. Int’l. U.S. Int’l. Values have been adjusted for eliminations, unless otherwise specified. Includes interest income of $132 in “All Other.” Valuation of product transfers between operating segments. Includes interest expense of $442 in “All Other.” (1) (2) (3) 13
+
+=== CVX_10-Q_0000093410-26-000167:0022:2 | page 22 | table | section: '' | words 460 ===
+Sales and other operating revenues before elimination | $ | 21,900 | $ | 19,153 | $ | 37,413 | $ | 35,540 | $ | 114,006 | $ | 269 | $ | 114,275
+Intersegment revenue elimination | (13,433) |  | (4,131) |  | (3,789) |  | (2,226) |  | (23,579) |  | (220) |  | (23,799) | 
+Sales and Other Operating Revenues | 8,467 |  | 15,022 |  | 33,624 |  | 33,314 |  | 90,427 |  | 49 |  | 90,476 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Income (loss) from equity affiliates | (21) |  | 1,152 |  | 205 |  | 27 |  | 1,363 |  | (7) |  | 1,356 | 
+Other income (loss)(1) | 284 |  | 75 |  | 77 |  | (16) |  | 420 |  | 180 |  | 600 | 
+Total Revenues and Other Income | 8,730 |  | 16,249 |  | 33,906 |  | 33,325 |  | 92,210 |  | 222 |  | 92,432 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Intersegment product transfers(2) | 11,876 |  | 1,151 |  | (13,049) |  | (71) |  | (93) |  | 93 |  | — | 
+Less expenses: |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Purchased crude oil and products | 7,193 |  | 4,975 |  | 15,049 |  | 28,251 |  | 55,468 |  | — |  | 55,468 | 
+Operating and SG&A expenses | 4,205 |  | 2,557 |  | 4,392 |  | 2,770 |  | 13,924 |  | 1,362 |  | 15,286 | 
+Depreciation, depletion and amortization | 4,165 |  | 3,521 |  | 485 |  | 149 |  | 8,320 |  | 147 |  | 8,467 | 
+Other costs and deductions(3) | 748 |  | 620 |  | 349 |  | 1,181 |  | 2,898 |  | 583 |  | 3,481 | 
+Total Costs and Other Deductions | 16,311 |  | 11,673 |  | 20,275 |  | 32,351 |  | 80,610 |  | 2,092 |  | 82,702 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Income Tax Expense (Benefit) | 1,009 |  | 2,513 |  | 75 |  | 326 |  | 3,923 |  | (220) |  | 3,703 | 
+Less: Net income (loss) attributable to non- controlling interests | 10 |  | 5 |  | — |  | 22 |  | 37 |  | — |  | 37 | 
+Net Income (Loss) Attributable to Chevron Corporation | $ | 3,276 | $ | 3,209 | $ | 507 | $ | 555 | $ | 7,547 | $ | (1,557) | $ | 5,990
+
+=== CVX_10-Q_0000093410-26-000167:0023:1 | page 23 | paragraph | section: '' | words 50 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Segment Assets Segment assets do not include intercompany investments or intercompany receivables. Segment assets at June 30, 2026, and December 31, 2025, are as follows: At June 30, 2026 At December 31, 2025 Segment Assets (Millions of dollars) Upstream 14
+
+=== CVX_10-Q_0000093410-26-000167:0023:2 | page 23 | table | section: '' | words 162 ===
+United States | $ | 84,072 |  | $ | 84,559
+International | 166,869 |  |  | 168,200 | 
+Goodwill | 4,216 |  |  | 4,216 | 
+Total Upstream | 255,157 |  |  | 256,975 | 
+Downstream |  |  |  |  | 
+United States | 36,028 |  |  | 33,745 | 
+International | 24,051 |  |  | 21,146 | 
+Goodwill | 352 |  |  | 352 | 
+Total Downstream | 60,431 |  |  | 55,243 | 
+Total Segment Assets | 315,588 |  |  | 312,218 | 
+All Other |  |  |  |  | 
+United States | 12,502 |  |  | 10,396 | 
+International | 2,045 |  |  | 1,398 | 
+Total All Other | 14,547 |  |  | 11,794 | 
+Total Assets — United States | 132,602 |  |  | 128,700 | 
+Total Assets — International | 192,965 |  |  | 190,744 | 
+Goodwill | 4,568 |  |  | 4,568 | 
+Total Assets | $ | 330,135 |  | $ | 324,012
+
+=== CVX_10-Q_0000093410-26-000167:0024:1 | page 24 | paragraph | section: '' | words 279 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Note 8. Employee Benefits Chevron has defined benefit pension plans for many employees. The company typically prefunds defined benefit plans as required by local regulations or in certain situations where prefunding provides economic advantages. In the United States, all qualified plans are subject to the Employee Retirement Income Security Act minimum funding standard. The company does not typically fund U.S. nonqualified pension plans that are not subject to funding requirements under laws and regulations because contributions to these pension plans may be less economic and investment returns may be less attractive than the company’s other investment alternatives. The company also sponsors other postretirement employee benefit (OPEB) plans that provide medical and dental benefits, as well as life insurance for qualifying retired employees. The plans are unfunded, and the company and the retirees share the costs. For the company’s main U.S. medical plan, the increase to the pre-Medicare company contribution for retiree medical coverage is limited to no more than 4 percent each year. Certain life insurance benefits are paid by the company. The components of net periodic benefit costs for 2026 and 2025 are as follows: Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) (Millions of dollars) Pension Benefits United States Includes costs for U.S. and international OPEB plans. Obligations for plans outside the United States are not significant relative to the company’s total OPEB obligation. Through June 30, 2026, a total of $396 million was contributed to employee pension plans (including $337 million to the U.S. plans). Contribution amounts are dependent upon plan investment returns, changes in (*) 15
+
+=== CVX_10-Q_0000093410-26-000167:0024:2 | page 24 | table | section: '' | words 417 ===
+Service cost | $ | 86 |  | $ | 89 |  | $ | 172 |  | $ | 179
+Interest cost | 121 |  |  | 123 |  |  | 243 |  |  | 247 | 
+Expected return on plan assets | (194) |  |  | (173) |  |  | (389) |  |  | (347) | 
+Amortization of prior service costs (credits) | 1 |  |  | 1 |  |  | 2 |  |  | 2 | 
+Amortization of actuarial losses (gains) | 26 |  |  | 30 |  |  | 53 |  |  | 60 | 
+Settlement losses (gains) | 113 |  |  | — |  |  | 113 |  |  | — | 
+Curtailment losses (gains) | — |  |  | 71 |  |  | — |  |  | 71 | 
+Total United States | 153 |  |  | 141 |  |  | 194 |  |  | 212 | 
+International |  |  |  |  |  |  |  |  |  |  | 
+Service cost | 15 |  |  | 15 |  |  | 31 |  |  | 29 | 
+Interest cost | 60 |  |  | 48 |  |  | 120 |  |  | 96 | 
+Expected return on plan assets | (63) |  |  | (48) |  |  | (126) |  |  | (95) | 
+Amortization of prior service costs (credits) | 2 |  |  | 3 |  |  | 5 |  |  | 6 | 
+Amortization of actuarial losses (gains) | 12 |  |  | 12 |  |  | 25 |  |  | 24 | 
+Total International | 26 |  |  | 30 |  |  | 55 |  |  | 60 | 
+Net Periodic Pension Benefit Costs | $ | 179 |  | $ | 171 |  | $ | 249 |  | $ | 272
+Other Benefits(*) |  |  |  |  |  |  |  |  |  |  | 
+Service cost | $ | 8 |  | $ | 8 |  | $ | 15 |  | $ | 15
+Interest cost | 24 |  |  | 25 |  |  | 48 |  |  | 50 | 
+Amortization of prior service costs (credits) | (5) |  |  | (5) |  |  | (11) |  |  | (11) | 
+Amortization of actuarial losses (gains) | (2) |  |  | (5) |  |  | (5) |  |  | (9) | 
+Net Periodic Other Benefit Costs | $ | 25 |  | $ | 23 |  | $ | 47 |  | $ | 45
+
+=== CVX_10-Q_0000093410-26-000167:0026:1 | page 26 | paragraph | section: '' | words 304 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) pension obligations, regulatory requirements, and other economic factors. Additional funding may ultimately be required if investment returns are insufficient to offset increases in plan obligations. During the first six months of 2026, the company contributed $78 million to its OPEB plans. Note 9. Assets Held For Sale At June  30, 2026, the company classified $780 million of net properties, plant and equipment as “Assets held for sale” on the Consolidated Balance Sheet. These assets are associated with downstream operations that are expected to be sold in the next 12 months. The revenues and earnings contributions of these assets in 2025 and the first six months of 2026 were not material. Note 10. Income Taxes The income tax expense increased $2.8 billion between quarterly periods from $1.6 billion in 2025 to $4.5 billion in 2026. The company’s income before income tax expense increased $12.5 billion from $4.1 billion in 2025 to $16.7 billion in 2026, primarily due to higher upstream liquids realizations, higher upstream sales volumes, higher downstream margins on refined product sales and favorable timing effects partly offset by higher depreciation, depletion and amortization. The company’s effective tax rate decreased between quarterly periods from 39 percent in 2025 to 27 percent in 2026. The change in effective tax rate was primarily due to mix effects, resulting from the absolute level of earnings or losses and whether they arose in higher or lower tax rate jurisdictions, and the decrease in current period unfavorable tax items relative to the company’s income before tax. The income tax expense increased between six-month periods from $3.7 billion in 2025 to $6.1 billion in 2026. The company’s income before income tax expense increased $10.9 billion, from $9.7 billion in 2025 to $20.6 billion in 2026, primarily due to higher upstream
+
+=== CVX_10-Q_0000093410-26-000167:0026:2 | page 26 | paragraph | section: '' | words 169 ===
+sales volumes and liquids realizations, and higher downstream margins on refined product sales partly offset by higher depreciation, depletion and amortization. The company’s effective tax rate decreased between six-month periods from 38 percent in 2025 to 30 percent in 2026. The change in effective tax rate was primarily due to mix effects, resulting from the absolute level of earnings or losses and whether they arose in higher or lower tax rate jurisdictions, and the decrease in current period unfavorable tax items relative to the company’s income before tax. The company engages in ongoing discussions with tax authorities regarding the resolution of tax matters in various jurisdictions. Both the outcome of these tax matters and the timing of resolution and/or closure of the tax audits are highly uncertain. Given the number of years that still remain subject to examination and the number of matters being examined in the various tax jurisdictions, the company is unable to estimate the range of possible adjustments to the balance of unrecognized tax benefits. 16
+
+=== CVX_10-Q_0000093410-26-000167:0027:1 | page 27 | paragraph | section: '' | words 290 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Note 11. Litigation Climate Change Governmental and other plaintiffs in various jurisdictions across the United States have brought lawsuits against fossil fuel producing companies, including Chevron entities, purporting to seek legal and equitable relief to address alleged impacts of climate change. Chevron entities are or were among the codefendants in 34 separate lawsuits filed by various U.S. cities and counties, seven U.S. states, the District of Columbia, the Commonwealth of Puerto Rico, two Native American tribes, and a trade group in both federal and state courts. The lawsuits have asserted various causes of action, including public nuisance, private nuisance, failure to warn, fraud, conspiracy to commit fraud, design defect, product defect, trespass, negligence, impairment of public trust, equitable relief for pollution, impairment and destruction of natural resources, unjust enrichment, violations of consumer and environmental protection statutes, violations of unfair competition statutes, violations of federal and state antitrust statutes, and violations of federal and state RICO statutes, based upon, among other things, the company’s production of oil and gas products and alleged misrepresentations or omissions relating to climate change risks associated with those products. Further such lawsuits are likely to be brought by other parties. While defendants have sought to remove cases filed in state court to federal court, most of those cases have been remanded to state court and the U.S. Supreme Court has denied petitions for certiorari on the question of whether federal courts have jurisdiction over those cases. The U.S. Supreme Court has also denied certiorari to review a decision from the Hawaii Supreme Court allowing claims brought by the City and County of Honolulu to proceed past the pleadings. On February 23, 2026, the U.S. Supreme Court
+
+=== CVX_10-Q_0000093410-26-000167:0027:2 | page 27 | paragraph | section: '' | words 297 ===
+granted certiorari in Suncor Energy (U.S.A.) Inc., et. al. v. County Commissioners of Boulder County, et. al. (No. 25‑170), a case in which no Chevron entity is a party, to address the questions of whether federal law precludes state‑law claims seeking relief for injuries allegedly caused by the effects of interstate and international greenhouse gas emissions on the global climate and whether the U.S. Supreme Court has statutory and Article III jurisdiction to hear that case. The unprecedented legal theories set forth in these climate lawsuits include claims for damages (both compensatory and punitive), injunctive and other forms of equitable relief, including without limitation abatement, contribution to abatement funds, disgorgement of profits and equitable relief for pollution, impairment and destruction of natural resources, civil penalties and liability for fees and costs of suits. Due to the unprecedented nature of the suits, the company is unable to estimate any range of possible liability, but given the uncertainty of litigation there can be no assurance that the cases will not have a material adverse effect on the company’s results of operations and financial condition. Management believes that these lawsuits are legally and factually meritless and detract from constructive efforts to address the important policy issues presented by climate change and will vigorously defend against such lawsuits. The cases are: City of Annapolis v. BP P.L.C., et al., No. C-02-CV-21-000250 (Md. Cir. Ct.) (dismissed on the merits; dismissal affirmed by the Supreme Court of Maryland); Anne Arundel County v. BP P.L.C., et al., No. C-02-CV-21-000565 (Md. Cir. Ct.) (dismissed on the merits; dismissal affirmed by the Supreme Court of Maryland); Mayor and City Council of Baltimore v. BP P.L.C., et al., No. 24-C-18-004219 (Md. Cir. Ct.) (dismissed on the merits; dismissal affirmed by the Supreme Court of Maryland); Municipality of
+
+=== CVX_10-Q_0000093410-26-000167:0027:3 | page 27 | paragraph | section: '' | words 325 ===
+Bayamon et al. v. Exxon Mobil Corp., et al., No. 22-cv-1550 (D.P.R.) (dismissed on the merits; Plaintiffs’ appeal pending); People ex rel. Bonta v. Exxon Mobil Corp., et al., No. CGC-23-609134 (Cal. Super. Ct.); Bucks County v. BP P.L.C., et al., No. 2024-01836 (Pa. Ct. Com. Pl.) (dismissed on the merits; Plaintiff’s appeal pending); City of Charleston v. Brabham Oil Co., et al., No. 2020-CP-10-3975 (S.C. Ct. of Com. Pl.) (dismissed on the merits and for lack of personal jurisdiction); City of Chicago v. BP P.L.C., et al., No. 2024CH01024 (Ill. Cir. Ct.); District of Columbia v. Exxon Mobil Corp., et al., No. 2020-CA-002892-B (D.C. Super. Ct.); Delaware ex rel. Jennings v. BP America Inc., et al., C.A. No. N20C-09-097 (Del. Super. Ct.) (dismissed on the merits in substantial part); State of Hawaii v. BP P.L.C., et al., 1CCV-25-0000717 (Haw. Cir. Ct.); City of Hoboken v. Exxon Mobil Corp., et al., No. HUD-L-003179-20 (N.J. Super. Ct.); City and County of Honolulu, et al. v. Sunoco LP, et al., No. 1CCV-20-0000380 (Haw. Cir. Ct.); City of Imperial Beach v. Chevron Corp., et al., No. C17-01227 (Cal. Super. Ct.); King County v. BP P.L.C., et al., No. 18-2-11859-0 (Wash. Super. Ct.) (voluntarily dismissed); Maine v. BP P.L.C. et al., No. PORSC-CV-24-442 (Me. Super. Ct.); Makah Indian Tribe v. Exxon Mobil Corp., et al., No. 23-25216-1-SEA (Wash. Super. Ct.); County of Marin v. Chevron Corp., et al., No. 17-cv-02586 (Cal. Super. Ct.); County of Maui v. Sunoco LP, et al., No. 2CCV-20-0000283 (Haw. Cir. Ct.); The People of the State of Michigan v. BP p.l.c., et.al., Civ. No. 26-cv- 00254 (W.D. Mich.); County of Multnomah v. Exxon Mobil Corp., et al., No. 23-cv-25164 (Or. Cir. Ct.); City of New York v. Chevron Corp., et al., No. 18-cv-00182 (S.D.N.Y.) (dismissed on the merits; dismissal affirmed by the U.S. Court of Appeals for the Second Circuit); City of Oakland v. BP P.L.C., et al., No. RG17875889 (Cal. Super. Ct.); Pacific
+
+=== CVX_10-Q_0000093410-26-000167:0027:4 | page 27 | paragraph | section: '' | words 202 ===
+Coast Federation of Fishermen’s Associations, Inc. v. Chevron Corp., et al., No. CGC-18-571285 (Cal. Super. Ct.) (voluntarily dismissed); Platkin, et al. v. Exxon Mobil Corp., et al., No. MER-L-001797-22 (N.J. Super. Ct.) (dismissed on the merits; Plaintiffs’ appeal pending); Estado Libre Asociado de Puerto Rico [Commonwealth of Puerto Rico] v. Exxon Mobil Corp., et al., No. SJ2024CV06512 (Tribunal de Primera Instancia, Estado Libre Asociado de P.R.) [P.R. Ct. of First Instance, Commonwealth of P.R.] (voluntarily dismissed); State of Rhode Island v. Chevron Corp., et al., C.A. No. PC-2018-4716 (R.I. Super. Ct.); City of Richmond v. Chevron Corp., et al., No. C18-00055 (Cal. Super. Ct.); City of San Francisco v. BP P.L.C., et al., No. CGC-17-561370 (Cal. Super. Ct.); Municipality of San Juan, Puerto Rico v. Exxon Mobil Corp., et al., No. 23-cv-01608 (D.P.R.) (dismissed on the merits; Plaintiff’s appeal pending); County of San Mateo v. Chevron Corp., et al., No. 17-CIV-03222 (Cal. Super. Ct.); City of Santa Cruz v. Chevron Corp., et al., No. 17-CV- 03243 (Cal. Super. Ct.); County of Santa Cruz v. Chevron Corp., et al., No. 17-CV-03242 (Cal. Super. Ct.); Shoalwater Bay Indian Tribe v. Exxon Mobil Corp., et al., No. 23-2- 25215-2-SEA (Wash. Super. Ct.). 1 1 17
+
+=== CVX_10-Q_0000093410-26-000167:0028:1 | page 28 | paragraph | section: '' | words 292 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Louisiana Seven coastal parishes and the State of Louisiana have filed lawsuits in Louisiana against numerous oil and gas companies seeking remediation damages for coastal erosion in or near oil fields located within Louisiana’s coastal zone under Louisiana’s State and Local Coastal Resources Management Act (SLCRMA). Chevron entities are defendants in 35 of these cases. The lawsuits allege that the defendants’ historical operations were conducted without necessary permits or failed to comply with permits obtained and seek remediation damages and other relief, including the costs of restoring coastal wetlands allegedly impacted by oil field operations. Further such proceedings may be brought by other parties. Most of these cases have been remanded to Louisiana state court. In April 2025, a jury in a Louisiana state court awarded Plaquemines Parish $744.6 million in a trial against Chevron entities (i.e., Plaquemines Parish v. Rozel Operating Co., et al. (“Rozel”)). The state court judge continued a hearing on Plaquemines Parish’s motion for entry of judgment on the Rozel trial verdict and stayed that case pending a decision by the United States Supreme Court on whether certain cases belong in federal, rather than state, court. In April 2026, the U.S. Supreme Court held that the Plaquemines Parish coastal erosion lawsuit was related to actions taken under federal direction for purposes of the federal-officer removal statute and remanded the matter for further proceedings. The Louisiana state-court verdict against the company in Rozel remains subject to further judicial proceedings regarding the effect of the Supreme Court’s ruling, including potential vacatur and further litigation in federal court. The company does not concede the viability of the Rozel jury verdict and plans to appeal any judgment based on that verdict. The
+
+=== CVX_10-Q_0000093410-26-000167:0028:2 | page 28 | paragraph | section: '' | words 318 ===
+jury’s decision was unique to the facts and circumstances of the case and may not be representative of future outcomes for other claims brought against Chevron entities under the SLCRMA. In accordance with guidance on the evaluation of loss contingencies, the company has recorded an accrual of $131 million, which the company believes to be a reasonably estimable loss in light of the available defenses. It is reasonably possible that the estimate of the loss could change based on the progression of the case, including the appeals process. However, because of the uncertainties associated with ongoing litigation, we are unable to estimate the range of reasonably possible loss that may be attributable to liabilities, if any, in excess of the amount accrued. While the company believes the jury verdict is not legally or factually supported and intends to appeal and vigorously pursue post-judgment remedies, there can be no assurances that such defense efforts will be successful. To the extent the company is required to pay remediation damages in these cases, it may have a material adverse effect on our financial position and results of operations. Management believes that the claims in these lawsuits lack legal and factual merit and will continue to vigorously defend against such proceedings. The cases are: Cameron Parish v. Alpine Exploration Companies, Inc., et al., No. 10-19580 (38th Jud. Dist. Ct., Cameron Par.); Cameron Parish v. Apache Corporation (of Delaware), et al., No. 10-19579 (38th Jud. Dist. Ct., Cameron Par.); Cameron Parish v. Ballard Exploration Company, Inc., et al., No. 10-19574 (38th Jud. Dist. Ct., Cameron Par.); Cameron Parish v. Bay Coquille, Inc., et al., No. 10-19581 (38th Jud. Dist. Ct., Cameron Par.); Cameron Parish v. BEPCO, LP, et al., No. 10-19572 (38th Jud. Dist. Ct., Cameron Par.); Cameron Parish v. BP America Production Company, et al., No. 10-19576 (38th Jud. Dist. Ct., Cameron Par.); Cameron Parish v. Brammer Engineering, Inc., et al., No
+
+=== CVX_10-Q_0000093410-26-000167:0028:3 | page 28 | paragraph | section: '' | words 299 ===
+19573 (38th Jud. Dist. Ct., Cameron Par.); Jefferson Parish v. Anadarko E&P Onshore LLC, et al., No. 732-772 (24th Jud. Dist. Ct., Jefferson Par.); Jefferson Parish v. Atlantic Richfield Company, et al., No. 732-768 (24th Jud. Dist. Ct., Jefferson Par.); Jefferson Parish v. Canlan Oil Company, et al., No. 732-771 (24th Jud. Dist. Ct., Jefferson Par.); Jefferson Parish v. Chevron U.S.A. Holdings, Inc., et al., No. 732-769 (24th Jud. Dist. Ct., Jefferson Par.); Jefferson Parish v. Destin Operating Company, Inc., et al., No. 732-770 (24th Jud. Dist. Ct., Jefferson Par.); Jefferson Parish v. Equitable Petroleum Corporation, et al., No. 732-775 (24th Jud. Dist. Ct., Jefferson Par.); Jefferson Parish v. ExxonMobil Corporation, et al., No. 732-774 (24th Jud. Dist. Ct., Jefferson Par.); Plaquemines Parish v. Apache Oil Corporation, et al., No. 61-000 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Campbell Energy Corporation, et al., No. 61-001 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. ConocoPhillips Co., et al., No. 60-982 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Devon Energy Production Company, L.P., et al., No. 60-995 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Equitable Petroleum Corporation, et al., No. 60-986 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Exchange Oil & Gas Corp., et al., No. 60-984 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Goodrich Petroleum Company, L.L.C., et al., No. 60-994 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Great Southern Oil & Gas Company, Inc., et al., No. 60-998 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Helis Oil & Gas Company, et al., No. 60-990 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. HHE Energy Co., et al., No. 60-983 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Hilcorp Energy Company, et al.,
+
+=== CVX_10-Q_0000093410-26-000167:0028:4 | page 28 | paragraph | section: '' | words 175 ===
+No. 60-999 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. June Energy, et al., No. 60-987 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Linder Oil Company, et al., No. 60-988 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. LLOG Exploration & Production Co., et al., No. 60-985 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Northcoast Oil Company, et al., No. 60-992 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Palm Energy Offshore, L.L.C., et al., No. 60-997 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Riverwood Production Company, et al., No. 60-989 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. Rozel Operating Co., et al., No. 60-996 (25th Jud. Dist. Ct., Plaquemines Par.); Plaquemines Parish v. TotalPetrochemicals & Refining USA, Inc., et al., No. 61-002 (25th Jud. Dist. Ct., Plaquemines Par.); St. Bernard Parish v. Atlantic Richfield, et al., No. 16-1228 (34th Jud. Dist. Ct. St., Bernard Par.); Stutes v. Gulfport Energy Corporation, et al., No. 102,146 (15th Jud. Dist. Ct., Vermilion Par.). 2 2 18
+
+=== CVX_10-Q_0000093410-26-000167:0029:1 | page 29 | paragraph | section: '' | words 286 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Note 12. Other Contingencies and Commitments Income Taxes The company calculates its income tax expense and liabilities quarterly. These liabilities generally are subject to audit and are not finalized with the individual taxing authorities until several years after the end of the annual period for which income taxes have been calculated. Settlement of open tax years, as well as other tax issues in countries where the company conducts its businesses, are not expected to have a material effect on the consolidated financial position or liquidity of the company and, in the opinion of management, adequate provision has been made for income taxes for all years under examination or subject to future examination. Guarantees The company has provided certain guarantees in the ordinary course of business, including financial and performance guarantees related to equity affiliates. Chevron has no material guarantees outstanding. Indemnifications The company often includes standard indemnification provisions in its arrangements with its partners, suppliers and vendors in the ordinary course of business, the terms of which range in duration and sometimes are not limited. The company may be obligated to indemnify such parties for losses or claims suffered or incurred in connection with its service or other claims made against such parties. Long-Term Unconditional Purchase Obligations and Commitments, Including Throughput and Take-or-Pay Agreements The company and its subsidiaries have certain contingent liabilities with respect to long-term unconditional purchase obligations and commitments, including throughput and take-or-pay agreements, some of which may relate to suppliers’ financing arrangements. The agreements typically provide goods and services, such as pipeline and storage capacity, utilities, and petroleum products, to be used or sold in the ordinary course of the company’s business.
+
+=== CVX_10-Q_0000093410-26-000167:0029:2 | page 29 | paragraph | section: '' | words 295 ===
+Environmental The company is subject to loss contingencies pursuant to laws, regulations, private claims and legal proceedings related to environmental matters that are subject to legal settlements or that in the future may require the company to take action to correct or ameliorate the effects on the environment of prior release of chemicals or petroleum substances by the company or other parties. Such contingencies may exist for various operating, closed and divested sites, including, but not limited to, U.S. federal Superfund sites and analogous sites under state laws, refineries, chemical plants, marketing facilities, crude oil fields, and mining sites. Although the company has provided for known environmental obligations that are probable and reasonably estimable, it is likely that the company will continue to incur additional liabilities. The amount of additional future costs are not fully determinable due to such factors as the unknown magnitude of possible contamination, the unknown timing and extent of the corrective actions that may be required, the determination of the company’s liability in proportion to other responsible parties, and the extent to which such costs are recoverable from third parties. These future costs may be material to results of operations in the period in which they are recognized, but the company does not expect these costs will have a material effect on its consolidated financial position or liquidity. Decommissioning Obligations for Previously Divested Assets Some assets are divested along with their related liabilities, such as decommissioning obligations. In certain instances, such transferred obligations have returned and may continue to return to the company. To the extent the current owners of the company’s previously divested assets default on their decommissioning obligations, regulators may require that Chevron assume such obligations. The nature and amount of the loss is disclosed when it is reasonably
+
+=== CVX_10-Q_0000093410-26-000167:0029:3 | page 29 | paragraph | section: '' | words 115 ===
+possible that the loss could be material. The company accrues a liability when management determines the obligation to be both probable and reasonably estimable. The company could have additional significant obligations revert, primarily in the United States, but is not currently aware of any such obligations that are reasonably possible to be material. The liability balance at June 30, 2026 is $2.0 billion. Other Contingencies The company and its affiliates continue to review and analyze their operations and may close, retire, sell, exchange, acquire or restructure assets to achieve operational or strategic benefits and to improve competitiveness and profitability. These activities, individually or together, may result in significant gains or losses in future periods. 19
+
+=== CVX_10-Q_0000093410-26-000167:0030:1 | page 30 | paragraph | section: '' | words 312 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Chevron receives claims from and submits claims to customers; trading partners; joint venture partners; U.S. federal, state and local regulatory bodies; governments; contractors; insurers; suppliers; and individuals. The amounts of these claims, individually and in the aggregate, may be significant and take lengthy periods to resolve, and may result in gains or losses in future periods. Note 13. Fair Value Measurements The three levels of the fair value hierarchy of inputs the company uses to measure the fair value of an asset or liability are described as follows: Level 1: Quoted prices (unadjusted) in active markets for identical assets and liabilities. For the company, Level 1 inputs include exchange-traded futures contracts for which the parties are willing to transact at the exchange-quoted price and marketable securities that are actively traded. Level 2: Inputs other than Level 1 that are observable, either directly or indirectly. For the company, Level 2 inputs include quoted prices for similar assets or liabilities, prices obtained through third-party broker quotes and prices that can be corroborated with other observable inputs for substantially the complete term of a contract. Level 3: Unobservable inputs. The company does not use Level 3 inputs for any of its recurring fair value measurements. Level 3 inputs may be required for the determination of fair value associated with certain nonrecurring measurements of nonfinancial assets and liabilities. The fair value hierarchy for assets and liabilities measured at fair value at June 30, 2026, and December 31, 2025, is shown in the table below. Refer to Note 14. Financial and Derivative Instruments for the gross amounts of derivative assets and liabilities. Assets and Liabilities Measured at Fair Value on a Recurring Basis At June 30, 2026 At December 31, 2025 (Millions of dollars) Total Level 1 Level 2 Level 3 Total Level 1 Level 2 Le
+
+=== CVX_10-Q_0000093410-26-000167:0030:2 | page 30 | paragraph | section: '' | words 260 ===
+Derivatives The company records most of its derivative instruments — other than any commodity derivative contracts that are accounted for as normal purchase and normal sale — on the Consolidated Balance Sheet at fair value, with the offsetting amount to the Consolidated Statement of Income. The company designates certain derivative instruments as cash flow hedges that, if applicable, are reflected in the table above. Derivatives classified as Level 1 include futures, swaps and options contracts valued using quoted prices from active markets such as the New York Mercantile Exchange. Derivatives classified as Level 2 include swaps, options and forward contracts, the fair values of which are obtained from third-party broker quotes, industry pricing services, and exchanges. The company obtains multiple sources of pricing information for the Level 2 instruments. Since this pricing information is generated from observable market data, it has historically been very consistent. The company does not materially adjust this information. Assets and liabilities carried at fair value at June 30, 2026, and December 31, 2025, are as follows: Cash and Cash Equivalents The company holds cash equivalents in U.S. and non-U.S. portfolios. The instruments classified as cash equivalents are primarily bank deposits with maturities of 90 days or less, and money market funds. “Cash and cash equivalents” had carrying/fair values of $8.5 billion and $6.3 billion at June 30, 2026, and December 31, 2025, respectively. The fair values of cash and cash equivalents are classified as Level 1 and reflect the cash that would have been received if the instruments were settled at June 30, 2026. 20
+
+=== CVX_10-Q_0000093410-26-000167:0030:3 | page 30 | table | section: '' | words 234 ===
+Derivatives - not designated | $ | 30 |  | $ | 17 |  | $ | 13 |  | $ | — |  | $ | 254 |  | $ | 228 |  | $ | 26 |  | $ | —
+Derivatives - designated | — |  |  | — |  |  | — |  |  | — |  |  | 10 |  |  | 10 |  |  | — |  |  | — | 
+Total Assets at Fair Value | $ | 30 |  | $ | 17 |  | $ | 13 |  | $ | — |  | $ | 264 |  | $ | 238 |  | $ | 26 |  | $ | —
+Derivatives - not designated | 28 |  |  | 14 |  |  | 14 |  |  | — |  |  | 68 |  |  | 15 |  |  | 53 |  |  | — | 
+Derivatives - designated | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — | 
+Total Liabilities at Fair Value | $ | 28 |  | $ | 14 |  | $ | 14 |  | $ | — |  | $ | 68 |  | $ | 15 |  | $ | 53 |  | $ | —
+
+=== CVX_10-Q_0000093410-26-000167:0031:1 | page 31 | paragraph | section: '' | words 295 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Restricted Cash had a carrying/fair value of $1.1 billion and $1.0 billion at June 30, 2026, and December 31, 2025, respectively. At June 30, 2026, restricted cash is classified as Level 1 and includes restricted funds mainly related to certain upstream decommissioning activities and financing programs that are reported in “Prepaid expenses and other current assets” and “Deferred charges and other assets” on the Consolidated Balance Sheet. Long-Term Debt excluding amounts reclassified from short-term debt and finance lease obligations had a net carrying value of $24.6 billion and $28.5 billion at June 30, 2026, and December 31, 2025, respectively. Long-term debt primarily includes corporate-issued bonds. The fair value of these obligations was $24.3 billion and $28.6 billion at June 30, 2026, and December 31, 2025, respectively. At June 30, 2026, the fair value of these obligations classified as Level 1 was $20.2 billion and Level 2 was $4.1 billion. The carrying values of other short-term financial assets and liabilities on the Consolidated Balance Sheet approximate their fair values. Fair value remeasurements of other financial instruments at June 30, 2026, and December 31, 2025, were not material. Properties, plant and equipment The company did not have any individually material impairments of long- lived assets measured at fair value on a nonrecurring basis to report in second quarter 2026. Investments and advances The company did not have any individually material impairments of investments and advances measured at fair value on a nonrecurring basis to report in second quarter 2026. Note 14. Financial and Derivative Instruments The company primarily uses commodity derivative instruments to manage commodity price risk related to physical hydrocarbon shipments. The company’s commodity derivative instruments principally include crude oil, natural gas, liquefied natural gas and
+
+=== CVX_10-Q_0000093410-26-000167:0031:2 | page 31 | paragraph | section: '' | words 210 ===
+refined product futures, swaps, options and forward contracts. The company uses commodity derivative instruments traded on the New York Mercantile Exchange and on electronic platforms of the Inter-Continental Exchange and Chicago Mercantile Exchange. In addition, the company enters into swap contracts and option contracts principally with major financial institutions and other oil and gas companies in “over-the-counter” markets, which are governed by International Swaps and Derivatives Association agreements and other master netting arrangements. Although historically the company’s derivative instruments have not been material to its consolidated financial position, results of operations or liquidity, heightened volatility in commodity prices associated with the ongoing conflict in the Middle East resulted in significant mark-to-market earnings and cash flow impacts during the first and second quarters of 2026. The company actively manages market and liquidity risks and has sufficient liquidity to meet collateral requirements, which are generally short-term in nature. Additionally, the company applies cash flow hedge accounting on a limited basis to derivative commodity transactions used to manage the market price risk associated with certain forecasted sales of crude oil. The company performs regression analyses periodically to help ensure that the month-over-month changes in the specified component in the physical sales contracts are highly correlated with changes in the index futures prices. 21
+
+=== CVX_10-Q_0000093410-26-000167:0032:1 | page 32 | paragraph | section: '' | words 317 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Derivative instruments measured at fair value at June 30, 2026, and December 31, 2025, and their classification on the Consolidated Balance Sheet and Consolidated Statement of Income are as follows: Consolidated Balance Sheet: Fair Value of Derivatives Type of At June 30, 2026 At December 31, 2025 Contract Balance Sheet Classification (Millions of dollars) Commodity Long-term receivables, net — 73 Commodity Accounts payable $ 23 $ 60 Total Liabilities at Fair Value $ 28 $ 68 Consolidated Statement of Income: The Effect of Derivatives Gain / (Loss) Three Months Ended June 30 Gain / (Loss) Six Months Ended June 30 Type of 2026 2025 2026 2025 Contract Statement of Income Classification (Millions of dollars) Commodity Purchased crude oil and products 109 (19) (35) (63) Total $ 368 $ 66 $ (2,744) $ (128) The amount reclassified from AOCL to “Sales and other operating revenues” from designated hedges for the first six months of 2026 was a loss of $143 million compared with a loss of $40 million in the same period of the prior year. At June 30, 2026, before-tax deferred gains in AOCL related to outstanding crude oil price hedging contracts were $129 million, of which all is expected to be reclassified into earnings during the next 12 months as the hedged crude oil sales are recognized in earnings. The following table represents gross and net derivative assets and liabilities subject to netting agreements on the Consolidated Balance Sheet at June 30, 2026, and December 31, 2025. Consolidated Balance Sheet: The Effect of Netting Derivative Assets and Liabilities Gross Amounts Recognized Gross Amounts Offset Net Amounts Presented Gross Amounts Not Offset Net Amount At June 30, 2026 (Millions of dollars) Derivative assets and liabilities are classified on the Consolidated Balance Sheet as “Accounts and notes receivable”, “Long-term receivables”, “Accounts payable”, and “Deferred credits and other noncur
+
+=== CVX_10-Q_0000093410-26-000167:0032:5 | page 32 | table | section: '' | words 28 ===
+Commodity |  | Sales and other operating revenues |  | $ | 268 |  | $ | 86 |  | $ | (2,699) |  | $ | (58)
+
+=== CVX_10-Q_0000093410-26-000167:0032:7 | page 32 | table | section: '' | words 255 ===
+Derivative Assets - not designated |  | $ | 129 |  | $ | 99 |  | $ | 30 |  | $ | 13 |  | $ | 17
+Derivative Assets - designated |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | —
+Derivative Liabilities - not designated |  | $ | 127 |  | $ | 99 |  | $ | 28 |  | $ | 14 |  | $ | 14
+Derivative Liabilities - designated |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | —
+At December 31, 2025 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Derivative Assets - not designated |  | $ | 2,525 |  | $ | 2,271 |  | $ | 254 |  | $ | 1 |  | $ | 253
+Derivative Assets - designated |  | $ | 11 |  | $ | 1 |  | $ | 10 |  | $ | — |  | $ | 10
+Derivative Liabilities - not designated |  | $ | 2,339 |  | $ | 2,271 |  | $ | 68 |  | $ | 3 |  | $ | 65
+Derivative Liabilities - designated |  | $ | 1 |  | $ | 1 |  | $ | — |  | $ | — |  | $ | —
+
+=== CVX_10-Q_0000093410-26-000167:0033:1 | page 33 | paragraph | section: '' | words 1 ===
+22
+
+=== CVX_10-Q_0000093410-26-000167:0034:1 | page 34 | paragraph | section: '' | words 293 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) obligations.” Gross Amounts Not Offset in the table above represent derivative mark-to-market positions that do not meet all the conditions for “a right of offset.” At June 30, 2026, the company had posted $139 million of cash collateral under master netting arrangements not offset against the derivatives on the Consolidated Balance Sheet, primarily related to initial margin requirements. The respective balance at December 31, 2025, was approximately zero. The company’s net short position in outstanding commodity derivative contracts was approximately 31 million and 29 million barrels of oil-equivalent at June 30, 2026, and December 31, 2025, respectively, primarily to manage certain price risks related to physical shipments of crude oil and refined products. Note 15. Revenue “Sales and other operating revenues” on the Consolidated Statement of Income primarily arise from contracts with customers. Related receivables are included in “Accounts and notes receivable” on the Consolidated Balance Sheet, net of the current expected credit losses. The net balance of these receivables was $16.4 billion and $12.3 billion at June 30, 2026, and December 31, 2025, respectively. Other items included in “Accounts and notes receivable” represent amounts due from partners for their share of joint venture operating and project costs and amounts due from others, primarily related to derivatives, leases, buy/sell arrangements, and product exchanges, which are accounted for outside the scope of Accounting Standard Codification (ASC) 606. Note 16. Financial Instruments - Credit Losses Chevron’s expected credit loss allowance balance was $394 million and $392 million at June  30, 2026, and December  31, 2025, respectively, with a majority of the allowance relating to non-trade receivable balances. The majority of the company’s receivable balance is concentrated in trade receivables, with a balance of $22.0 billion
+
+=== CVX_10-Q_0000093410-26-000167:0034:2 | page 34 | paragraph | section: '' | words 282 ===
+which reflects the company’s diversified sources of revenues and is dispersed across the company’s broad worldwide customer base. As a result, the company believes the concentration of credit risk is limited. The company routinely assesses the financial strength of its customers. When the financial strength of a customer is not considered sufficient, alternative risk mitigation measures may be deployed, including requiring prepayments, letters of credit or other acceptable forms of collateral. Once credit is extended and a receivable balance exists, the company applies a quantitative calculation to current trade receivable balances that reflects credit risk predictive analysis, including probability of default and loss given default, which takes into consideration current and forward-looking market data as well as the company’s historical loss data. This statistical approach becomes the basis of the company’s expected credit loss allowance for current trade receivables with payment terms that are typically short-term in nature, with most due in less than 90 days. Chevron’s non-trade receivable balance was $3.9 billion at June 30, 2026, which includes receivables from certain governments in their capacity as joint venture partners. Joint venture partner balances that are paid per contract terms or are not yet due are subject to the statistical analysis described above, while past due balances are subject to additional qualitative management quarterly review. This management review includes review of reasonable and supportable repayment forecasts. Non-trade receivables also include employee and tax receivables that are deemed immaterial and low risk. Loans to equity affiliates and non-equity investees are also considered non-trade and associated allowance of $69 million and $83 million at June 30, 2026 and December 31, 2025, respectively, are included within “Investments and advances” on the Consolidated Balance Sheet. 23
+
+=== CVX_10-Q_0000093410-26-000167:0035:1 | page 35 | paragraph | section: '' | words 288 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) Note 17. Restructuring and Reorganization Costs The following table summarizes the accrued severance liability on the Consolidated Balance Sheet, which is expected to be substantially settled by the end of 2026. Amounts Before Tax (Millions of dollars) Accruals/Adjustments (86) Balance at June 30, 2026 $ 378 Note 18. Acquisition of Hess Corporation On July 18, 2025, the company acquired Hess Corporation (Hess), an independent oil and gas exploration and production company. Hess’s principal upstream operations are in the United States, Guyana and Malaysia. Hess’s operations also include an approximate 38 percent ownership interest in Hess Midstream LP, with operations primarily in the Bakken shale in the Williston Basin area of North Dakota. The aggregate purchase price of Hess was approximately $48 billion, including 15.38 million shares of Hess common stock purchased in open market transactions in the first quarter of 2025 and 301.25  million shares of Chevron common stock issued as closing consideration in July. As part of the transaction, the company assumed debt with an aggregate outstanding principal value of $8.8 billion. The shares issued represented approximately 15 percent of the shares of Chevron common stock outstanding immediately after the transaction closed on July 18, 2025. The acquisition was accounted for as a business combination under ASC 805, which requires assets acquired and liabilities assumed to be measured at their acquisition date fair value. Provisional fair value measurements were made for acquired assets and liabilities, and adjustments to those measurements may be made in subsequent periods, up to one year from the date of acquisition, as information necessary to complete the analysis is obtained. Oil and gas properties were valued using a discounted cash flow approach that
+
+=== CVX_10-Q_0000093410-26-000167:0035:2 | page 35 | paragraph | section: '' | words 72 ===
+incorporated internally generated price assumptions and production profiles together with appropriate operating cost and development cost assumptions. Debt assumed in the acquisition was valued based on observable market prices for Hess’s debt. As a result of measuring the assets acquired and the liabilities assumed at fair value, there was no goodwill or bargain purchase recognized. At July 18, 2025 (Billions of dollars) Includes finance leases Related to Hess Midstream LP (1) (2)
+
+=== CVX_10-Q_0000093410-26-000167:0035:5 | page 35 | table | section: '' | words 88 ===
+Current assets |  |  | $ | 3.4
+Properties, plant and equipment |  |  | 73.5 | 
+Other assets |  |  | 2.6 | 
+Total assets acquired |  |  | 79.5 | 
+Current liabilities |  |  | 3.1 | 
+Long-term debt(1) |  |  | 10.0 | 
+Deferred income taxes |  |  | 11.0 | 
+Other liabilities |  |  | 2.4 | 
+Total liabilities assumed |  |  | 26.5 | 
+Noncontrolling interest(2) |  |  | 5.0 | 
+Net assets acquired / purchase price |  |  | $ | 48.0
+
+=== CVX_10-Q_0000093410-26-000167:0036:1 | page 36 | paragraph | section: '' | words 1 ===
+24
+
+=== CVX_10-Q_0000093410-26-000167:0037:1 | page 37 | paragraph | section: '' | words 30 ===
+Table of Contents NOTES TO CONSOLIDATED FINANCIAL STATEMENTS - (Continued) The long-term debt assumed in the transaction is detailed in the table below: Principal Hess Corporation (Millions of dollars) 25
+
+=== CVX_10-Q_0000093410-26-000167:0037:2 | page 37 | table | section: '' | words 152 ===
+4.300% due 2027 | $ | 1,000
+7.875% due 2029 | 467 | 
+7.300% due 2031 | 631 | 
+7.125% due 2033 | 540 | 
+6.000% due 2040 | 750 | 
+5.600% due 2041 | 1,250 | 
+5.800% due 2047 | 500 | 
+Total Hess Corporation Debt | $ | 5,138
+ |  | 
+Hess Midstream Operations LP |  | 
+5.125% due 2028 | $ | 550
+5.875% due 2028 | 800 | 
+6.500% due 2029 | 600 | 
+4.250% due 2030 | 750 | 
+5.500% due 2030 | 400 | 
+Term loan and credit facility borrowings | 646 | 
+Total Hess Midstream Operations LP Debt | $ | 3,746
+ |  | 
+Unamortized discounts and debt issuance costs | (61) | 
+Total Long-Term Debt Assumed | $ | 8,823
+Fair market value adjustment for debt acquired in the acquisition | 247 | 
+Fair Market Value of Long-Term Debt Assumed | $ | 9,070
+
+=== CVX_10-Q_0000093410-26-000167:0038:1 | page 38 | paragraph | section: '' | words 305 ===
+Table of Contents Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations Second Quarter 2026 Compared with Second Quarter 2025 Key Financial Results Earnings by Business Segment Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) (Millions of dollars) Total Segment Earnings 13,050 3,464 16,142 7,547 Net Income (Loss) Attributable to Chevron Corporation $ 12,072 $ 2,490 $ 14,282 $ 5,990 Includes foreign currency effects. $ (49) $ (348) $ (272) $ (486) Income (loss) net of tax; also referred to as “earnings” in the discussions that follow. Net income attributable to Chevron Corporation for second quarter 2026 was $12.1 billion ($6.11 per share — diluted), compared with $2.5 billion ($1.45 per share — diluted) in second quarter 2025. The net income attributable to Chevron Corporation for the first six months of 2026 was $14.3 billion ($7.21 per share —diluted), compared with $6.0 billion ($3.45 per share — diluted) in the first six months of 2025. Upstream earnings in second quarter 2026 were $8.2 billion compared with $2.7 billion in the corresponding 2025 period. The increase was mainly due to higher realizations and higher sales volumes, partially offset by higher depreciation, depletion and amortization expense. Earnings for the first six months of 2026 were $12.1 billion compared with $6.5 billion a year earlier. The increase was mainly due to higher sales volumes and realizations, partially offset by higher depreciation, depletion and amortization expense. Downstream earnings in second quarter 2026 were $4.9 billion compared with $737 million in the corresponding 2025 period. The increase was mainly due to higher margins on refined product sales. Earnings for the first six months of 2026 were $4.1 billion compared with $1.1 billion a year earlier. The increase was mainly due to higher margins on refined product sales.
+
+=== CVX_10-Q_0000093410-26-000167:0038:2 | page 38 | paragraph | section: '' | words 197 ===
+Refer to “Results of Operations” for additional discussion of results by business segment and “All Other” activities for the second quarter and first six months of 2026 versus the same period in 2025. Business Environment and Outlook Chevron Corporation is a global energy company with direct and indirect subsidiaries and affiliates that conduct substantial business activities in the following countries: Angola, Argentina, Australia, Bangladesh, Incorporated in Delaware in 1926 as Standard Oil Company of California, the company adopted the name Chevron Corporation in 1984 and ChevronTexaco Corporation in 2001. In 2005, ChevronTexaco Corporation changed its name to Chevron Corporation. As used in this report, the term “Chevron” and such terms as “the company,” “the corporation,” “our,” “we,” “us” and “its” may refer to Chevron Corporation, one or more of its consolidated subsidiaries, or all of them taken as a whole, but unless stated otherwise they do not include “affiliates” of Chevron — i.e., those companies generally owned 50 percent or less. All of these terms are used for convenience only and are not intended as a precise description of any of the separate companies, each of which manages its own affairs. (1) (2) (1) (2) 3 3
+
+=== CVX_10-Q_0000093410-26-000167:0038:3 | page 38 | table | section: '' | words 128 ===
+Upstream |  |  |  |  |  |  |  |  |  |  | 
+United States | $ | 3,541 |  | $ | 1,418 |  | $ | 5,653 |  | $ | 3,276
+International | 4,641 |  |  | 1,309 |  |  | 6,438 |  |  | 3,209 | 
+Total Upstream | 8,182 |  |  | 2,727 |  |  | 12,091 |  |  | 6,485 | 
+Downstream |  |  |  |  |  |  |  |  |  |  | 
+United States | 2,411 |  |  | 404 |  |  | 2,607 |  |  | 507 | 
+International | 2,457 333 |  |  |  |  |  | 1,444 555 |  |  |  | 
+Total Downstream | 4,868 |  |  | 737 |  |  | 4,051 |  |  | 1,062 |
+
+=== CVX_10-Q_0000093410-26-000167:0039:1 | page 39 | paragraph | section: '' | words 1 ===
+26
+
+=== CVX_10-Q_0000093410-26-000167:0040:1 | page 40 | paragraph | section: '' | words 265 ===
+Table of Contents Brazil, Canada, China, Egypt, Equatorial Guinea, Guyana, Israel, Kazakhstan, Malaysia, Nigeria, the Partitioned Zone between Saudi Arabia and Kuwait, the Philippines, Singapore, South Korea, Thailand, the United Kingdom, the United States, and Venezuela. The company’s objective is to safely deliver higher returns, lower carbon and superior shareholder value in any business environment. Earnings of the company depend mostly on the profitability of its upstream business segment. The most significant factor affecting the results of operations for the upstream segment is the price of crude oil, which is determined in global markets outside of the company’s control. In the company’s downstream business, crude oil is the largest cost component of refined products. Periods of sustained lower commodity prices could result in the impairment or write-off of specific assets in future periods and cause the company to adjust operating expenses, including employee reductions, and capital expenditures, along with other measures intended to improve financial performance. Some governments, companies, communities and other stakeholders are supporting efforts to address climate change. International initiatives and national, regional and state legislation and regulations that aim to directly or indirectly reduce GHG emissions are in various stages of design, adoption, and implementation. These policies and programs can change the amount of energy consumed, the rate of energy-demand growth, the energy mix, and the relative economics of one fuel versus another. Implementation of jurisdiction- specific policies and programs can be dependent on, and can affect the pace of, technological advancements; the granting of necessary permits by governing authorities; the availability and acceptability of cost-effective, verifiable carbon credits; the availability of
+
+=== CVX_10-Q_0000093410-26-000167:0040:2 | page 40 | paragraph | section: '' | words 265 ===
+suppliers that can meet sustainability-related standards; evolving regulatory requirements affecting ESG standards or disclosures; and evolving standards and regulations for tracking, reporting, disclosing, marketing, and advertising relating to emissions and emissions reductions and removals. Significant uncertainty remains as to the pace and extent to which a lower carbon future progresses, which is dependent, in part, on substantial advancements and changes in policy, technology, and customer and consumer preferences. The level of expenditure required to comply with new or potential climate change-related laws and regulations, and the amount of additional investments needed in new or existing technology or facilities, such as carbon capture and storage, is difficult to predict with certainty and is expected to vary depending on the actual laws and regulations enacted, available technology options, customer and consumer preferences, the company’s activities, and market conditions. Although the future is uncertain, many published outlooks conclude that fossil fuels will remain a significant part of an energy system that increasingly incorporates lower carbon sources of supply for many years to come. Chevron supports a global approach to governments addressing climate change and continues to take actions to help lower the carbon intensity of its operations while continuing to meet the demand for energy. Chevron believes that broad, market-based mechanisms are the most efficient approach to addressing GHG emissions reductions. Chevron integrates climate change-related issues and the regulatory and other responses to these issues into its strategy and planning, capital investment reviews, and risk management tools and processes, where it believes they are applicable. They are also factored into the company’s long-range supply, demand, and energy price
+
+=== CVX_10-Q_0000093410-26-000167:0040:3 | page 40 | paragraph | section: '' | words 172 ===
+forecasts. These forecasts reflect estimates of long-range effects from climate change-related policy actions, such as electric vehicle and renewable fuel penetration, energy efficiency standards, and demand response to oil and natural gas prices. The company will continue to develop oil and gas resources to meet customers’ and consumers’ demand for energy. At the same time, Chevron believes that the future of energy is lower carbon. The company will continue to maintain flexibility in its portfolio to be responsive to changes in policy, technology, and customer and consumer preferences. Chevron aims to grow its oil and gas business, lower the carbon intensity of operations and grow new energies businesses. To grow new energies businesses, Chevron plans to leverage the company’s capabilities, assets, partnerships and customer relationships. The company’s oil and gas business may increase or decrease depending upon market, economic, legislative, and regulatory forces, among other factors. Chevron’s previously disclosed GHG intensity targets through 2028 can be found on pages 36 through 37 of the company’s 2025 Annual Report on Form 10-K. 27
+
+=== CVX_10-Q_0000093410-26-000167:0041:1 | page 41 | paragraph | section: '' | words 265 ===
+Table of Contents Chevron regularly evaluates its aspirations, targets and goals. The company has changed and/or eliminated some of these aspirations, targets and goals and may continue to do so in the future for various reasons, including market conditions; its strategy or portfolio; and financial, operational, policy, reputational, legal and other factors. The company’s ability to achieve any aspiration, target or goal is subject to numerous risks and contingencies, many of which are outside of Chevron’s control and persist. Examples of such risks and contingencies include: (1) sufficient and substantial advances in technology, including progress of commercially viable technologies and low- or non-carbon-based energy sources; (2) laws, governmental regulation, policies, and other enabling actions, including those regarding subsidies, tax and other incentives as well as the granting of necessary permits by governing authorities; (3) successful generation, acquisition, retirement and accounting of cost-effective, verifiable carbon offsets from nature-based solutions or carbon capture and storage; (4) the availability of suppliers that can meet sustainability-related standards; (5) evolving regulatory requirements affecting ESG standards or disclosures; (6) evolving standards for tracking and reporting on emissions and emission reductions and removals; (7) customers’ and consumers’ preferences and use of the company’s products or substitute products; and (8) actions taken by the company’s competitors. Please refer to the risk factors regarding the company’s strategy, aspirations, targets, and disclosures related to environmental, social, and governance matters included on pages 25 through 27 of the company’s 2025 Annual Report on Form 10- K. Income Taxes The effective tax rate for the company can change substantially during periods of significant earnings volatility. This is
+
+=== CVX_10-Q_0000093410-26-000167:0041:2 | page 41 | paragraph | section: '' | words 276 ===
+due to the mix effects that are impacted by both the absolute level of earnings or losses and whether they arise in higher or lower tax rate jurisdictions. As a result, a decline or increase in the effective income tax rate in one period may not be indicative of expected results in future periods. Additional information related to the company’s effective income tax rate is included in Note 10 Income Taxes to the Consolidated Financial Statements. Supply Chain and Inflation Impacts The company actively manages contracting, procurement and supply chain activities to help ensure operational reliability and effective management of third party costs. Third party costs for capital and operating expenses may be subject to external factors beyond the company’s control including, but not limited to: geopolitical events, severe weather, civil unrest, delays in construction, global and local supply chain distribution issues, inflation, tariffs or other taxes imposed on goods or services, and market-based prices charged by the industry’s material and service providers. Chevron utilizes contracts with various pricing mechanisms, which may result in a lag before the company’s costs reflect changes in market trends. Trends in the costs of goods and services vary by spend category. In the United States, cost pressures for services and select equipment remain elevated, reflecting cross-industry demand and supplier capital discipline. The company addresses cost and supply assurance by partnering with suppliers on demand planning, volume commitments, standardization and scope optimization. The company continues to use a range of appropriately structured contracting and commercial terms, including fixed, indexed and performance-based contracts. Acquisition and Disposition of Assets The company continually evaluates opportunities to dispose of assets that are not expected to
+
+=== CVX_10-Q_0000093410-26-000167:0041:3 | page 41 | paragraph | section: '' | words 187 ===
+provide sufficient long-term value and to acquire assets or operations complementary to its asset base to help augment the company’s financial performance and value growth. The company expects $1-2 billion in annual asset sale proceeds through 2030. Asset dispositions and restructurings may result in significant gains or losses in future periods. During the second quarter of 2026, the company completed the sale of its Hong Kong downstream fuels and lubricants businesses, generating proceeds of approximately $290 million. The company also signed an agreement to sell the company’s 50 percent interest in the Singapore Refining Company Private Limited (Singapore Refining Company) and other downstream assets in Singapore, Australia, Indonesia, Malaysia, the Philippines and Vietnam. This transaction is expected to close in 2027. In addition, some assets are divested along with their related liabilities, such as decommissioning obligations. In certain instances, such transferred obligations have returned and may continue to return to the company and result in losses that could be significant. The company has historically recognized losses and could have additional significant obligations revert, primarily in the United States, but is not currently aware of any such 28
+
+=== CVX_10-Q_0000093410-26-000167:0042:1 | page 42 | paragraph | section: '' | words 296 ===
+Table of Contents obligations that are reasonably possible to be material. Refer to Note 12 Other Contingencies and Commitments for additional information. In July 2025, the company completed its acquisition of Hess Corporation (Hess). Refer to Note 18. Acquisition of Hess Corporation for additional information. Timing Effects The company uses financial derivatives as economic hedges to manage certain price risks related to physical hydrocarbon shipments. At the end of the quarter, as per the ASC 815 requirement, these derivatives are marked-to-market and reflected in current period earnings; however, earnings impacts on the associated physical shipments are not recognized until delivery is completed. This creates a timing difference in earnings recognition that is expected to unwind in future periods. In addition, the company’s use of LIFO accounting can result in non-cash earnings effects. Together, these are referred to as timing effects. In a rising commodity price environment, timing effects are generally negative and in a declining commodity price environment, timing effects are generally positive. In first quarter 2026, earnings were adversely affected by $2.9 billion due to timing effects related to higher commodity prices in March 2026. Second quarter 2026 results included $1.5 billion of favorable timing effects as commodity prices declined in June 2026. Other Impacts The company closely monitors developments in the financial and credit markets, the level of worldwide economic activity, and the implications for the company of movements in prices for crude oil, natural gas and natural gas liquids (NGLs). Management takes these developments into account in the conduct of daily operations and for business planning. The company previously announced plans to achieve $3-4 billion in structural cost reductions by the end of 2026. These cost savings were expected to largely come from optimizing the portfolio, leveraging technology to enhance productivity, and chan
+
+=== CVX_10-Q_0000093410-26-000167:0042:2 | page 42 | paragraph | section: '' | words 289 ===
+where work is performed, including expanded use of global capability centers. During the second quarter of 2026, the company achieved its structural cost reduction target six months early by capturing $3 billion in annual run-rate savings. The company plans to continue to look for ways to further lower costs in the future Comments related to earnings trends for the company’s major business areas are as follows: Upstream Earnings for the upstream segment are closely aligned with industry prices for crude oil, natural gas and NGLs. These prices are subject to external factors over which the company has no control, including product demand connected with global economic conditions, industry production and inventory levels, technology advancements, production quotas or other actions imposed by OPEC+ countries, actions of regulators, weather-related damage and disruptions, competing fuel prices, natural and human causes beyond the company’s control, and regional supply interruptions or fears thereof that may be caused by military conflicts, civil unrest or political uncertainty. Any of these factors could also inhibit the company’s production capacity in an affected region. The company closely monitors developments in the countries in which it operates and holds investments and seeks to manage risks in operating its facilities and businesses. The longer-term trend in earnings for the upstream segment is also a function of other factors, including the company’s ability to efficiently find, acquire and produce crude oil, natural gas and NGLs, changes in fiscal terms of contracts, the pace of energy transition, and changes in tax, environmental and other applicable laws and regulations. Chevron has interests in Venezuelan assets operated by independent affiliates. Chevron has been conducting limited activities in Venezuela consistent with authorizations issued by the United States government. The financial results for Chevron’s business in
+
+=== CVX_10-Q_0000093410-26-000167:0042:3 | page 42 | paragraph | section: '' | words 118 ===
+Venezuela have been recorded as non-equity investments since 2020, where income is only recognized when cash is received, and production and reserves are not included in the company’s results. Following the issuance of a general license and other authorizations, crude oil liftings in Venezuela restarted in 2023. Chevron maintained its presence in Venezuela consistent with the U.S. government sanctions policy, and pursuant to this policy, continued delivering limited crude oil to the U.S. from these affiliates through January 2026. Based on authorizations that align with current U.S. sanctions policy for Venezuela, Chevron expects to continue delivery of crude oil produced from its Venezuelan assets to the U.S. and to the international market. Current geopolitical developments relating to 29
+
+=== CVX_10-Q_0000093410-26-000167:0043:1 | page 43 | paragraph | section: '' | words 281 ===
+Table of Contents Venezuela could have an impact on the company’s operations in Venezuela and, as a result, impact the company’s future results of operations. Chevron maintains an equity interest in the Caspian Pipeline Consortium (CPC) that provides a primary export route for Tengiz field production in Kazakhstan. An adverse event or incident affecting CPC operations, which CPC has experienced from time to time, such as drone attacks on CPC and third-party infrastructure and vessels, could have a negative impact on the company’s future results of operations and financial position. The financial impacts of such risks remain uncertain. Governments (including Russia) have imposed and may impose additional sanctions and other trade laws, restrictions and regulations that could lead to disruption in our ability to produce, transport and/or export crude in the region around Russia. Recent geopolitical conditions in the Middle East have impacted, and may continue to impact, the company’s business. Chevron has exposure to the Middle East through its upstream, downstream, chemicals and trading businesses, as well as through logistics activities, with operations in Israel, the Partitioned Zone between Saudi Arabia and Kuwait, and the surrounding region. The conflict has resulted in production curtailments in the Partitioned Zone between Saudi Arabia and Kuwait and from CPChem assets in Saudi Arabia and Qatar, and increased risks associated with lifting and transporting physical cargoes. While the company’s physical operations have not been materially impacted to date, the situation throughout the region remains volatile with the potential for escalation, which could result in additional operational restrictions, supply disruptions, and logistics challenges. In addition, the conflict in the Middle East has increased potential physical and other risks to the company’s operations and assets. The
+
+=== CVX_10-Q_0000093410-26-000167:0043:2 | page 43 | paragraph | section: '' | words 59 ===
+company also faces growing threats from sophisticated cyberattacks that leverage artificial intelligence and similar tools. The company continues to actively monitor regional developments and maintain contingency plans for its operations, supply chains, and logistics activities. Any further impacts on the company’s results of operations and financial condition remain uncertain. 4 Sources: Platts (crude) & Energy Intelligence (natural gas) 30
+
+=== CVX_10-Q_0000093410-26-000167:0044:1 | page 44 | paragraph | section: '' | words 325 ===
+Table of Contents The chart above shows the trend in benchmark prices for Brent crude oil, West Texas Intermediate (WTI) crude oil, and U.S. Henry Hub natural gas. The Brent price averaged $92 per barrel for the first six months of 2026, compared with $72 per barrel during the first six months of 2025, and ended July at about $97 per barrel. For every dollar change in Brent crude oil prices, the company’s annual after-tax earnings and cash flow sensitivity is approximately $600 million. The WTI price averaged $83 per barrel for the first six months of 2026, compared to $68 per barrel in the first six months of 2025, and ended July at about $85 per barrel. Crude oil prices were volatile during the second quarter of 2026. Prices increased sharply following the escalation of conflict in the Middle East and concerns regarding potential disruptions to global crude oil supplies. As market concerns regarding supply disruptions eased, prices declined and ended the quarter near levels prevailing prior to the conflict. Prices subsequently increased in July as continued conflict in the Middle East contributed to market volatility. The U.S. Henry Hub natural gas price averaged $3.77 per thousand cubic feet (MCF) for the first six months of 2026, compared with $3.71 per MCF during the first six months of 2025, and ended July at about $2.64 per MCF. Henry Hub natural gas prices declined modestly during the second quarter as additional pipeline capacity improved natural gas flows from the Permian Basin and maintenance activities at Gulf Coast LNG facilities reduced exports. Outside the United States, prices for natural gas also depend on regional supply and demand, regulatory circumstances and infrastructure conditions in local markets. The company’s long-term contract prices for LNG are typically linked to crude oil prices. Most of the equity LNG offtake from the operated Australian LNG assets is committed under binding long-term contracts, with some sold in the Asian spot LNG ma
+
+=== CVX_10-Q_0000093410-26-000167:0044:2 | page 44 | paragraph | section: '' | words 297 ===
+See page 39 for the company’s U.S. and international average realizations for the first six months of 2026 and the same period last year. Production The company’s worldwide net oil-equivalent production in the first six months of 2026 averaged 3.97 million barrels per day, up 18 percent from a year ago due to the acquisition of Hess and growth in the Permian Basin and the Gulf of America. About 17 percent of the company’s net oil-equivalent production in the first six months of 2026 occurred in the OPEC+ member countries of Equatorial Guinea, Kazakhstan, Malaysia, Nigeria, and the Partitioned Zone between Saudi Arabia and Kuwait. Refer to the “Results of Operations” section on page 33 for additional discussion of the company’s upstream business. Downstream Earnings for the downstream segment are closely tied to margins on the refining, manufacturing and marketing of products that include gasoline, diesel, jet fuel, lubricants, fuel oil, fuel and lubricant additives, petrochemicals and renewable fuels. Industry margins are sometimes volatile and can be affected by the global and regional supply-and-demand balance for refined products and petrochemicals, and by changes in the price of crude oil, other refinery and petrochemical feedstocks, and natural gas. Industry margins can also be influenced by inventory levels, geopolitical events, costs of materials and services, refinery or chemical plant capacity utilization, maintenance programs, and disruptions at refineries or chemical plants resulting from unplanned outages due to severe weather, fires or other operational events. Other factors affecting profitability for downstream operations include the reliability and efficiency of the company’s refining, marketing and petrochemical assets, the effectiveness of its crude oil and product supply functions, and the volatility of tanker-charter rates for the company’s shipping operations, which are driven by the industry’s demand for crude oil and product tankers. Other fac
+
+=== CVX_10-Q_0000093410-26-000167:0044:3 | page 44 | paragraph | section: '' | words 68 ===
+beyond the company’s control include the general level of inflation and energy costs to operate the company’s refining, marketing and petrochemical assets, and changes in tax, environmental, and other applicable laws and regulations. The company’s most significant marketing areas are the West Coast and Gulf Coast of the United States and Asia Pacific. Chevron operates or has significant ownership interests in refineries in each of these areas. 31
+
+=== CVX_10-Q_0000093410-26-000167:0045:1 | page 45 | paragraph | section: '' | words 264 ===
+Table of Contents Refer to the “Results of Operations” section on page 34 for additional discussion of the company’s downstream operations. All Other consists of worldwide cash management and debt financing activities, corporate administrative functions, insurance operations, real estate activities, and technology companies. Refer to “Cautionary Statements Relevant to Forward-Looking Information” on page 2 and to “Risk Factors” on pages 21 through 27 of the company’s 2025 Annual Report on Form 10-K for a discussion of some of the inherent risks that could materially impact the company’s results of operations or financial condition. Noteworthy Developments Certain noteworthy developments in recent months included the following: • China - Completed the sale of the company’s Hong Kong downstream fuels and lubricants businesses. • Iraq - Signed heads of agreements with the Government of Iraq to advance potential participation in the West Qurna 2 and Nasiriyah oilfield developments and an export pipeline in one of the world's largest hydrocarbon resource basins. • United States - Signed an agreement to develop a power facility in West Texas designed to provide approximately 2.67 gigawatts of behind-the-meter dedicated electricity capacity to Microsoft under a 20-year power purchase agreement. • United States - Announced a technology licensing agreement to commercialize and expand deployment of Chevron-developed chemical surfactant technology, reflecting Chevron’s technology leadership in advanced chemicals to improve recovery from unconventional reservoirs. • International Downstream - Signed an agreement to sell the company’s 50 percent interest in Singapore Refining Company and other downstream assets in Singapore, Australia, Indonesia, Malaysia, the Philippines, and Vietnam. This transaction is expected to close in 2027. 32
+
+=== CVX_10-Q_0000093410-26-000167:0046:1 | page 46 | paragraph | section: '' | words 321 ===
+Table of Contents Results of Operations Business Segments The following section presents the results of operations and variances on an after-tax basis for the company’s business segments — Upstream and Downstream — as well as for “All Other.” (Refer to Note 7 Operating Segments and Geographic Data for a discussion of the company’s “reportable segments,” as defined under the accounting standards for segment reporting.) Upstream Three Months Ended June 30 Six Months Ended June 30 Unit * 2026 2025 2026 2025 U.S. Upstream Three Month Periods Ended June 30, 2026 and 2025 U.S. upstream earnings increased by $2.1 billion primarily due to higher liquids realizations of $2.1 billion and increased sales volumes of $1.1 billion, partly offset by higher depreciation, depletion and amortization of $590 million, lower natural gas realizations of $200 million and the absence of a prior year asset sale gain of $115 million. Net oil-equivalent production was up 382,000 barrels per day, or 23 percent, achieving a new quarterly production record. The increase was primarily due to the acquisition of Hess and growth in the Permian Basin and Gulf of America. Six Month Periods Ended June 30, 2026 and 2025 U.S. upstream earnings increased by $2.4 billion primarily due to increased sales volumes of $2.3 billion and higher liquids realizations of $2.0 billion, partly offset by higher depreciation, depletion and amortization of $1.1 billion, higher operating expenses and other costs of $470 million, lower natural gas realizations of $200 million and the absence of a prior year asset sale gain of $115 million. Net oil-equivalent production was up 385,000 barrels per day, or 23 percent. The increase was primarily due to the acquisition of Hess, higher production in the Gulf of America following project start‑ups, and growth in the Permian Basin. Three Months Ended June 30 Six Months Ended June 30 Unit 2026 2025 2026 2025 International Upstream Natural Gas Realization $/MCF $ 7.84 $ 7.20 $ 7.43 
+
+=== CVX_10-Q_0000093410-26-000167:0046:2 | page 46 | paragraph | section: '' | words 43 ===
+$ (236) $ (310) $ (372) MBD — thousands of barrels per day; MMCFD — millions of cubic feet per day; BBL — Barrel; MCF — thousands of cubic feet; MBOED — thousands of barrels of oil-equivalent per day. (2) (1) (2) 33
+
+=== CVX_10-Q_0000093410-26-000167:0046:3 | page 46 | table | section: '' | words 167 ===
+Earnings | $MM | $ | 3,541 |  | $ | 1,418 |  | $ | 5,653 |  | $ 3,276
+Net Oil-Equivalent Production | MBOED | 2,077 |  |  | 1,695 |  |  | 2,051 |  |  | 1,666
+Liquids Production | MBD | 1,491 |  |  | 1,218 |  |  | 1,476 |  |  | 1,189
+Natural Gas Production | MMCFD | 3,520 |  |  | 2,864 |  |  | 3,450 |  |  | 2,861
+Liquids Realization | $/BBL | $ | 70.80 |  | $ | 47.77 |  | $ | 61.52 |  | $ 51.40
+Natural Gas Realization | $/MCF | $ | 0.91 |  | $ | 1.75 |  | $ | 1.67 |  | $ 2.12
+* MBD — thousands of barrels per day; MMCFD — millions of cubic feet per day; BBL — Barrel; MCF — thousands of cubic feet; MBOED — thousands of barrels of oil-equivalent per day. |  |  |  |  |  |  |  |  |  |  |
+
+=== CVX_10-Q_0000093410-26-000167:0046:4 | page 46 | table | section: '' | words 100 ===
+Earnings (1) | $MM | $ | 4,641 |  | $ | 1,309 |  | $ | 6,438 | $ | 3,209
+Net Oil-Equivalent Production MBOED |  | 1,993 |  |  | 1,701 |  |  | 1,914 |  |  | 1,708
+Liquids Production | MBD | 1,094 |  |  | 850 |  |  | 1,034 |  |  | 836
+Natural Gas Production MMCFD |  | 5,390 |  |  | 5,099 |  |  | 5,277 |  |  | 5,235
+Liquids Realization | $/BBL | $ | 96.41 |  | $ | 58.88 |  | $ | 87.38 | $ | 63.12
+
+=== CVX_10-Q_0000093410-26-000167:0048:1 | page 48 | paragraph | section: '' | words 307 ===
+Table of Contents Three Month Periods Ended June 30, 2026 and 2025 International upstream earnings increased by $3.3 billion primarily due to increased sales volumes of $2.0 billion, higher liquids realizations of $1.7 billion, and favorable timing effects of $570 million partly offset by higher depreciation, depletion and amortization of $650 million. Net oil-equivalent production was up 292,000 barrels per day, or 17 percent. The increase was primarily due to the acquisition of Hess, partly offset by curtailments in the Partitioned Zone between Saudi Arabia and Kuwait due to the Middle East conflict. Six Month Periods Ended June 30, 2026 and 2025 International upstream earnings increased by $3.2 billion primarily due to increased sales volumes of $3.4 billion and higher liquids realizations of $1.9 billion, partly offset by higher depreciation, depletion and amortization of $1.3 billion and unfavorable timing effects of $650 million. Net oil-equivalent production was up 206,000 barrels per day, or 12 percent. The increase was primarily due to the acquisition of Hess, partly offset by lower production at TCO and curtailments in the Partitioned Zone between Saudi Arabia and Kuwait due to the Middle East conflict. Downstream Three Months Ended June 30 Six Months Ended June 30 Unit 2026 2025 2026 2025 U.S. Downstream Three Month Periods Ended June 30, 2026 and 2025 U.S. downstream earnings increased by $2.0 billion primarily due to higher margins on refined product sales of $1.7 billion and higher earnings from the 50 percent-owned affiliate, CPChem, of $290 million. Refinery crude unit inputs were up 19,000 barrels per day, or 2 percent, compared to the year-ago period as refineries operated reliably at record levels near capacity. Refined product sales were down 61,000 barrels per day, or 4 percent, compared to the year-ago period due to a lower demand for gasoline. Six Month Periods Ended June 30, 2026 and 2025
+
+=== CVX_10-Q_0000093410-26-000167:0048:2 | page 48 | paragraph | section: '' | words 92 ===
+U.S. downstream earnings increased by $2.1 billion primarily due to higher margins on refined product sales of $2.0 billion and higher earnings from the 50 percent-owned affiliate, CPChem, of $290 million, partly offset by a litigation reserve of $190 million. Refinery crude unit inputs were up 29,000 barrels per day, or 3 percent, compared to the year-ago period as refineries operated reliably at near capacity levels. Refined product sales were down 44,000 barrels per day, or 3 percent, compared to the year-ago period primarily due to lower demand for gasoline. * 34
+
+=== CVX_10-Q_0000093410-26-000167:0048:3 | page 48 | table | section: '' | words 83 ===
+Earnings | $MM | $ | 2,411 |  | $ | 404 |  | $ | 2,607 |  | $ | 507
+Refinery Crude Unit Inputs | MBD | 1,070 |  |  | 1,051 |  |  | 1,063 |  |  | 1,034 | 
+Refined Product Sales | MBD | 1,320 |  |  | 1,381 |  |  | 1,293 |  |  | 1,337 | 
+* MBD — thousands of barrels per day. |  |  |  |  |  |  |  |  |  |  |  |
+
+=== CVX_10-Q_0000093410-26-000167:0049:1 | page 49 | paragraph | section: '' | words 334 ===
+Table of Contents Three Months Ended June 30 Six Months Ended June 30 Unit 2026 2025 2026 2025 International Downstream Includes foreign currency effects $MM $ 31 $ (102) $ 39 $ (99) MBD — thousands of barrels per day. Three Month Periods Ended June 30, 2026 and 2025 International downstream earnings increased by $2.1 billion primarily due to higher margins on refined product sales of $1.7 billion, including favorable timing effects, an asset sale gain of $230 million, and a favorable swing in foreign currency effects of $133 million. Refinery crude unit inputs were down 63,000 barrels per day, or 10 percent, compared to the year-ago period due to supply disruptions from the Middle East conflict. Refined product sales were down 186,000 barrels per day, or 13 percent, compared to the year-ago period due to supply disruption from the Middle East conflict and lower demand for gasoline and diesel fuel. Six Month Periods Ended June 30, 2026 and 2025 International downstream earnings increased by $889 million primarily due to higher margins on refined product sales of $610 million and an asset sale gain of $230 million. Refinery crude unit inputs were down 32,000 barrels per day, or 5 percent, compared to the year-ago period primarily due to a turnaround at the Star Petroleum Refining Public Company Limited refinery in Thailand. Refined product sales were down 47,000 barrels per day, or 3 percent, compared to the year-ago period due to supply disruption from the Middle East conflict. All Other Three Months Ended June 30 Six Months Ended June 30 Unit 2026 2025 2026 2025 All Other *  Includes foreign currency effects $ (3) $ (10) $ (1) $ (15) Three Month Periods Ended June 30, 2026 and 2025 Net charges were relatively flat compared to the year-ago period as higher employee benefit costs and higher interest expense were offset by the absence of prior-year unfavorable fair value adjustment for Hess shares. Six Month Periods Ended June 30, 2026 and 2025 Net charges increased b
+
+=== CVX_10-Q_0000093410-26-000167:0049:2 | page 49 | table | section: '' | words 63 ===
+Earnings (1) | $MM | $ | 2,457 |  | $ | 333 |  | $ | 1,444 |  | $ | 555
+Refinery Crude Unit Inputs | MBD | 598 |  |  | 661 |  |  | 608 |  |  |  | 
+Refined Product Sales | MBD | 1,287 |  |  | 1,473 |  |  | 1,389 |  |  | 1,436 |
+
+=== CVX_10-Q_0000093410-26-000167:0049:3 | page 49 | table | section: '' | words 22 ===
+Earnings/(Charges)* | $MM | $ | (978) |  | $ | (974) |  | $ | (1,860) |  | $ | (1,557)
+
+=== CVX_10-Q_0000093410-26-000167:0050:1 | page 50 | paragraph | section: '' | words 312 ===
+Table of Contents Consolidated Statement of Income Explanations of variations between periods for selected income statement categories are provided below: Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Sales and other operating revenues increased $22.8 billion for the second quarter mainly due to higher refined product and crude oil prices and higher crude oil sales volumes, partially offset by lower refined product volumes. Sales and other operating revenues for the six-month periods increased $24.3 billion primarily due to higher refined product and crude oil prices and higher crude oil sales volumes. Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Income from equity affiliates in second quarter and for the six-month periods increased mainly due to higher upstream-related earnings from TCO in Kazakhstan and higher downstream-related earnings primarily due to higher chemicals margins at CPChem and higher refining margins at GS Caltex in South Korea. Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Other income for second quarter and for the six-month periods increased primarily due to the absence of a prior year unfavorable fair value adjustment for Hess shares and foreign currency effects. Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Purchased crude oil and products increased $9.7 billion for the second quarter and $9.4 billion for the six-month periods, primarily reflecting the impact of higher crude oil and refined product prices. Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Operating, selling, general and administrative expenses for second quarter and for the six-month periods increased primarily due to the acquisition of Hess and higher transportation costs, partially offset by lower employee expenses. Three Months Ended June 30
+
+=== CVX_10-Q_0000093410-26-000167:0050:2 | page 50 | table | section: '' | words 21 ===
+Sales and other operating revenues | $ | 67,199 | $ | 44,375 | $ | 114,755 |  | $ 90,476
+
+=== CVX_10-Q_0000093410-26-000167:0050:3 | page 50 | table | section: '' | words 20 ===
+Income from equity affiliates | $ | 2,125 | $ | 536 | $ | 2,870 |  | $ 1,356
+
+=== CVX_10-Q_0000093410-26-000167:0050:4 | page 50 | table | section: '' | words 20 ===
+Other income (loss) | $ | 731 | $ | (89) | $ | 1,037 |  | $ | 600
+
+=== CVX_10-Q_0000093410-26-000167:0050:5 | page 50 | table | section: '' | words 22 ===
+Purchased crude oil and products | $ | 36,607 | $ | 26,858 | $ | 64,872 |  | $ | 55,468
+
+=== CVX_10-Q_0000093410-26-000167:0050:6 | page 50 | table | section: '' | words 23 ===
+Operating, selling, general and administrative expenses | $ | 8,765 | $ | 7,563 | $ | 17,507 |  | $ | 15,192
+
+=== CVX_10-Q_0000093410-26-000167:0051:1 | page 51 | paragraph | section: '' | words 40 ===
+Exploration expenses in the second quarter increased primarily due to higher geological and geophysical engineering costs. Exploration expenses for the six-month periods increased primarily due to higher geological and geophysical engineering costs, partially offset by lower dry hole expenses. 36
+
+=== CVX_10-Q_0000093410-26-000167:0052:1 | page 52 | paragraph | section: '' | words 323 ===
+Table of Contents Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Taxes other than on income for second quarter and for the six-month periods decreased primarily due to lower excise taxes related to downstream activities. Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Interest and debt expenses in second quarter and for the six-month periods increased mainly due to higher debt balances compared to last year, including the debt assumed from the Hess acquisition. Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) Other components of net periodic benefit costs for the second quarter increased mainly due to pension settlement losses, partially offset by higher expected returns on plan assets. Other components of net periodic benefit costs for the six-month periods were lower mainly due to higher expected return on plan assets, partially offset by pension settlement losses. Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 (Millions of dollars) The company’s increase in income tax expense for second quarter 2026 of $2.8 billion was primarily due to the increase in total income before tax of $12.5 billion. U.S. income before tax increased from $1.1 billion in second quarter 2025 to $6.4 billion in second quarter 2026. This was driven by higher upstream liquids realizations, higher upstream sales volumes and higher downstream margins on refined product sales partly offset by higher depreciation, depletion and amortization. The company’s U.S. income tax increased $1.1 billion between year-over- year periods, from $300 million in 2025 to $1.4 billion in 2026 primarily due to the increase in income. International income before tax increased from $3.0 billion in second quarter 2025 to $10.3 billion in second quarter 2026. This $7
+
+=== CVX_10-Q_0000093410-26-000167:0052:2 | page 52 | paragraph | section: '' | words 88 ===
+billion increase in income was primarily driven by increased upstream sales volumes, higher upstream liquids realizations, higher margins on refined product sales and favorable timing effects partly offset by higher depreciation, depletion and amortization. The company’s international income tax expense increased $1.7 billion between year-over-year periods, from $1.3 billion in 2025 to $3.1 billion in 2026, primarily due to the increase in income partially offset by mix effects, resulting from the absolute level of earnings or losses and whether they arose in higher or lower tax rate jurisdictions.
+
+=== CVX_10-Q_0000093410-26-000167:0052:3 | page 52 | table | section: '' | words 23 ===
+Depreciation, depletion and amortization | $ | 6,082 |  | $ | 4,344 |  | $ | 11,890 |  | $ | 8,467
+
+=== CVX_10-Q_0000093410-26-000167:0052:4 | page 52 | table | section: '' | words 22 ===
+Depreciation, depletion and amortization expenses in second quarter and for the | 
+production, including from legacy Hess assets, and higher rates. |
+
+=== CVX_10-Q_0000093410-26-000167:0052:5 | page 52 | table | section: '' | words 24 ===
+Taxes other than on income | $ | 1,213 |  | $ | 1,301 |  | $ | 2,527 |  | $ | 2,556
+
+=== CVX_10-Q_0000093410-26-000167:0052:6 | page 52 | table | section: '' | words 23 ===
+Interest and debt expense | $ | 352 |  | $ | 274 |  | $ | 697 |  | $ | 486
+
+=== CVX_10-Q_0000093410-26-000167:0052:7 | page 52 | table | section: '' | words 26 ===
+Other components of net periodic benefit costs | $ | 96 |  | $ | 83 |  | $ | 78 |  | $ | 94
+
+=== CVX_10-Q_0000093410-26-000167:0052:8 | page 52 | table | section: '' | words 22 ===
+Income tax expense/(benefit) | $ | 4,470 |  | $ | 1,632 |  | $ | 6,123 |  | $ | 3,703
+
+=== CVX_10-Q_0000093410-26-000167:0053:1 | page 53 | paragraph | section: '' | words 1 ===
+37
+
+=== CVX_10-Q_0000093410-26-000167:0054:1 | page 54 | paragraph | section: '' | words 253 ===
+Table of Contents The company’s increase in income tax expense for the first six-months of 2026 of $2.4 billion was primarily due to the increase in the total before-tax income in 2026 of $10.9 billion. U.S. income before tax increased between the six-month periods, from $3.0 billion in 2025 to $8.2 billion in 2026. This increase in income was primarily driven by increased upstream sales volumes, higher upstream liquids realizations, and higher margins on refined product sales partly offset by higher depreciation, depletion and amortization. The increase in income had a direct impact on the company’s U.S. income tax, resulting in an increase in tax expense of $1.1 billion between the six-month periods, from $801 million in 2025 to $1.9 billion in 2026. International income before tax increased for the six-month periods from $6.7 billion in 2025 to $12.4 billion in 2026. This increase in income was primarily driven by increased upstream sales volumes, higher upstream liquids realizations, and higher margins on refined product sales, partly offset by higher depreciation, depletion and amortization and unfavorable timing effects. The increase in income partly offset by mix effects, resulting from the absolute level of earnings or losses and whether they arose in higher or lower tax rate jurisdictions, primarily drove the $1.3 billion increase in international income tax expense between year-over-year periods, from $2.9 billion in 2025 to $4.2 billion in 2026. Additional information related to the company’s effective income tax rate is included in Note 10 Income Taxes to the Consolidated Financial Statements. 38
+
+=== CVX_10-Q_0000093410-26-000167:0055:1 | page 55 | paragraph | section: '' | words 6 ===
+Table of Contents Selected Operating Data
+
+=== CVX_10-Q_0000093410-26-000167:0056:1 | page 56 | paragraph | section: '' | words 113 ===
+The following table presents a comparison of selected operating data: Selected Operating Data Three Months Ended June 30 Six Months Ended June 30 Unit 2026 2025 2026 2025 Includes company share of equity affiliates. MBD — thousands of barrels per day; MMCFD — millions of cubic feet per day; BBL — Barrel; MCF — thousands of cubic feet; oil-equivalent gas conversion ratio is 6,000 cubic feet of natural gas = 1 barrel of crude oil; MBOED — thousands of barrels of oil-equivalent per day. Includes natural gas consumed in operations (MMCFD): United States 74 57 72 54 International 595 560 579 567 Includes branded and unbranded gasoline. (1) (2) (1) (2) (3) (4)
+
+=== CVX_10-Q_0000093410-26-000167:0056:2 | page 56 | table | section: '' | words 519 ===
+U.S. Upstream |  |  |  |  |  |  |  |  |  |  |  | 
+Net crude oil and natural gas liquids production | MBD | 1,491 |  |  | 1,218 |  |  | 1,476 |  |  | 1,189 | 
+Net natural gas production(3) | MMCFD | 3,520 |  |  | 2,864 |  |  | 3,450 |  |  | 2,861 | 
+Net oil-equivalent production | MBOED | 2,077 |  |  | 1,695 |  |  | 2,051 |  |  | 1,666 | 
+Sales of natural gas | MMCFD | 5,794 |  |  | 5,594 |  |  | 5,934 |  |  | 5,506 | 
+Sales of natural gas liquids | MBD | 583 |  |  | 514 |  |  | 577 |  |  | 511 | 
+Revenue from net production |  |  |  |  |  |  |  |  |  |  |  | 
+Crude | $/BBL | $ | 95.66 |  | $ | 61.49 |  | $ | 82.43 |  | $ | 65.52
+NGLs | $/BBL | $ | 21.56 |  | $ | 18.39 |  | $ | 19.90 |  | $ | 20.75
+Liquids (weighted average of Crude and NGLs) | $/BBL | $ | 70.80 |  | $ | 47.77 |  | $ | 61.52 |  | $ | 51.40
+Natural gas | $/MCF | $ | 0.91 |  | $ | 1.75 |  | $ | 1.67 |  | $ | 2.12
+International Upstream |  |  |  |  |  |  |  |  |  |  |  | 
+Net crude oil and natural gas liquids production | MBD | 1,094 |  |  | 850 |  |  | 1,034 |  |  | 836 | 
+Net natural gas production(3) | MMCFD | 5,390 |  |  | 5,099 |  |  | 5,277 |  |  | 5,235 | 
+Net oil-equivalent production | MBOED | 1,993 |  |  | 1,701 |  |  | 1,914 |  |  | 1,708 | 
+Sales of natural gas | MMCFD | 5,556 |  |  | 5,507 |  |  | 5,481 |  |  | 5,443 | 
+Sales of natural gas liquids | MBD | 152 |  |  | 110 |  |  | 141 |  |  | 122 | 
+Revenue from liftings |  |  |  |  |  |  |  |  |  |  |  | 
+Crude | $/BBL | $ | 99.38 |  | $ | 60.61 |  | $ | 90.22 |  | $ | 65.04
+NGLs | $/BBL | $ | 27.00 |  | $ | 22.27 |  | $ | 26.05 |  | $ | 23.83
+Liquids (weighted average of Crude and NGLs) | $/BBL | $ | 96.41 |  | $ | 58.88 |  | $ | 87.38 |  | $ | 63.12
+Natural gas | $/MCF | $ | 7.84 |  | $ | 7.20 |  | $ | 7.43 |  | $ | 7.16
+U.S. and International Upstream |  |  |  |  |  |  |  |  |  |  |  | 
+Total net oil-equivalent production | MBOED | 4,070 |  |  | 3,396 |  |  | 3,965 |  |  | 3,374 | 
+U.S. Downstream |  |  |  |  |  |  |  |  |  |  |  | 
+Gaso
+
+=== CVX_10-Q_0000093410-26-000167:0056:3 | page 56 | table | section: '' | words 285 ===
+line sales(4) | MBD | 660 |  |  | 712 |  |  | 648 |  |  | 694 | 
+Other refined product sales | MBD | 660 669 |  |  |  |  |  | 645 643 |  |  |  | 
+Total refined product sales | MBD | 1,320 |  |  | 1,381 |  |  | 1,293 |  |  | 1,337 | 
+Sales of natural gas | MMCFD | 24 |  |  | 34 |  |  | 28 |  |  | 34 | 
+Sales of natural gas liquids | MBD | 42 |  |  | 30 |  |  | 34 |  |  | 24 | 
+Refinery crude unit inputs | MBD | 1,070 |  |  | 1,051 |  |  | 1,063 |  |  | 1,034 | 
+International Downstream |  |  |  |  |  |  |  |  |  |  |  | 
+Gasoline sales(4) | MBD | 270 |  |  | 361 |  |  | 281 |  |  | 358 | 
+Other refined product sales | MBD | 698 |  |  | 722 |  |  | 747 |  |  | 706 | 
+Share of affiliate sales | MBD | 319 390 |  |  |  |  |  | 361 372 |  |  |  | 
+Total refined product sales | MBD | 1,287 |  |  | 1,473 |  |  | 1,389 |  |  | 1,436 | 
+Sales of natural gas | MMCFD | — |  |  | — |  |  | — 2 |  |  |  | 
+Sales of natural gas liquids | MBD | 108 |  |  | 124 |  |  | 109 |  |  | 124 | 
+Refinery crude unit inputs | MBD | 598 |  |  | 661 |  |  | 608 640 |  |  |  |
+
+=== CVX_10-Q_0000093410-26-000167:0057:1 | page 57 | paragraph | section: '' | words 1 ===
+39
+
+=== CVX_10-Q_0000093410-26-000167:0058:1 | page 58 | paragraph | section: '' | words 302 ===
+Table of Contents Liquidity and Capital Resources Cash, cash equivalents and marketable securities totaled $8.5 billion at June 30, 2026, and $6.3 billion at year-end 2025. The company holds its cash with a diverse group of major financial institutions and has processes and safeguards in place to manage its cash balances and mitigate the risk of loss. Cash provided by operating activities in the first six months of 2026 was $25.1 billion, compared with $13.8 billion in the year-ago period, primarily reflecting higher commodity prices and increased cash distributions from TCO. Capital expenditures totaled $8.6 billion in the first six months of 2026, compared with $7.6 billion in the year-ago period. Proceeds and deposits related to asset sales and returns of investment totaled $355 million in the first six months of 2026, compared to $990 million in the year-ago period. Net repayment (borrowing) of loans by equity affiliates included a net inflow of $979 million in the first six months of 2026 mainly due to a loan repayment from TCO, compared with an outflow of $176 million in the year-ago period. Dividends The company paid dividends of $7.0 billion to common stockholders during the first six months of 2026. In July 2026, the company declared a quarterly dividend of $1.78 per common share, payable in September 2026. Debt and Finance Lease Liabilities Chevron’s total debt and finance lease liabilities were $37.1 billion at June 30, 2026, down from $40.8 billion at December 31, 2025. The decrease was primarily due to maturing long-term notes, a finance lease repayment, and lower commercial paper balances. The company’s primary source for working capital needs is its commercial paper program. The outstanding balance for the company’s commercial paper program at June 30, 2026, was $4.1 billion, compared with $4.6 billion at December 31, 2025. The company’s debt
+
+=== CVX_10-Q_0000093410-26-000167:0058:2 | page 58 | paragraph | section: '' | words 289 ===
+and finance lease liabilities due within one year, consisting primarily of commercial paper, the current portion of long-term debt and redeemable long-term obligations, totaled $11.3 billion at June 30, 2026, and $10.9 billion at December 31, 2025. Of these amounts, $10.9 billion at June 30, 2026, and $9.9 billion at December 31, 2025, were reclassified to long-term debt. At June 30, 2026, settlement of these obligations was not expected to require the use of working capital within one year, as the company had the intent and the ability, as evidenced by committed credit facilities, to continually refinance them. At June  30, 2026, the company had $11.4 billion in 364-day committed credit facilities with various major banks that enable the refinancing of short-term obligations. The credit facilities allow the company the option to convert outstanding short-term obligations into a term loan for a period of up to one year from the facilities termination date. This supports commercial paper borrowing and can also be used for general corporate purposes. The company’s practice has been to replace expiring commitments with new commitments on substantially the same terms, maintaining levels management believes appropriate. Any borrowings under the facilities would be unsecured indebtedness at interest rates based on the Secured Overnight Financing Rate (SOFR), or an average of base lending rates published by specified banks and on terms reflecting the company’s strong credit rating. No borrowings were outstanding under these facilities at June 30, 2026. In addition, the company has an automatic shelf registration statement that expires in November 2027 for an unspecified amount of nonconvertible debt securities issued by Chevron Corporation or CUSA. The major debt rating agencies routinely evaluate the company’s debt, and the company’s cost of borrowing can increase or decrease
+
+=== CVX_10-Q_0000093410-26-000167:0058:3 | page 58 | paragraph | section: '' | words 170 ===
+depending on these debt ratings. The company has outstanding bonds issued by Chevron Corporation, CUSA, Texaco Capital Inc., Noble Energy, Inc., and Hess Corporation. The securities that are the obligations of, or guaranteed by, Chevron Corporation carry an AA- rating by Standard and Poor’s Corporation (S&P) and an Aa2 rating by Moody’s Investors Service (Moody’s). The company’s U.S. commercial paper is rated A-1+ by S&P and P-1 by Moody’s. All of these ratings denote high-quality, investment-grade securities. The company’s future debt level is dependent primarily on results of operations, cash that may be generated from asset dispositions, the capital program, lending commitments to affiliates, loan repayments from affiliates, and shareholder distributions. Based on its high- quality debt ratings, the company believes that it has substantial borrowing capacity to meet unanticipated cash requirements. During extended periods of low prices for crude oil and natural gas and narrow margins for refined products and commodity chemicals, the company has the flexibility to modify capital spending plans, discontinue or curtail the stock repurchase 40
+
+=== CVX_10-Q_0000093410-26-000167:0059:1 | page 59 | paragraph | section: '' | words 285 ===
+Table of Contents program, sell assets, and increase borrowings to continue paying the common stock dividend. The company remains committed to retaining high-quality debt ratings. Summarized Financial Information for Guarantee of Securities of Subsidiaries CUSA issued bonds that are fully and unconditionally guaranteed on an unsecured basis by Chevron Corporation (together, the “Obligor Group”). The tables below contain summary financial information for Chevron Corporation, as Guarantor, excluding its consolidated subsidiaries, and CUSA, as the issuer, excluding its consolidated subsidiaries. The summary financial information of the Obligor Group is presented on a combined basis, and transactions between the combined entities have been eliminated. Financial information for non-guarantor entities has been excluded. Six Months Ended June 30, 2026 Year Ended December 31, 2025 (Millions of dollars) (unaudited) Sales and other operating revenues - related party 28,303 36,700 Total costs and other deductions - related party 29,048 33,229 At June 30, 2026 At December 31, 2025 (Millions of dollars) (unaudited) Current assets - related party 6,876 2,266 Current liabilities 29,682 26,388 Other liabilities 27,021 29,539 Common Stock Repurchase Program On January 25, 2023, the Board of Directors authorized the repurchase of the company’s shares of common stock in an aggregate amount of $75 billion (the “2023 Program”). The 2023 Program took effect on April 1, 2023, and does not have a fixed expiration date. In the aggregate, the company has repurchased 281 million shares for $44.0 billion under the 2023 Program, including 16.2 million shares repurchased for $3.0 billion in second quarter 2026. Chevron expects share repurchases in third quarter 2026 to be between $2.5-$3.0 billion. Repurchases may be made from time to time in the open market, by block purchases, in privately negotiated transactions or in such
+
+=== CVX_10-Q_0000093410-26-000167:0059:2 | page 59 | paragraph | section: '' | words 103 ===
+other manner as determined by the company. The timing of the repurchases and the actual amount repurchased will depend on a variety of factors, including the market price of the company’s shares, general market and economic conditions, and other factors. The stock repurchase program and any forward guidance as to expected repurchases do not obligate the company to acquire any particular amount of common stock, and the program may be discontinued or resumed at any time. Noncontrolling Interests The company had noncontrolling interests of $5.7 billion at both June 30, 2026, and December 31, 2025, including non-controlling interest in Hess Midstream LP. 41
+
+=== CVX_10-Q_0000093410-26-000167:0060:1 | page 60 | paragraph | section: '' | words 307 ===
+Table of Contents Financial Ratios and Metrics At June 30, 2026 At December 31, 2025 Debt Ratio 16.3  % 17.9  % Debt-to-CFFO 0.8x 1.2x At June 30, 2026, the book value of inventory was lower than replacement cost. Net Debt Ratio for June 30, 2026, is calculated as short-term debt of $0.4 billion plus long-term debt of $36.7 billion (together, “total debt”) less cash and cash equivalents, time deposits, and marketable securities of $8.5 billion as a percentage of total debt less cash and cash equivalents, time deposits, and marketable securities, plus Chevron Corporation Stockholders’ Equity of $189.9 billion. For the December 31, 2025, calculation, please refer to page 52 of Chevron’s 2025 Annual Report on Form 10-K. Net debt-to-CFFO for June 30, 2026, is calculated as short-term debt of $0.4 billion plus long-term debt of $36.7 billion (together, “total debt”) less cash and cash equivalents, time deposits, and marketable securities of $8.5 billion as a percentage of net cash provided by operating activities (CFFO) for the trailing 12 months of $45.3 billion. For the December 31, 2025, calculation, please refer to page 52 of Chevron’s 2025 Annual Report on Form 10-K. Six Months Ended June 30 2026 2025 (Millions of dollars) Less: Capital expenditures (8,601) (7,639) Pension Obligations Information related to pension plan contributions is included in Note 8 Employee Benefits to the Consolidated Financial Statements. Capital Expenditures The company’s capital expenditures (capex) primarily includes additions to fixed assets or investments for the company’s consolidated subsidiaries and is disclosed in the Consolidated Statement of Cash Flows. Capex in the first six months of 2026 was $962 million higher than the prior year primarily due to spend associated with legacy Hess assets, partially offset by lower spend in the Permian Basin. Affiliate Capital Expenditures The company’s affiliate capital expenditures (affiliate capex) primarily includes additions to fixed asset
+
+=== CVX_10-Q_0000093410-26-000167:0060:2 | page 60 | paragraph | section: '' | words 47 ===
+or investments in the equity affiliate’s financial statements and does not require cash outlays by the company. Affiliate capex in the first six months of 2026 was $372 million lower than the prior year primarily due to lower spend at CPChem and TCO. (1) (2) (3) 42
+
+=== CVX_10-Q_0000093410-26-000167:0061:1 | page 61 | paragraph | section: '' | words 259 ===
+Table of Contents Capex and Affiliate Capex by Business Segment Three Months Ended June 30 Six Months Ended June 30 2026 2025 2026 2025 Capex (Millions of dollars) United States Contingencies and Significant Litigation Climate Change Information related to climate change-related matters is included in Note 11 Litigation under the heading “Climate Change.” Louisiana Information related to Louisiana coastal matters is included in Note 11 Litigation under the heading “Louisiana.” Income Taxes Information related to income tax contingencies is included in Note 10 Income Taxes and in Note 12 Other Contingencies and Commitments under the heading “Income Taxes.” Guarantees Information related to the company’s guarantees is included in Note 12 Other Contingencies and Commitments under the heading “Guarantees.” Indemnification Information related to indemnification is included in Note  12 Other Contingencies and Commitments under the heading “Indemnification.” Long-Term Unconditional Purchase Obligations and Commitments, Including Throughput and Take-or-Pay Agreements Information related to the company’s long-term unconditional purchase obligations and commitments is included in Note 12 Other Contingencies and Commitments under the heading “Long-Term Unconditional Purchase Obligations and Commitments, Including Throughput and Take-or-Pay Agreements.” Environmental Information related to environmental matters is included in Note 12 Other Contingencies and Commitments under the heading “Environmental.” Acquisition and Disposition of Assets Information related to the company’s acquisition and disposition of assets is included in Note 12 Other Contingencies and Commitments under the headings “Decommissioning Obligations for Previously Sold Assets” and “Other Contingencies.” Other Contingencies Information related to the company’s other contingencies is included in Note 12 Other Contingencies and Commitments under the heading “Other Contingencies.”
+
+=== CVX_10-Q_0000093410-26-000167:0061:2 | page 61 | table | section: '' | words 239 ===
+Upstream | $ | 2,189 |  | $ | 2,281 |  | $ | 4,379 |  | $ | 4,826
+Downstream | 149 |  |  | 154 |  |  | 240 |  |  | 309 | 
+All Other | 96 |  |  | 111 |  |  | 149 |  |  | 174 | 
+Total United States | 2,434 |  |  | 2,546 |  |  | 4,768 |  |  | 5,309 | 
+International |  |  |  |  |  |  |  |  |  |  | 
+Upstream | 2,037 |  |  | 1,112 |  |  | 3,712 |  |  | 2,235 | 
+Downstream | 52 |  |  | 40 |  |  | 99 |  |  | 67 | 
+All Other | 15 |  |  | 14 |  |  | 22 |  |  | 28 | 
+Total International | 2,104 |  |  | 1,166 |  |  | 3,833 |  |  | 2,330 | 
+Capex | $ | 4,538 |  | $ | 3,712 |  | $ | 8,601 |  | $ | 7,639
+Affiliate Capex |  |  |  |  |  |  |  |  |  |  | 
+Upstream | $ | 116 |  | $ | 173 |  | $ | 226 |  | $ | 379
+Downstream | 156 |  |  | 269 |  |  | 332 |  |  | 551 | 
+Affiliate Capex | $ | 272 |  | $ | 442 |  | $ | 558 |  | $ | 930
+
+=== CVX_10-Q_0000093410-26-000167:0062:1 | page 62 | paragraph | section: '' | words 1 ===
+43
+
+=== CVX_10-Q_0000093410-26-000167:0063:1 | page 63 | paragraph | section: '' | words 297 ===
+Table of Contents Item 3. Quantitative and Qualitative Disclosures About Market Risk Chevron is exposed to market risks described in Management’s Discussion and Analysis of Financial Condition and Results of Operations - Financial and Derivative Instrument Market Risk in Chevron’s 2025 Annual Report on Form 10-K. Information about volatility in commodity prices associated with the ongoing conflict in the Middle East and its impact is discussed in Note 14. Financial and Derivative Instruments. Item 4. Controls and Procedures (a) Evaluation of disclosure controls and procedures The company’s management has evaluated, with the participation of the Chief Executive Officer and Chief Financial Officer, the effectiveness of the company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) as of the end of the period covered by this report. Based on this evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the company’s disclosure controls and procedures were effective as of June 30, 2026. (b) Changes in internal control over financial reporting During the quarter ended June 30, 2026, there were no changes in the company’s internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, the company’s internal control over financial reporting. PART II OTHER INFORMATION Item 1. Legal Proceedings Item 103 of Regulation S-K promulgated by the U.S. Securities and Exchange Commission (SEC) requires disclosure of certain legal proceedings that involve governmental authorities as a party and that the company reasonably believes would result in $1.0 million or more of monetary sanctions, exclusive of interest and costs, under federal, state and local laws that have been enacted or adopted regulating the discharge of materials into the environment or primarily for the purpose of protecting the environment. The followin
+
+=== CVX_10-Q_0000093410-26-000167:0063:2 | page 63 | paragraph | section: '' | words 216 ===
+proceedings include those matters relating to second quarter 2026 and any material developments with respect to matters previously reported in Chevron’s 2025 Annual Report on Form 10-K. As previously disclosed, on May 26, 2023, Chevron’s refinery in El Segundo, California notified the U.S. EPA that it had inadvertently overstated the number of biofuel credits generated by co-processing in 2022 in violation of the Renewable Fuel Standard program. Resolution of the alleged violations resulted in the payment of a civil penalty of $1,072,634 in April 2026. As previously disclosed, on July 22, 2025, the Colorado Energy & Carbon Management Commission (ECMC) issued a notice alleging various violations of reporting rules associated with environmental remediation data. On June 24, 2026, ECMC approved an Administrative Order by Consent (AOC) that will resolve the matter. Pursuant to the AOC, a total civil penalty of $6,416,735 was assessed. Chevron paid $400,000 of the assessed penalty in July 2026. In satisfaction of $1,204,184 of the assessed penalty, Chevron must pay $783,003 to fund public projects designated by ECMC on or before June 24, 2027. The remaining penalty amount of $4,812,551 will be suspended and reduced by 25% for each year that Chevron completes certain actions during a four-year compliance period. Please see information related to other legal proceedings in Note 11 Litigation.
+
+=== CVX_10-Q_0000093410-26-000167:0064:1 | page 64 | paragraph | section: '' | words 1 ===
+44
+
+=== CVX_10-Q_0000093410-26-000167:0065:1 | page 65 | paragraph | section: '' | words 219 ===
+Table of Contents Item 1A. Risk Factors Some inherent risks could materially impact the company’s results of operations or financial condition. Information about risk factors for the six months ended June 30, 2026, does not differ materially from that set forth under the heading “Risk Factors” on pages 21 through 27 of the company’s 2025 Annual Report on Form 10-K. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds CHEVRON CORPORATION ISSUER PURCHASES OF EQUITY SECURITIES Period Total Number of Shares Purchased Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Program Approximate Dollar Value of Shares that May Yet Be Purchased Under the 2023 Program (Billions of dollars) May 1 - May 31, 2026 5,128,129 $186.37 5,121,639 $32.0 Total 16,255,113 $184.72 16,241,840 Includes common shares repurchased from participants in the company’s executive compensation plans for personal income tax withholdings. Refer to “Liquidity and Capital Resources” for additional information regarding the company’s authorized stock repurchase program. Item 5. Other Information Rule 10b5-1 Plan Elections During the three months ended June 30, 2026, none of our directors or executive officers adopted, modified or terminated a Rule 10b5- 1 trading arrangement or a non-Rule 10b5-1 trading arrangement, as such terms are defined in Item 408 of Regulation S-K. (1,2) (2) (1) (2) 45
+
+=== CVX_10-Q_0000093410-26-000167:0066:1 | page 66 | paragraph | section: '' | words 77 ===
+Table of Contents Item 6. Exhibits Exhibit Index Exhibit Number Description 31.1* Rule 13a-14(a)/15d-14(a) Certification by the company’s Chief Executive Officer 31.2* Rule 13a-14(a)/15d-14(a) Certification by the company’s Chief Financial Officer 32.1** Rule 13a-14(b)/15d-14(b) Certification by the company’s Chief Executive Officer 32.2** Rule 13a-14(b)/15d-14(b) Certification by the company’s Chief Financial Officer 101* Interactive data files (formatted as Inline XBRL) 104* Cover Page Interactive Data File (contained in Exhibit 101) ____________________________________________ *    Filed herewith. **     Furnished herewith. 46
+
+=== CVX_10-Q_0000093410-26-000167:0067:1 | page 67 | paragraph | section: '' | words 53 ===
+Table of Contents SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. CHEVRON CORPORATION (REGISTRANT) Amit R. Ghai, Controller (Principal Accounting Officer and Duly Authorized Officer) Date: August 6, 2026 47
+
+=== CVX_10-Q_0000093410-26-000167:0067:2 | page 67 | table | section: '' | words 6 ===
+S | / Amit R. Ghai

@@ -1,0 +1,310 @@
+[pdf: manualsbase-id-111031] [passages: 76]
+
+=== manualsbase-id-111031:0001:1 | page 1 | paragraph | section: '' | words 13 ===
+Product Information Manual Color Digital Camera Internal Use Only DXC-S500 iCY SHOT TM
+
+=== manualsbase-id-111031:0003:1 | page 3 | section | section: 'DXC-S500 Product Information Manual – 3' | words 221 ===
+As the number of microscopy applications increases, the method of capturing images has changed from using NTSC/PAL-based video signals to the simplicity and convenience of PC-based image data.  A flexible interface with PCs along with superior picture quality are now essential to microscopy, and the Sony DXC-S500 Digital Camera System meets these demands by providing both. Comprising two separate units, the DXC-S500 includes a compact and lightweight camera head unit (CHU) and a camera control unit (CCU) with an integrated 3.5 type LCD monitor. The 2/3 type five mega-pixel CCD incorporated in the CHU provides ultra-high-resolution images and precise color reproduction.  The LCD on the CCU enables you to monitor live images and offers user-friendly operation. The added advantage of the DXC-S500 is its flexible interface with PCs.  An IEEE 1394 interface on the CCU allows uncompressed image data transfer to a PC.  A built-in PCMCIA card slot enables you to store images on various media, such as "Memory Stick™", CompactFlash™, SmartMedia™ and removable hard disk drives. What's more, a hot-plug function allows the camera to be effortlessly connected to a PC, while the supplied TWAIN driver supports various application software such as Photoshop® and Image-Pro® Plus. With excellent picture quality, sophisticated features and PC-friendly operation, the Sony DXC-S500 is the ideal system to support your medical and scientific microscopy applications.
+
+=== manualsbase-id-111031:0003:2 | page 3 | section | section: '1. INTRODUCTION' | words 515 ===
+1. INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 2. PRODUCT CONCEPT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 3. APPLICATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 4. KEY FEATURES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 5. PANEL LAYOUT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8 6. MENU FUNCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 7. TWAIN DRIVER SOFTWARE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 8. SYSTEM EXAMPLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 9. OPTIONAL ACCESSORIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 10. SPECIFICATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 11. PIN ASSIGNMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 12. DIMENSIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 13. TECHNICAL APPENDIX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+=== manualsbase-id-111031:0004:1 | page 4 | section | section: 'Ultra-high-resolution Color Digital Camera for Microscopy' | words 40 ===
+I Superb picture quality with a 2/3 type five mega-pixel CCD I Flexible interface with PCs N IEEE 1394 interface N PC card slot N TWAIN driver I User-friendly operation with an integrated 3.5 type LCD monitor I C-mount system
+
+=== manualsbase-id-111031:0004:2 | page 4 | section | section: 'Bio-medical Microscopy' | words 6 ===
+I Microbiology I Pathology I Genetics
+
+=== manualsbase-id-111031:0005:1 | page 5 | section | section: 'DXC-S500 Product Information Manual – 5' | words 322 ===
+By utilizing several core technologies, the DXC-S500 offers superb picture quality.  With a five mega-pixel 2/3 type IT CCD, the DXC-S500 can capture ultra-high-resolution and high-precision images.  The maximum number of pixels used for image capture is 2560 (H) x 1920 (V), providing superior resolution.  The use of RGB primary color mosaic filters contributes to precise color reproduction, while a cooling device cools the CCD chip to 5 ˚C (at 0 to 35 ˚C ambient temperature) to achieve excellent signal-to-noise ratio. Built-in frame memory provides a remarkable enhancement in sensitivity by allowing the charge accumulation period of the CCD (typically 1/60 sec- ond) to be extended to a maximum of 60 seconds. The DXC-S500 provides a fluorescent mode (FL MODE), which facilitates focus and capture adjustments for dark objects at the touch of a button. When activated, it automatically boosts the camera gain level and lowers the frame rate so the dark object can be clearly seen.  When focus adjustments have been made, pressing the "CAPTURE" button resets the gain and calculates the appropriate shutter speed (Long-term Exposure) so a clear image can be obtained.  And, thanks to the CCD cooling device, the dark noise that is typically seen in Long-term Exposure mode is dramatically reduced. The IEEE 1394 (400 Mb/s) interface located on the camera control unit enables direct interface with var- ious PCs or IEEE 1394 boards*.  The interface sup- ports a hot-plug function for quick access to the camera's image without restarting the PC.  The pic- tures are transmitted in uncompressed IEEE 1394 format for highest accuracy. A PC card slot is located on the front of the CCU for storing images directly onto various media.  This slot supports PCMCIA ATA Type II*, enabling data stor- age in a "Memory Stick", CompactFlash, SmartMedia and removable hard disk drive. The supplied TWAIN driver enables the use of vari- ous application software.  You can use this driver to monitor live i
+
+=== manualsbase-id-111031:0005:2 | page 5 | section | section: 'Fluorescence Image Capturing' | words 22 ===
+* When Microsoft® Windows® is used, IEEE 1394 boards con- forming to OHCI are supported.  For Macintosh®, genuine FireWire® boards are supported.
+
+=== manualsbase-id-111031:0006:1 | page 6 | table | section: 'User ID number' | words 69 ===
+Image recording size (H x V) | TIFF (uncompressed) | JPEG (compressed) |  | 
+ |  | High | Mid | Low
+FULL: 2560 x 1920 | 15 MB | 5 MB | 2.5 MB | 1.3 MB
+SXGA: 1280 x 960 | 3.8 MB | 1.3 MB | 630 KB | 310 KB
+VGA: 640 x 480 | 940 KB | 310 KB | 160 KB | 78 KB
+
+=== manualsbase-id-111031:0007:1 | page 7 | section | section: 'DXC-S500 Product Information Manual – 7' | words 176 ===
+The AE (Auto Exposure) function automatically detects the lighting conditions or brightness of the object and adjusts the shutter speed and gain for proper exposure.  The DXC-S500 is equipped with a number of AE modes that offer superb image quality. To provide an extensive choice of lenses, the DXC-S500 uses the 2/3 type C-mount system for flexible and easy lens mounting. An optional FS-20 foot switch is available, enabling you to capture and record images by simply step- ping on the switch. The DXC-S500 automatically detects the luminance distribution of images, displaying a histogram on the monitor so you can verify the condition of each exposure. A variety of customized data can be saved as a user file, up to three of which can be stored in the CCU. By loading this user file, you can quickly recreate particular setup conditions. The image output can be selected from either Color or Black & White modes. It is possible to record at pre-determined intervals (up to 24 hours). This function rotates the image by 0˚ to 180˚.
+
+=== manualsbase-id-111031:0008:1 | page 8 | section | section: 'On/standby switch and indicator' | words 28 ===
+When the power of the unit is on, the indicator is lit in green, and when the unit is in standby mode the indicator is lit in orange.
+
+=== manualsbase-id-111031:0008:2 | page 8 | section | section: 'GAIN (BLUE/RED) controls' | words 21 ===
+Adjusts the red and blue gain levels in manual white balance mode, or after executing the Auto White Balance mode (WB-AUTO).
+
+=== manualsbase-id-111031:0008:3 | page 8 | section | section: 'WHITE (white balance) button and AUTO indicator' | words 24 ===
+When the WB MODE is set to AUTO (the AUTO indicator is lit in green), pressing the WHITE button activates WB-AUTO (Auto White Balance).
+
+=== manualsbase-id-111031:0008:4 | page 8 | section | section: 'CAM GAIN (camera gain) control' | words 30 ===
+In MANUAL exposure mode (the MANUAL indicator is lit in red), turning the CAM GAIN volume adjusts the camera gain level within the range of 0 dB to 12 dB.
+
+=== manualsbase-id-111031:0008:5 | page 8 | section | section: 'AE MODE button and MANUAL indicator' | words 54 ===
+Sets the exposure mode of the camera to AE-AUTO or MANUAL.  In AE-AUTO mode, the electronic shutter speed and the camera gain automatically change in accordance with the brightness of the subject.  In MANUAL mode (the MANUAL indicator is lit in red), the electronic shutter speed and the camera gain can be adjusted independently.
+
+=== manualsbase-id-111031:0008:6 | page 8 | section | section: 'SHUTTER (electronic shutter) control' | words 28 ===
+In MANUAL exposure mode (the MANUAL indicator is lit in red), turning the SHUTTER volume controls the shutter speed within the range of 1/10,000 s to 60 s.
+
+=== manualsbase-id-111031:0008:7 | page 8 | section | section: 'AE LOCK button and indicator' | words 22 ===
+In AE-AUTO mode, pressing the AE LOCK button fixes the exposure time (the AE LOCK indicator is lit in green). CAPTURE REC
+
+=== manualsbase-id-111031:0008:8 | page 8 | table | section: '5. PANEL LAYOUT' | words 58 ===
+|  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | ER CAM GAI |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |
+
+=== manualsbase-id-111031:0008:9 | page 8 | table | section: '5. PANEL LAYOUT' | words 34 ===
+|  |  |  |  | 
+ | ERASE |  |  | LIVE | 
+PC CARD |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  |
+
+=== manualsbase-id-111031:0009:1 | page 9 | section | section: 'ENTER button' | words 81 ===
+In MENU DISPLAY mode: Displays the next layer of the menu system. In INDEX DISPLAY mode: Displays the selected image in full screen. In Camera LIVE mode: Initializes the focus indicator display. ↑/↓/←/→buttons In MENU DISPLAY mode: The ↑(cursor up) or ↓(cur- sor down) button moves the cursor in the menu display up or down.  The ←(data down) or →(data up) button sets the data in the menu display. In INDEX DISPLAY mode: Selects an image from the thumbnail images displayed.
+
+=== manualsbase-id-111031:0009:2 | page 9 | section | section: 'MENU button' | words 20 ===
+In Camera LIVE mode: Displays the MAIN MENU on the LCD monitor. In PLAY mode: Displays the menu for replay.
+
+=== manualsbase-id-111031:0009:3 | page 9 | section | section: 'LCD monitor' | words 40 ===
+Displays the picture being shot, a captured image, or a playback image from a PC card.  Also displays the menu, the list of still images (INDEX DISPLAY), or information such as shutter speed, file name, and pic- ture size. PLAY
+
+=== manualsbase-id-111031:0009:4 | page 9 | section | section: '/+/_ buttons' | words 31 ===
+button: Replays a still image recorded on a card. + button: Replays the still image of the next file number. _ button: Replays the still image of the previous file number.
+
+=== manualsbase-id-111031:0009:5 | page 9 | section | section: 'DISP/INFO (display/information) button' | words 47 ===
+In Camera LIVE mode: Displays information on the camera's live image such as white balance mode, EV compensation volume, and shutter speed. In PLAY mode: Displays information about the image recorded to a PC card, such as record date and time, EV compensation volume, and shutter speed.
+
+=== manualsbase-id-111031:0009:6 | page 9 | section | section: 'ERASE button' | words 22 ===
+In PLAY mode: Erases the files on the loaded PC card. In INDEX DISPLAY mode: Erases the selected image from thumbnail images.
+
+=== manualsbase-id-111031:0009:7 | page 9 | section | section: 'EZ FOCUS (easy focus)/INDEX button' | words 29 ===
+In Camera LIVE mode: Activates 2x electronic zoom to facilitate focusing operations. In PLAY mode: Displays thumbnail images of still pic- tures (INDEX DISPLAY) recorded to a PC card.
+
+=== manualsbase-id-111031:0009:8 | page 9 | section | section: 'KEY LOCK button and indicator' | words 35 ===
+Pressing the KEY LOCK button for more than two seconds (the indicator is lit in green) disables the operation of buttons and volumes. * The KEY LOCK mode retains while the unit is switched off.
+
+=== manualsbase-id-111031:0009:9 | page 9 | section | section: 'CARD EJECT button and access lamp' | words 31 ===
+Pressing this button ejects the loaded PC card.  The access lamp is lit in red during reading or writing. * Do not eject the card while the access lamp is lit.
+
+=== manualsbase-id-111031:0009:10 | page 9 | section | section: 'MANUAL indicator' | words 62 ===
+Sets the White Balance adjustment mode to AUTO or MANUAL.  In WB-AUTO mode, pressing the WHITE button automatically adjusts the white balance.  In WB-MANUAL mode (the MANUAL indicator is lit in red), the white balance is adjusted manually with the GAIN RED/BLUE volumes. 8 16 17 18 19 20 21 22 24 25 26 23 9 10 11 12 13 14 15
+
+=== manualsbase-id-111031:0010:1 | page 10 | section | section: 'IEEE 1394 (digital interface) connector * (6-pin)' | words 35 ===
+Connects to a computer via an IEEE 1394 cable (not supplied). * This connector cannot be used for connection to camera equipment with a DV connector. * This connector is not compatible with bus power.
+
+=== manualsbase-id-111031:0010:2 | page 10 | section | section: 'TRIG IN (trigger input) connector (BNC-type)' | words 31 ===
+Used when an external device, such as a slave unit, generates the trigger signal. When using a flash lamp in INPUT mode, connects a slave unit to the TRIG IN connector.
+
+=== manualsbase-id-111031:0010:3 | page 10 | section | section: 'Ventilation opening' | words 32 ===
+CAMERA IEEE 1394 FLASH VIDEO S VIDEO ON OFF ~ AC IN TRIG IN NTSC PAL FS1 FS2 REMOTE OUTPUT 1 2 3 4 5 6 7 8 9 10 11 12
+
+=== manualsbase-id-111031:0011:1 | page 11 | section | section: 'DXC-S500 Product Information Manual – 11' | words 95 ===
+Flash indicator Current date and time Number of recorded pictures on a card* Picture size/picture quality Focus area (AE window) Focus indicator Remaining shot number on a card Shutter speed ISO sensitivity/camera gain LIVE mode White balance mode EV compensation volume Folder name* File name* User ID number * Displayed only when a card is inserted. Flash indicator Protect indicator PLAY (playback) mode White balance mode Folder name File name User ID number Recorded date and time Number of recorded pictures on a card Picture size/picture quality EV compensation volume Shutter speed ISO sensitivity/camera gain
+
+=== manualsbase-id-111031:0012:1 | page 12 | section | section: 'set up' | words 50 ===
+SENSITIVITY MODE :                    ISO100 PICTURE SIZE :                             2560x1920 FILE FORMAT MODE :                  JPEG JPEG QUALITY :                         MIDDLE AE DETECT MODE :                      MID USER FILE SET UP SYSTEM SET UP CAMERA SET UP CAPTURE/REC SET UP ↓↑SELECT      SET <<MAIN MENU>> ← → DATA LOAD DATA SAVE ↓↑SELECT [ENTER] NEXT [EXIT] BACK
+
+=== manualsbase-id-111031:0012:2 | page 12 | table | section: '6. MENU FUNCTION' | words 215 ===
+|  |  |  | <<PLAY SET UP>> PROTECT MODE DELETE MODE DISPLAY SET CAPTURE/REC SET UP>> E TRIG : MAIN SW AL REC TIME ET UP>> OFF 0 [↑] 00 FF ← → |  | 
+ |  | << CAPTUR |  | DISPLAY SET CAPTURE/REC SET UP>> E TRIG : MAIN SW AL REC TIME ET UP>> OFF 0 [↑] 00 FF ← → |  | 
+ | B&W ROTATE | INTERV <<CAMERA S : |  | AL REC TIME ET UP>> OFF 0 [↑] 00 FF ← → |  | 
+DATE & T PC CAR | SHARPN <<SYSTEM S AUTO-W IME GAMMA D INIT AE SPE | ESS LEVEL :00 ET UP>> HITE-PAINT OFF : ON ED : NORMAL MODE : OFF Y SET : |  | 00 FF |  | 
+ |  |  |  |  |  | 
+ID SET MODE <USER FILE SET UFPL>A>SH MODE : O BEEP :ON D DISPLAY SET : KEY CLICK :ON E OSD COLOR : WHITE ESELECT [ENTER COLOR BARS :OFF LCD SET | MODE SET UFPL>A>SH MODE : O N DISPLAY SET : ICK :ON LOR : WHITE ESELECT [ENTER BARS :OFF | MODE : O Y SET : |  |  |  | 
+ |  |  | ] NEXT [EXI |  | T] BACK | 
+ |  |  |  |  |  |
+
+=== manualsbase-id-111031:0013:1 | page 13 | section | section: 'Setting Items in the Menu' | words 164 ===
+SENSITIVITY MODE : ISO100 PICTURE SIZE : 2560x1920 FILE FORMAT MODE : JPEG JPEG QUALITY : MIDDLE AE DETECT MODE : MID USER FILE SET UP SYSTEM SET UP CAMERA SET UP CAPTURE/REC SET UP ↓↑SELECT SET <<MAIN MENU>> ← → SENSITIVITY MODE : ISO100 PICTURE SIZE : 2560x1920 FILE FORMAT MODE : JPEG JPEG QUALITY : MIDDLE AE DETECT MODE : MID USER FILE SET UP SYSTEM SET UP CAMERA SET UP CAPTURE/REC SET UP ↓↑SELECT SET <<MAIN MENU>> ← → SENSITIVITY MODE : ISO100 PICTURE SIZE : 2560x1920 FILE FORMAT MODE : JPEG JPEG QUALITY : MIDDLE AE DETECT MODE : MID USER FILE SET UP SYSTEM SET UP CAMERA SET UP CAPTURE/REC SET UP ↓↑SELECT SET <<MAIN MENU>> ← → SENSITIVITY MODE : ISO100 PICTURE SIZE : 2560x1920 FILE FORMAT MODE : JPEG JPEG QUALITY : MIDDLE AE DETECT MODE : MID USER FILE SET UP SYSTEM SET UP CAMERA SET UP CAPTURE/REC SET UP ↓↑SELECT SET <<MAIN MENU>> ← →
+
+=== manualsbase-id-111031:0014:1 | page 14 | section | section: 'DATA LOAD:' | words 45 ===
+Selects the user setting to be loaded. • No.0 (RESET): the factory settings • No.1 (yy.mm.dd): user file 1 • No.2 (yy.mm.dd): user file 2 • No.3 (yy.mm.dd): user file 3 The year, month, and day that the data was saved are indicated in parentheses.
+
+=== manualsbase-id-111031:0014:2 | page 14 | section | section: 'DATA SAVE:' | words 84 ===
+Saves the user setting as a user file. • No.1 (yy.mm.dd): user file 1 • No.2 (yy.mm.dd): user file 2 • No.3 (yy.mm.dd): user file 3 The year, month, and day that the data is to be saved are indicated in parentheses. DATA LOAD DATA SAVE ↓↑SELECT [ENTER] NEXT [EXIT] BACK <<USER FILE SET UP>> DATE & TIME PC CARD INIT ID SET MODE BEEP :ON KEY CLICK :ON OSD COLOR :WHITE COLOR BARS :OFF LCD SET ↓↑SELECT SET <<SYSTEM SET UP>> ← →
+
+=== manualsbase-id-111031:0014:3 | page 14 | section | section: 'ID SET MODE:' | words 50 ===
+Assigns a user ID number up to 20 digits long. BEEP: Selects whether a beep is sounded during operation (ON/OFF selectable). • KEY CLICK: Selects whether to sound a beep when an operation but- ton is pressed (ON/OFF selectable).  This item is displayed only when BEEP is set to ON.
+
+=== manualsbase-id-111031:0015:1 | page 15 | section | section: 'B&W*:  Displays the Camera LIVE picture in black and white.' | words 20 ===
+• ON: Black and white *When B&W is selected, the image will also be captured in B&W. • OFF: Color
+
+=== manualsbase-id-111031:0015:2 | page 15 | section | section: 'SHARPNESS LEVEL:' | words 51 ===
+Adjusts the sharpness of an image.  Pressing the ←button softens the sharpness of an image, while pressing the →button sharpens it. AUTO-WHITE-PAINT: Allows an offset to be added to the auto white balance convergent point using the GAIN RED/BLUE volumes on the CCU.  This offset can be turned ON or OFF.
+
+=== manualsbase-id-111031:0015:3 | page 15 | section | section: 'GAMMA:  Selects the gamma compensation.' | words 22 ===
+• OFF: Gamma compensation off. • ON (MS): Gamma compensation for microscope shooting. • ON (STD): Gamma compensation for a CRT monitor.
+
+=== manualsbase-id-111031:0015:4 | page 15 | section | section: 'FLASH MODE:  Selects the shooting mode when using a flash.' | words 50 ===
+• OFF: Deactivates the flash mode. • EXT: INPUT: Selected when using a slave unit.  The flash lamp is syn- chronized with the trigger signal from a slave unit. • EXT: OUTPUT: Selected when using a flash lamp.  The flash lamp is synchronized with the trigger signal from the CCU.
+
+=== manualsbase-id-111031:0015:5 | page 15 | section | section: 'DISPLAY SET (in Camera LIVE mode):' | words 89 ===
+Selects the items that are displayed on the monitor when pressing the DISP/INFO button on the CCU. • SIZE/FORMAT/QLTY (Picture size/recording format/picture quality). • FOLDER/FILE NAME (Folder name/file name of an image recorded to a PC card). • ID NO (User ID number). • REMAINING SHOT (Remaining number of shots that can be recorded to a PC card). • TV/GAIN/EV COMP (Shutter speed/gain/EV compensation volume). • AE FRAME (AE window). • FOCUS DISPLAY (Focus indicator). • WB WHITE (White Balance mode). • DATE & TIME (Current date and time).
+
+=== manualsbase-id-111031:0015:6 | page 15 | section | section: 'Setting Items in the Menu' | words 34 ===
+B&W OFF ROTATE : 0 [↑] SHARPNESS LEVEL : ±00 AUTO-WHITE-PAINT OFF GAMMA : ON AE SPEED : NORMAL FLASH MODE : OFF DISPLAY SET : ↓↑SELECT [ENTER] NEXT [EXIT] BACK <<CAMERA SET UP>>
+
+=== manualsbase-id-111031:0016:1 | page 16 | section | section: 'CAPTURE TRIG:' | words 69 ===
+Selects the input connector to be used for image capture control. • MAIN SW: Selected when capturing images with the CAPTURE button on the CCU. • FS1: Selected when capturing images by switching the FS-20 foot switch connected to the FS1 connector. • FS2: Selected to activate the input signal from the FS2 connector. • EXT TRIG: Selected when using a slave unit connected to the TRIG IN connector.
+
+=== manualsbase-id-111031:0016:2 | page 16 | section | section: 'INTERVAL REC TIME:' | words 37 ===
+Sets an interval time for recording.  The interval time is selectable within the range of 10 seconds to 24 hours. CAPTURE TRIG : MAIN SW INTERVAL REC TIME ↓↑SELECT SET [EXIT] BACK <<CAPTURE/REC SET UP>> ← →
+
+=== manualsbase-id-111031:0016:3 | page 16 | section | section: 'PROTECT MODE:' | words 56 ===
+Protects the images recorded on a PC card from accidentally being erased. • 1 SHOT ON: Protects the image being played. • 1 SHOT OFF: Removes protection from the image being played. • ALL ON: Protects all images recorded on the PC card. • ALL OFF: Removes protection from all images recorded on the PC card.
+
+=== manualsbase-id-111031:0016:4 | page 16 | section | section: 'DELETE MODE:' | words 27 ===
+Deletes images recorded on the PC card. • 1 SHOT DELETE: Deletes the image being played. • ALL DELETE: Deletes all images recorded on the PC card.
+
+=== manualsbase-id-111031:0016:5 | page 16 | section | section: 'DISPLAY SET (in CAPTURE/PLAY mode):' | words 92 ===
+Selects items to be displayed on the monitor when pressing the DISP/INFO button on the CCU. • SIZE/FORMAT/QLTY (Picture size/recording format/picture quality). • FOLDER/FILE NAME (Folder name/file name of an image recorded on a card). • ID NO (User ID number). • REMAINING SHOT (Remaining number of shots that can be recorded on a PC card). • DATE & TIME (Date and time of recording). • TV/GAIN/EV COMP (Shutter speed/gain/EV compensation volume). • WB MODE (White Balance mode). PROTECT MODE DELETE MODE DISPLAY SET ↓↑SELECT [ENTER] NEXT [EXIT] BACK <<PLAY SET UP>>
+
+=== manualsbase-id-111031:0017:1 | page 17 | section | section: 'For Microsoft Windows users' | words 179 ===
+Hardware IBM PC/AT®-compatible machine CPU: Intel® Pentium® III or faster (Pentium III 400 MHz or faster recommended) Memory capacity: 128 MB RAM minimum (more than 256 MB RAM recommended) Cache memory: 256 KB minimum Hard disk: 50 MB memory or greater required PCI slot: One free PCI slot required (PCI 2.1-compliant) Video board: 24-bit full-color video board supporting DirectX V8.0 or later required. To display images correctly with this software, the video board requires the ability to show at least 16,000,000 colors.  To display live images correctly, the video board requires a high-performance video chip supporting DirectX, such as ATI RADEON 7500/8500 series or NVIDIA GeForce 2/3/4 series. *The TWAIN driver software displays the live image using the function of the high-perfor- mance video board through the DirectX V8.0.  Correct operation of the software is not guaranteed with some notebook computers in which the video board cannot be changed. Software Supporting OS: Windows 98SE/ME/2000 Professional SP2/XP Home/XP Professional DirectX: DirectX Runtime module V8.0 or later Application software supporting TWAIN driver: Photoshop V5.0 or later Image-Pro Plus V4.5 or later
+
+=== manualsbase-id-111031:0017:2 | page 17 | section | section: 'For Macintosh users' | words 66 ===
+Hardware Apple Computer, Inc. genuine personal computer CPU: PowerPC G3/G4 PowerMac, PowerBook, iMac, iBook series Memory capacity: 128 MB RAM minimum (more than 256 MB RAM recommended) Hard disk: 50 MB memory or greater required FireWire port: One free built-in FireWire port required Software Supporting OS: Mac OS 8.6, 9.0, 9.1, 9.2 QuickTime: QuickTime V4.0 or later Application software supporting TWAIN driver: Photoshop V5.0 or later
+
+=== manualsbase-id-111031:0018:1 | page 18 | section | section: 'Locations and Functions of Controls (for Windows)' | words 9 ===
+The Image Information Panel displays information about the images.
+
+=== manualsbase-id-111031:0018:2 | page 18 | section | section: 'Shot number display' | words 9 ===
+Displays the number of shots taken by the camera.
+
+=== manualsbase-id-111031:0018:3 | page 18 | section | section: 'Status display' | words 24 ===
+Displays the status of the DXC-S500 camera. 1 2 1 2 The Image Control Panel contains buttons for transmitting the image from the camera.
+
+=== manualsbase-id-111031:0018:4 | page 18 | section | section: 'Acquire (to PC) button' | words 24 ===
+Clicking this button transmits the images from the CCU into the appli- cation software. The transmitted image then appears in the application software window.
+
+=== manualsbase-id-111031:0018:5 | page 18 | section | section: 'Cancel button' | words 13 ===
+Clicking this button cancels transmission of the image into the applica- tion software.
+
+=== manualsbase-id-111031:0018:6 | page 18 | section | section: 'Quit button' | words 20 ===
+Clicking this button exits the TWAIN driver software and returns to the application software. 1 2 3 3 2 1
+
+=== manualsbase-id-111031:0019:1 | page 19 | section | section: 'REC       (record) button' | words 75 ===
+Records a still image to the PC card inserted in the CCU. button Selects a still image of the previous file number on the PC card. PLAY button Plays a still image stored on the PC card. button Selects a still image of the next file number on the PC card. 1 2 3 4 L 5 C 6 R 7 – + 8 P 9 1 2 3 4 5 6 7 8 9
+
+=== manualsbase-id-111031:0020:1 | page 20 | section | section: 'EV Comp. (compensation):' | words 21 ===
+Sets the exposure compensation value in AE-AUTO or FL mode. Sensitivity: Sets the ISO sensitivity in AE-AUTO mode (ISO 100/200/400 selectable).
+
+=== manualsbase-id-111031:0021:1 | page 21 | section | section: 'Image Size:' | words 21 ===
+Selects the size of the image to be recorded to the PC card (640 x 480/1280 x 960/2560 x 1920 selectable).
+
+=== manualsbase-id-111031:0021:2 | page 21 | section | section: 'Image Quality:' | words 28 ===
+Selects the recording format of the image _ selectable from TIFF (uncompressed), JPEG High (JPEG low compression), JPEG Middle (JPEG middle compression), or JPEG Low (JPEG high compression).
+
+=== manualsbase-id-111031:0021:3 | page 21 | section | section: 'E.Z. (easy) Focus:' | words 68 ===
+Activates E.Z. Focus to facilitate focus operations in Camera LIVE mode. Flash: Selects the Flash mode when using a flash lamp or a slave unit _ selec- table from OFF, ON (EXT: OUTPUT), and ON (EXT: INPUT). Gamma: Selects the gamma compensation mode _ selectable from ON (MS), ON (STD), and OFF. Rotate: Rotates the camera image by 180˚ _ selectable from 0˚(normal image) or 180˚ (upside down).
+
+=== manualsbase-id-111031:0021:4 | page 21 | section | section: 'B&W (Black and White) mode:' | words 26 ===
+Switches the Camera LIVE image from color to black and white. When ON is selected, both the Camera LIVE image and the captured image become monochrome.
+
+=== manualsbase-id-111031:0021:5 | page 21 | section | section: 'ID Mode:' | words 41 ===
+Selects whether or not to assign a user ID number to each image. Histogram: Displays a histogram on the LCD monitor of the CCU. Display: Displays information such as menus and focus indicator on the LCD moni- tor of the CCU.
+
+=== manualsbase-id-111031:0022:1 | page 22 | section | section: 'System Date & Time:' | words 29 ===
+Displays the date and time. Set Date & Time   button After the date and time are set in the boxes, clicking this button transfers the values to the camera.
+
+=== manualsbase-id-111031:0022:2 | page 22 | section | section: 'Interval Rec (recording) Time:' | words 33 ===
+Sets the interval recording time for the camera.. Set Interval Rec Time   button After the interval recording time is set in the box, clicking this button trans- fers the value to the camera.
+
+=== manualsbase-id-111031:0022:3 | page 22 | section | section: 'ID No. Input:' | words 34 ===
+Assigns a user ID number of up to 20 digits. Set ID No.   button After the user ID number is set in the box, clicking this button transfers the ID number to the camera.
+
+=== manualsbase-id-111031:0022:4 | page 22 | section | section: 'Acquire (to PC) button' | words 36 ===
+Clicking this button transmits the images from the CCU into the appli- cation software. The transmitted image then appears in the application software window. 1 2 3 4 5 6 1 2 3 4 5 6
+
+=== manualsbase-id-111031:0023:1 | page 23 | section | section: 'DXC-S500 Product Information Manual – 23' | words 23 ===
+FS-20 Foot Switch Microscope Adaptor Coupler DXC-S500 Microscope MSAC-PC2 PC Card Adaptor Memory Stick VBS/S-Video IEEE 1394 Camera cable (5 m) PC Monitor
+
+=== manualsbase-id-111031:0024:1 | page 24 | table | section: '10. SPECIFICATIONS' | words 288 ===
+Imager | 
+Pick-up device | 2/3 type IT (Interline Transfer) CCD, interlaced scan
+Color filter | R, G, B primary color filter
+Total picture elements (H x V) | 5.24 mega-pixels (2658 x 1970)
+Recording pixel elements (H x V) | 2560 x 1920
+Sensing area (H x V) | 9.74 x 7.69 mm, square pixels
+Camera | 
+Lens mount | C-mount
+Flange back | 17.526 mm in air
+CCD cooling | Cooled to 5 °C (41 °F) at 0 °C to 35 °C (32 °F to 95 °F) ambient temperature
+Bit depth | 10-bit ADC
+Sensitivity | ISO 100/200/400 selectable
+Gain | Auto (AGC): 0 dB/6 dB/12 dB selectable Manual: 0 to 12 dB (1 steps)
+Exposure control | AE: Auto/Manual selectable, AE lock function
+AE area | Spot/Mid/Large
+AE level | Variable
+AE speed | Fast/Mid/Slow
+Shutter speed | Auto/Manual (60 to 1/10000 s)/Electrical shutter
+Gamma | ON (MS)/ON (STD)/OFF *1 switchable
+White balance | Auto/Manual (R/B gain)
+Detail level | Variable
+EV compensation | -2 to 2 EV (0.25 EV steps)
+Flash | Ext: Input mode/Output mode
+User file | 1/2/3 switchable (3 pattern memories)
+Electrical zoom | 2x (VGA size)
+Fluorescent mode | ON/OFF
+Black & White mode | ON/OFF
+Interval recording | ON/OFF Max. 24 hours
+User ID | ON/OFF Max. 20 digits
+Picture rotate | 0°/180° selectable
+Live picture | 
+Image size (H x V) | 640 x 480 pixels
+Frame rate | 30 fps/25 fps
+Display | Digital interface and analog video output
+LCD | 
+Size | 3.5 type
+Type | TFT color LCD made of low-temperature polysilicon
+Resolution | 200000 dots
+Frame rate | NTSC: 30 fps, PAL: 25 fps
+Image display | Live image or recording image (VGA size)
+
+=== manualsbase-id-111031:0025:1 | page 25 | table | section: '11. PIN ASSIGNMENT' | words 318 ===
+Recording system | 
+Recording media | PC card-type removable HDD (PCMCIA-ATA Type II), Max. 5 GB Memory Stick (PC card adaptor required), Max. 128 MB CompactFlash (PC card adaptor required), Max. 330 MB SmartMedia (PC card adaptor required), Max. 128 MB
+Max. recording pixel number (H x V) | 2560 x 1920
+Image data size (H x V) | 3 modes: 2560 x 1920, 1280 x 960, 640 x 480
+Recording format | TIFF (uncompressed), JPEG (compressed, three modes)
+Software | 
+TWAIN driver | Bundled, for Windows/Macintosh
+Supported OS | Windows 98SE/ME/2000/XP, Mac OS 8.6/9.0/9.1/9.2
+Supported application software | Image-Pro Plus version 4.5 or later (for Windows) Photoshop version 5.0 or later (for Windows/Macintosh)
+Control from PCs | Data transmission, live picture display, camera control
+Output signals | 
+ | IEEE 1394 (400 Mb/s), UYUV 16 bit/s VBS: 1.0 Vp-p, 75 Ω, sync negative Y: 1.0 Vp-p, 75 Ω C: NTSC 0.284 Vp-p, 75 Ω(without sync) PAL 0.3 Vp-p, 75 Ω(without sync)
+General | 
+Operating temperature | -5 °C to 45 °C (23 °F to 113 °F)
+Storage temperature | -20 °C to 60 °C (-4 °F to 140 °F)
+Power requirements | 100 to 240 V AC, 50/60 Hz
+Power consumption | Max. 24 W
+Dimensions (W x H x D) | CHU: 56 x 72 x 72 mm (2 1/4 x 2 7/8 x 2 7/8 inches) CCU: 270 x 163 x 79 mm (10 3/4 x 6 1/2 x 3 1/6 inches)
+Mass | CHU: 300 g (11 oz) CCU: 1.8 kg (3 lb 15 oz)
+Connectors | IEEE 1394 output (6-pin jack)*2 PC card (PCMCIE-ATA type II) Video output (BNC) S-Video output (Mini DIN 4-pin) External trigger in (BNC) Flash out (X) FS1 (stereo mini jack) FS2 (D-sub 9-pin) AC in Camera cable (10-pin)
+Supplied accessories | 
+ | TWAIN driver software (CD-ROM) Lens mount cap Camera cable Operation manual User's guide for TWAIN driver software
+
+=== manualsbase-id-111031:0025:2 | page 25 | table | section: '11. PIN ASSIGNMENT' | words 37 ===
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+FOOT SW1 | FOOT SW2 | FOOT SW3 | NC | NC | GND | NC | NC | NC
+
+=== manualsbase-id-111031:0026:1 | page 26 | section | section: 'developer to comply with TWAIN specifications.' | words 54 ===
+Sony Custom TWAIN Driver Target Device DXC-S500 Image Application Fax Application Word Proccessor Application Digital Camera Data Source Scanner Data Source Image Databace Data Source Application Software Source Manager Software Data Source Software Consumers of Image Data TWAIN interface Producers of Image Data Data Source Manager HW Dependant I/O Layer (SCSI, Parallel, Serial, etc.)
+
+=== manualsbase-id-111031:0026:2 | page 26 | section | section: '13. TECHNICAL APPENDIX' | words 30 ===
+56 (6 1/2) 72 (2 7/8) 72 (2 7/8) 270 (10 3/4) 79 (3 1/6) 35 (1 7/16) 162 (6 1/2) 163 (6 1/2) 163 (6 1/2) 79 (3 1/6)
+
+=== manualsbase-id-111031:0027:1 | page 27 | paragraph | section: '' | words 6 ===
+DXC-S500 Product Information Manual – 27
+
+=== manualsbase-id-111031:0028:1 | page 28 | paragraph | section: '' | words 56 ===
+MK10001V1IW02OCT © 2002 Sony Corporation. All rights reserved. Reproduction in whole or in part without written permission is prohibited. Design, features and specifications are subject to change without notice. All non-metric weights and measures are approximate. Sony, iCY-SHOT and Memory Stick are trademarks of Sony Corporation. All other trademarks are the property of their respective owners.

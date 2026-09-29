@@ -1,0 +1,1008 @@
+[pdf: manuallib-id-2687529] [passages: 246]
+
+=== manuallib-id-2687529:0001:1 | page 1 | paragraph | section: '' | words 11 ===
+EIP-1500T OWNER’S MANUAL EIKI INDUSTRIAL CO., LTD. 6/10/05 11 17 AM
+
+=== manuallib-id-2687529:0002:1 | page 2 | paragraph | section: '' | words 54 ===
+IMPORTANT For your assistance in reporting the loss or theft of your Projector, please record the Serial Number located on the bottom of the projector and retain this information. Before recycling the packaging, please ensure that you have checked the contents of the carton thoroughly against the list of “Supplied accessories” on page 5.
+
+=== manuallib-id-2687529:0002:2 | page 2 | section | section: 'Serial No.:' | words 11 ===
+EIP 1500T E Pii i 65 5/10/05 6 07 PM 1
+
+=== manuallib-id-2687529:0003:1 | page 3 | paragraph | section: '' | words 225 ===
+SPECIAL NOTE FOR USERS IN THE U.K. The mains lead of this product is fitted with a non-rewireable (moulded) plug incorporating a 10A fuse. Should the fuse need to be replaced, a BSI or ASTA approved BS 1362 fuse marked or and of the same rating as above, which is also indicated on the pin face of the plug, must be used. Always refit the fuse cover after replacing the fuse. Never use the plug without the fuse cover fitted. In the unlikely event of the socket outlet in your home not being compatible with the plug supplied, cut off the mains plug and fit an appropriate type. DANGER: The fuse from the cut-off plug should be removed and the cut-off plug destroyed immediately and disposed of in a safe manner. Under no circumstances should the cut-off plug be inserted elsewhere into a 10A socket outlet, as a serious electric shock may occur. To fit an appropriate plug to the mains lead, follow the instructions below: WARNING: THIS APPARATUS MUST BE EARTHED. IMPORTANT: The wires in this mains lead are coloured in accordance with the following code: Green-and-yellow : Earth Blue : Neutral Brown : Live As the colours of the wires in the mains lead of this apparatus may not correspond with the coloured markings identifying the terminals in your plug proceed as follows:
+
+=== manuallib-id-2687529:0003:2 | page 3 | section | section: '• The wire which is coloured brown must be connected to the terminal which is marked with the letter L or coloured' | words 21 ===
+red. IF YOU HAVE ANY DOUBT, CONSULT A QUALIFIED ELECTRICIAN. EIP 1500T E Pii i 65 4/25/05 11 59 AM 2
+
+=== manuallib-id-2687529:0004:1 | page 4 | section | section: 'rain or moisture.' | words 109 ===
+CAUTION: TO REDUCE THE RISK OF ELECTRIC SHOCK, DO NOT REMOVE COVER. NO USER-SERVICEABLE PARTS EXCEPT LAMP UNIT. REFER SERVICING TO QUALIFIED SERVICE PERSONNEL. The lightning flash with arrowhead symbol, within an equilateral triangle, is intended to alert the user to the presence of uninsulated “dangerous voltage” within the product’s enclosure that may be of sufficient magnitude to constitute a risk or electric shock to persons. The exclamation point within a triangle is intended to alert the user to the presence of important operating and maintenance (servicing) instructions in the literature accompanying the product. Introduction CAUTION RISK OF ELECTRIC SHOCK. DO NOT REMOVE SCREWS EXCEPT SPECIFIED USER SERVICE SCREW.
+
+=== manuallib-id-2687529:0005:1 | page 5 | section | section: 'PRODUCT DISPOSAL' | words 134 ===
+This projector utilizes tin-lead solder, and a pressurized lamp containing a small amount of mercury. Disposal of these materials may be regulated due to environmental considerations. For disposal or recycling information, please contact your local authorities or, if you are located in the United States of America, the Electronic Industries Alliance: www.eiae.org . WARNING: The cooling fan in this projector continues to run for about 90 seconds after the projector enters the standby mode. During normal operation, when putting the projector into standby mode always use the STANDBY-ON button on the projector or the STANDBY button on the remote control. Ensure the cooling fan has stopped before disconnecting the power cord. DURING NORMAL OPERATION, NEVER TURN THE PROJECTOR OFF BY DISCONNECTING THE POWER CORD. FAILURE TO OBSERVE THIS WILL RESULT IN PREMATURE LAMP FAILURE.
+
+=== manuallib-id-2687529:0005:2 | page 5 | section | section: 'WARNING: FCC Regulations state that any unauthorized changes or modifications to this equipment not' | words 192 ===
+expressly approved by the manufacturer could void the user’s authority to operate this equip- ment. U.S.A. ONLY INFORMATION This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in accordance with the owner’s manual, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures: • Reorient or relocate the receiving antenna. • Increase the separation between the equipment and the receiver. • Connect the equipment into an outlet on a circuit different from that to which the receiver is connected. • Consult the dealer or an experienced radio/TV technician for help. U.S.A. ONLY
+
+=== manuallib-id-2687529:0005:3 | page 5 | section | section: 'Declaration of Conformity' | words 73 ===
+EIKI PROJECTOR, MODEL EIP-1500T This device complies with Part 15 of the FCC rules. Operation is subject to the following conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation. Responsible Party: EIKI INTERNATIONAL, INC. 30251 Esperanza, Rancho Santa Margarita, CA 92688-2132 TEL: (800) 242-3454 U.S.A. ONLY EIP 1500T E P01 03 65 6/7/05 10 45 AM 2
+
+=== manuallib-id-2687529:0006:1 | page 6 | paragraph | section: '' | words 207 ===
+3 This EIKI projector uses a DMD panel. This very sophisticated panel contains 921,600 pixels micromirrors. As with any high technology electronic equipment such as large screen TVs, video systems and video cameras, there are certain acceptable tolerances that the equipment must conform to. This unit has some inactive pixels within acceptable tolerances which may result in inactive dots on the picture screen. This will not affect the picture quality or the life expectancy of the unit. • DLPTM (Digital Light Processing) and DMDTM (Digital Micromirror Device) are trademarks of Texas Instru- ments, Inc. • Microsoft® and Windows® are registered trademarks of Microsoft Corporation in the United States and/or other countries. • PC/AT is a registered trademark of International Business Machines Corporation in the United States. • Macintosh® is a registered trademark of Apple Computer, Inc. in the United States and/or other countries. • All other company or product names are trademarks or registered trademarks of their respective companies. • Some IC chips in this product include confidential and/or trade secret property belonging to Texas Instru- ments. Therefore you may not copy, modify, adapt, translate, distribute, reverse engineer, reverse as- semble or discompile the contents thereof. EIP 1500T E P01 03 65 5/22/05 5 39 PM 3
+
+=== manuallib-id-2687529:0007:1 | page 7 | section | section: 'Setting Up the Projector .............................. 16' | words 20 ===
+Setting Up the Projector .................................... 16 Screen Size and Projection Distance ................ 17 Projecting a Reversed Image ............................ 18 Connections
+
+=== manuallib-id-2687529:0007:2 | page 7 | section | section: 'Image Projection .......................................... 29' | words 61 ===
+Switching the INPUT Mode ............................... 29 Adjusting the Focus ........................................... 30 Adjusting the Projected Image Size .................. 30 Using the Adjustment Feet ................................ 31 Keystone Correction .......................................... 32 Placement of the Projected Image Using the Keystone Correction.................................... 33 Selecting the Picture Mode ............................... 34 Switching the High Brightness / High Contrast Mode ........................................................... 34 Adjusting the Picture Aspect Ratio .................... 34
+
+=== manuallib-id-2687529:0007:3 | page 7 | section | section: 'Picture Adjustment (“Picture” menu) ........ 42' | words 33 ===
+Adjusting the Image .......................................... 42 Adjusting the Color Temperature ....................... 42 Gamma Correction Function ............................. 43 Emphasizing the Contrast ................................. 43 Picture Mode Function....................................... 44 Switching the High Brightness/High Contrast Mode ........................................................... 44
+
+=== manuallib-id-2687529:0007:4 | page 7 | section | section: '(“Fine Sync” menu) ................................ 45' | words 22 ===
+Adjusting the Computer Image ......................... 45 Special Modes Setting ...................................... 45 Auto Sync Adjustment ....................................... 46 Checking the Input Signal ................................. 46
+
+=== manuallib-id-2687529:0007:5 | page 7 | section | section: 'Using the “Options” Menu .......................... 47' | words 50 ===
+Checking the Lamp Life Status ......................... 47 Setting On-screen Display................................. 47 Setting the Video System................................... 48 Signal Type Setting ............................................ 48 Selecting a Background Image ......................... 49 Eco Mode .......................................................... 49 Auto Power Off Function .................................... 50 Selecting the Menu Screen Position .................. 50 Selecting the Menu Color .................................. 51
+
+=== manuallib-id-2687529:0007:6 | page 7 | section | section: 'Regarding the Lamp .................................... 56' | words 28 ===
+Lamp ................................................................. 56 Caution Concerning the Lamp .......................... 56 Replacing the Lamp .......................................... 56 Removing and Installing the Lamp Unit ............ 57 Resetting the Lamp Timer ................................. 58
+
+=== manuallib-id-2687529:0008:1 | page 8 | paragraph | section: '' | words 19 ===
+5 Accessories Remote control Two R-6 batteries (“AA” size, UM/SUM-3, HP-7 or similar) ■Lamp unit AH-57201 Lens cap (attached)
+
+=== manuallib-id-2687529:0008:2 | page 8 | section | section: 'Optional accessory' | words 4 ===
+Owner’s manual (this manual)
+
+=== manuallib-id-2687529:0008:3 | page 8 | section | section: 'Note .......Indicates additional information for setting up and operating the projector.' | words 25 ===
+• In this owner’s manual, the illustration and the screen display are simplified for explanation, and may differ slightly from actual display. Video cable QCNWGA001WJZZ
+
+=== manuallib-id-2687529:0008:4 | page 8 | section | section: 'Power cord*' | words 18 ===
+For U.S., Canada, etc. (6' (1.8 m)) QACCDA007WJPZ For Europe, except U.K. (6' (1.8 m)) QACCVA011WJPZ (1) (2)
+
+=== manuallib-id-2687529:0008:5 | page 8 | section | section: '*Use the power cord that corresponds to the wall outlet in your country.' | words 13 ===
+QUICK GUIDE EIP 1500T E P04 05 65 6/15/05 10 34 AM 5
+
+=== manuallib-id-2687529:0009:1 | page 9 | section | section: '5. Cleaning' | words 23 ===
+Unplug this product from the wall outlet before cleaning. Do not use liquid cleaners or aerosol cleaners. Use a damp cloth for cleaning.
+
+=== manuallib-id-2687529:0009:2 | page 9 | section | section: '7. Water and Moisture' | words 31 ===
+Do not use this product near water–for example, near a bath tub, wash bowl, kitchen sink, or laundry tub; in a wet basement; or near a swimming pool; and the like.
+
+=== manuallib-id-2687529:0009:3 | page 9 | section | section: '8. Accessories' | words 71 ===
+Do not place this product on an unstable cart, stand, tripod, bracket, or table. The product may fall, causing serious injury to a child or adult, and serious damage to the product. Use only with a cart, stand, tripod, bracket, or table recommended by the manufacturer, or sold with the product. Any mounting of the product should follow the manufacturer’s instructions, and should use a mounting accessory recommended by the manufacturer.
+
+=== manuallib-id-2687529:0009:4 | page 9 | section | section: '9. Transportation' | words 26 ===
+A product and cart combination should be moved with care. Quick stops, excessive force, and uneven surfaces may cause the product and cart combination to overturn.
+
+=== manuallib-id-2687529:0009:5 | page 9 | section | section: '10. Ventilation' | words 80 ===
+Slots and openings in the cabinet are provided for ventilation to ensure reliable operation of the product and to protect it from overheating, and these openings must not be blocked or covered. The openings should never be blocked by placing the product on a bed, sofa, rug, or other similar surface. This product should not be placed in a built-in installation such as a bookcase or rack unless proper ventilation is provided or the manufacturer’s instructions have been adhered to.
+
+=== manuallib-id-2687529:0009:6 | page 9 | section | section: '11. Power Sources' | words 55 ===
+This product should be operated only from the type of power source indicated on the marking label. If you are not sure of the type of power supply to your home, consult your product dealer or local power company. For products intended to operate from battery power, or other sources, refer to the operating instructions.
+
+=== manuallib-id-2687529:0009:7 | page 9 | section | section: '12. Grounding or Polarization' | words 62 ===
+This product is provided with one of the following types of plugs. If the plug should fail to fit into the power outlet, please contact your electrician. Do not defeat the safety purpose of the plug. a. Two-wire type (mains) plug. b. Three-wire grounding type (mains) plug with a grounding terminal. This plug will only fit into a grounding type power outlet.
+
+=== manuallib-id-2687529:0009:8 | page 9 | section | section: '13. Power-Cord Protection' | words 42 ===
+Power-supply cords should be routed so that they are not likely to be walked on or pinched by items placed upon or against them, paying particular attention to cords at plugs, convenience receptacles, and the point where they exit from the product.
+
+=== manuallib-id-2687529:0009:9 | page 9 | section | section: '14. Lightning' | words 47 ===
+For added protection for this product during a lightning storm, or when it is left unattended and unused for long periods of time, unplug it from the wall outlet and disconnect the cable system. This will prevent damage to the product due to lightning and power-line surges.
+
+=== manuallib-id-2687529:0009:10 | page 9 | section | section: '15. Overloading' | words 23 ===
+Do not overload wall outlets, extension cords, or integral convenience receptacles as this can result in a risk of fire or electric shock.
+
+=== manuallib-id-2687529:0009:11 | page 9 | section | section: '16. Object and Liquid Entry' | words 39 ===
+Never push objects of any kind into this product through openings as they may touch dangerous voltage points or short-out parts that could result in a fire or electric shock. Never spill liquid of any kind on the product.
+
+=== manuallib-id-2687529:0009:12 | page 9 | section | section: '17. Servicing' | words 29 ===
+Do not attempt to service this product yourself as opening or removing covers may expose you to dangerous voltage or other hazards. Refer all servicing to qualified service personnel.
+
+=== manuallib-id-2687529:0009:13 | page 9 | section | section: '18. Damage Requiring Service' | words 131 ===
+Unplug this product from the wall outlet and refer servicing to qualified service personnel under the following conditions: a. When the power-supply cord or plug is damaged. b. If liquid has been spilled, or objects have fallen into the product. c. If the product has been exposed to rain or water. d. If the product does not operate normally by following the operating instructions. Adjust only those controls that are covered by the operating instructions, as an improper adjustment of other controls may result in damage and will often require extensive work by a qualified technician to restore the product to normal operation. e. If the product has been dropped or damaged in any way. f. When the product exhibits a distinct change in performance, this indicates a need for service.
+
+=== manuallib-id-2687529:0009:14 | page 9 | section | section: '19. Replacement Parts' | words 39 ===
+When replacement parts are required, be sure that the service technician has used replacement parts specified by the manufacturer or have the same characteristics as the original part. Unauthorized substitutions may result in fire, electric shock, or other hazards.
+
+=== manuallib-id-2687529:0009:15 | page 9 | section | section: '20. Safety Check' | words 28 ===
+Upon completion of any service or repairs to this product, ask the service technician to perform safety checks to determine that the product is in proper operating condition.
+
+=== manuallib-id-2687529:0009:16 | page 9 | section | section: '22. Heat' | words 23 ===
+This product should be situated away from heat sources such as radiators, heat registers, stoves, or other products (including amplifiers) that produce heat.
+
+=== manuallib-id-2687529:0010:1 | page 10 | section | section: 'Caution concerning the lamp unit' | words 33 ===
+■Potential hazard of glass particles if lamp ruptures. In case of lamp rupture, contact your nearest EIKI Authorized Dealer or Service Center for a re- placement. See “Replacing the Lamp” on page 56.
+
+=== manuallib-id-2687529:0010:2 | page 10 | section | section: 'Caution concerning the setup of the pro-' | words 84 ===
+jector ■For minimal servicing and to maintain high image quality, EIKI recommends that this pro- jector be installed in an area free from hu- midity, dust and cigarette smoke. When the projector is subjected to these environments, the vents and lens must be cleaned more of- ten. As long as the projector is regularly cleaned, use in these environments will not reduce the overall operation life of the unit. Internal cleaning should only be performed by an EIKI Authorized Dealer or Service Cen- ter.
+
+=== manuallib-id-2687529:0010:3 | page 10 | section | section: 'posed to direct sunlight or bright light.' | words 45 ===
+■Position the screen so that it is not in direct sunlight or room light. Light falling directly on the screen washes out the colors, making viewing difficult. Close the curtains and dim the lights when setting up the screen in a sunny or bright room.
+
+=== manuallib-id-2687529:0010:4 | page 10 | section | section: 'a high position' | words 25 ===
+■When placing the projector in a high posi- tion, ensure that it is secured to avoid per- sonal injury caused by the projector falling down.
+
+=== manuallib-id-2687529:0010:5 | page 10 | section | section: 'Avoid locations with extremes of tem-' | words 29 ===
+perature. ■The operating temperature of the projector is from 41°F to 95°F (+5°C to +35°C). ■The storage temperature of the projector is from –4°F to 140°F (–20°C to +60°C).
+
+=== manuallib-id-2687529:0010:6 | page 10 | section | section: 'Do not block the exhaust and intake' | words 130 ===
+vents. ■Allow at least 7 7/8 inches (20 cm) of space between the exhaust vent and the nearest wall or obstruction. ■Be sure that the intake vent and the exhaust vent are not obstructed. ■If the cooling fan becomes obstructed, a pro- tection circuit will automatically put the pro- jector into standby mode to prevent overheat damage. This does not indicate a malfunc- tion (See pages 54 and 55.). Remove the pro- jector power cord from the wall outlet and wait at least 10 minutes. Place the projector where the intake and exhaust vents are not blocked, plug the power cord back in and turn on the projector. This will return the projector to the normal operating condition. AH-57201 EIP 1500T E P06 15 65 6/7/05 10 51 AM 7
+
+=== manuallib-id-2687529:0011:1 | page 11 | section | section: 'Caution regarding usage of the projector' | words 122 ===
+■When using the projector, be sure not to sub- ject it to hard impact and/or vibration, as this can result in damage. Take extra care with the lens. If you are not to use the projector for a long time, be sure to unplug the power cord from the wall outlet, and disconnect any other cables connected to it. ■Do not use the projector by holding the lens. ■When you are not to use the projector for a long time, or storing the projector, re-attach the lens cap to the projector (See page 9.). ■Do not expose the projector to direct sunlight or place it near heat sources. Doing so may affect the cabinet color or cause deformation of the plastic cover.
+
+=== manuallib-id-2687529:0011:2 | page 11 | section | section: 'Other connected equipment' | words 58 ===
+■When connecting a computer or other audio- visual equipment to the projector, make the connections AFTER unplugging the power cord of the projector from the AC outlet and turning off the equipment to be connected. ■Please read the owner’s manuals of the pro- jector and the equipment to be connected for instructions on how to make the connections.
+
+=== manuallib-id-2687529:0011:3 | page 11 | section | section: 'Using the projector in other countries' | words 42 ===
+■The power supply voltage and the shape of the plug may vary depending on the region or country you are using the projector in. When using the projector overseas, ensure to use an appropriate power cord for the country you are in.
+
+=== manuallib-id-2687529:0011:4 | page 11 | section | section: 'Temperature monitor function' | words 146 ===
+■If the projector starts to over- heat due to setup problems or blockage of the air vents, “ ” and “ ” will illumi- nate in the lower left corner of the picture. If the temperature continues to rise, the lamp will turn off, the temperature warning indicator on the projector will blink, and after a 90-second cool- ing-off period the projector will enter the standby mode. Refer to “Maintenance Indicators” on page 54 for details. Info • The cooling fan regulates the internal tem- perature, and its performance is automati- cally controlled. The sound of the fan may change during projector operation due to changes in the fan speed. This does not indicate malfunction. • Do not unplug the power cord during pro- jection or cooling fan operation. This can cause damage due to rise in internal tem- perature, as the cooling fan also stops.
+
+=== manuallib-id-2687529:0012:1 | page 12 | paragraph | section: '' | words 123 ===
+9 38 Adjustment buttons ('/"/\/|) Select menu items and other settings. 29 INPUT button Switch input mode 1, 2, 3, 4, 5 or DIGITAL. 30 10 54 10 54 ZOOM-FOCUS button Adjust the projected image size or adjust the focus. Temperature warning indicator Lamp indicator 10 Power indicator 31 31 13 Remote control sensor HEIGHT ADJUST button Front adjustment foot (on the bottom of the projector) 38 MENU button Display adjustment and setting screens. 39 ENTER button Set items selected or adjusted on the menu. 34 UNDO button Undo an operation or return to the previous display. 34 RESIZE button Switch the picture display (STRETCH, SIDE BAR, etc.). 28 STANDBY-ON button Turn the power on or put the projector into standby mode. Projector
+
+=== manuallib-id-2687529:0013:1 | page 13 | paragraph | section: '' | words 1 ===
+10
+
+=== manuallib-id-2687529:0013:2 | page 13 | section | section: 'Power indicator' | words 11 ===
+Green on ... Normal (Standby) Red on ... Normal (Power on)
+
+=== manuallib-id-2687529:0013:3 | page 13 | section | section: 'Temperature warning indicator' | words 15 ===
+Off ... Normal Red on ... The internal temperature is abnormally high. (See page 54.)
+
+=== manuallib-id-2687529:0013:4 | page 13 | section | section: 'Lamp indicator' | words 33 ===
+Green on ... Normal Green blinks ... The lamp is warming up or shutting down. Red on ... The lamp has been shut down abnormally or needs to be changed. (See page 54.)
+
+=== manuallib-id-2687529:0013:5 | page 13 | section | section: 'Part Names and Functions' | words 11 ===
+EIP 1500T E P06 15 65 4/25/05 11 59 AM 10
+
+=== manuallib-id-2687529:0014:1 | page 14 | section | section: 'Projector (Rear View)' | words 191 ===
+Using the Kensington Lock • This projector has a Kensington Security Standard connector for use with a Kensington MicroSaver Security System. Refer to the information that came with the system for instructions on how to use it to secure the projector. Numbers in refer to the main pages in this owner’s manual where the topic is explained. 13 Remote control sensor 28 AC socket Connect the supplied power cord. 11 Kensington Security Standard connector 31 53 7 Rear adjustment feet Intake vent Exhaust vent The speed and pitch of the cooling fan may change during operation in response to internal temperature changes. This is normal operation and does not indicate a malfunction. 53 7 21 INPUT 2 terminal Component signals. Digital input type switch 22 INPUT 5/DIGITAL terminal 21 22 23 23 25 26 25 26 INPUT 1 terminal Component signals. 24 INPUT 4 terminal Connect video equipment. 24 INPUT 3 terminal Connect video equipment with an S-video terminal. 27 RS-232C terminal Control the projector using a computer. Terminals Refer to “INPUT Terminals and Connectable Main Equipment” on page 19. EIP 1500T E P06 15 65 4/27/05 2 48 PM 11
+
+=== manuallib-id-2687529:0016:1 | page 16 | section | section: '• Remove the batteries from the remote control once they have run out, as leaving them in can cause them to leak.' | words 23 ===
+Battery fluid from leaked batteries is harmful to skin, therefore ensure that you first wipe them and then remove them using a cloth.
+
+=== manuallib-id-2687529:0016:2 | page 16 | table | section: 'Rear View' | words 59 ===
+Us | 
+Us | 
+The r proj illust | 
+• T fl e di | Note he signal from the remote control can be re- ected off a screen for easy operation. How- ver, the effective distance of the signal may ffer depending on the screen material.
+Whe • Ens or e • The fluo ject | 
+Ins |
+
+=== manuallib-id-2687529:0017:1 | page 17 | section | section: 'Quick Start' | words 41 ===
+8  STANDBY button 3  ON button 7  KEYSTONE button 6, 7  Adjustment buttons ('/"/\/|) 6  ZOOM-FOCUS button 4  INPUT buttons, DIGITAL INPUT button 6  HEIGHT ADJUST button 3, 8  STANDBY-ON button 4  INPUT button 6  ZOOM-FOCUS button 6  Adjustment buttons ('/"/\/|)
+
+=== manuallib-id-2687529:0018:1 | page 18 | section | section: '6. Adjust the projector angle, focus and zoom' | words 71 ===
+Select the “INPUT 3” using the INPUT button on the projector or the INPUT 3 button on the remote control. • When pressing on the projector, input mode switches in order of : INPUT 1 INPUT 2 INPUT 3 INPUT 4 INPUT 5 DIGITAL • When using the remote control, press / / / / / to switch the INPUT mode. On the remote control On the projector " On-screen Display
+
+=== manuallib-id-2687529:0018:2 | page 18 | section | section: '2 Adjust the projected image size by adjusting zoom.' | words 43 ===
+On the remote control On the projector 1 Press . 2 Adjust the zoom by pressing ' or ". 1 Press      . 2 Adjust the zoom by pressing ' or ". 1 Press . 2 Adjust the focus by pressing \ or |.
+
+=== manuallib-id-2687529:0018:3 | page 18 | section | section: '8. Turn the Power off' | words 48 ===
+Press the STANDBY-ON button on the projector or the STANDBY button on the remote control, then press the same button again while the confirmation message is displayed, to put the projector into standby mode. • Unplug the power cord from the AC outlet after the cooling fan stops.
+
+=== manuallib-id-2687529:0019:1 | page 19 | section | section: 'Setting Up the Projector' | words 99 ===
+Position the projector perpendicular to the screen to achieve an optimal image. Note • The projector lens should be centered in the middle of the screen. If the horizontal line passing through the lens center is not perpendicular to the screen, the image will be distorted, making viewing difficult. • For an optimal image, position the screen so that it is not in direct sunlight or room light. Light falling directly on the screen washes out the colors, making viewing difficult. Close the curtains and dim the lights when setting up the projector in a sunny or bright room.
+
+=== manuallib-id-2687529:0019:2 | page 19 | section | section: 'Example : When using a wide screen (16:9)' | words 76 ===
+200" 150" 100" 80" 60" Projection Distance Center Picture Size 174" × 98" 131" × 74" 87" × 49" 70" × 39" 52" × 29" 17' 4" –  26' 0" (5.29m – 7.95m) 12' 11" –  19' 6" (3.95m – 5.95m) 8' 7" –  12' 11" (2.62m – 3.95m) 6' 9" –  10' 4" (2.08m – 3.15m) 5' 1" –  7' 8" (1.55m – 2.35m) EIP 1500T E P16 18 65 4/25/05 11 59 AM 16
+
+=== manuallib-id-2687529:0020:1 | page 20 | section | section: 'to the table below. Use the values in the table as a reference when installing the projector.' | words 33 ===
+χ: Picture size (diag.) (in/cm) L: Projection distance (m/ft) L1: Minimum projection distance (m/ft) L2: Maximum projection distance (m/ft) H: Distance from the bottom of the image to the lens center (cm/in) Note
+
+=== manuallib-id-2687529:0020:2 | page 20 | section | section: 'In case of displaying the 16:9 picture on the whole of the 16:9 screen.' | words 51 ===
+The formula for picture size and projection distance [m/cm] [Feet/inches] L1 (m) = 0.02452χ–0.05334 L1 (ft) = (0.02452χ–0.05334) / 0.3048 L2 (m) = 0.03671χ–0.05215 L2 (ft) = (0.03671χ–0.05215) / 0.3048 H (cm) = 0.03810χ H (in) = 0.03810χ / 2.54 EIP 1500T E P16 18 65 5/22/05 5 46 PM 17
+
+=== manuallib-id-2687529:0020:4 | page 20 | table | section: 'In case of displaying the 16:9 picture on the whole of the 16:9 screen.' | words 452 ===
+Picture (Screen) size |  |  | Projection distance [L] |  | Distance from the bottom of the image to the lens center [H]
+Diag. [χ] | Width | Height | Minimum [L1] | Maximum [L2] | 
+200" (508 cm) | 443 cm (174") | 249 cm (98") | 5.29 m (17' 4") | 7.95 m (26' 0") | 8.3 cm (3 9/32")
+150" (381 cm) | 332 cm (131") | 187 cm (74") | 3.95 m (12' 11") | 5.95 m (19' 6") | 6.2 cm (2 29/64")
+100" (254 cm) | 221 cm (87") | 125 cm (49") | 2.62 m (8' 7") | 3.95 m (12' 11") | 4.2 cm (1 21/32")
+80" (203 cm) | 177 cm (70") | 100 cm (39") | 2.08 m (6' 9") | 3.15 m (10' 4") | 3.3 cm (1 5/16")
+70" (178 cm) | 155 cm (61") | 87 cm (34") | 1.82 m (5' 11") | 2.75 m (9' 0") | 2.9 cm (1 5/32")
+60" (152 cm) | 133 cm (52") | 75 cm (29") | 1.55 m (5' 1") | 2.35 m (7' 8") | 2.5 cm (63/64")
+40" (102 cm) | 89 cm (35") | 50 cm (20") | 1.01 m (3' 3") | 1.55 m (5' 1") | 1.7 cm (43/64")
+χ: Picture size (diag.) (in/cm) The formula for picture size and projection distance L: Projection distance (m/ft) [m/cm] [Feet/inches] L1: Minimum projection distance (m/ft) L1 (m) = 0.02671χ–0.05334 L1 (ft) = (0.02671χ– L2: Maximum projection distance (m/ft) L2 (m) = 0.03999χ–0.05215 L2 (ft) = (0.03999χ– H: Distance from the bottom of the image to the lens center (cm/in) H (cm) = 0.04151χ H (in) = 0.04151χ / 2 When using a normal screen (4:3): In case of setting the 16:9 picture to the full horizontal width of the 4:3 screen. |  |  |  |  | 
+Picture (Screen) size |  |  | Projection distance [L] |  | Distance from the bottom of the image to the lens center [H]
+Diag. [χ] | Width | Height | Minimum [L1] | Maximum [L2] | 
+200" (508 cm) | 406 cm (160") | 305 cm (120") | 4.85 m (15' 10") | 7.29 m (23' 11") | 7.62 cm (3")
+150" (381 cm) | 305 cm (120") | 229 cm (90") | 3.62 m (11' 10") | 5.45 m (17' 10") | 5.72 cm (2 17/64")
+100" (254 cm) | 203 cm (80") | 152 cm (60") | 2.40 m (7' 10") | 3.62 m (11' 10") | 3.81 cm (1 1/2")
+80" (203 cm) | 163 cm (64") | 122 cm (48") | 1.91 m (6' 3") | 2.88 m (9' 5") | 3.05 cm (1 13/64")
+70" (178
+
+=== manuallib-id-2687529:0020:5 | page 20 | table | section: 'In case of displaying the 16:9 picture on the whole of the 16:9 screen.' | words 74 ===
+ cm) | 142 cm (56") | 107 cm (42") | 1.66 m (5' 5") | 2.52 m (8' 3") | 2.67 cm (1 1/16")
+60" (152 cm) | 122 cm (48") | 91 cm (36") | 1.42 m (4' 7") | 2.15 m (7' 0") | 2.29 cm (57/64")
+40" (102 cm) | 81 cm (32") | 61 cm (24") | 0.93 m (3' 0") | 1.42 m (4' 7") | 1.52 cm (39/64")
+
+=== manuallib-id-2687529:0021:1 | page 21 | section | section: 'Projection from behind the Screen' | words 24 ===
+■Place a translucent screen between the projector and the audience. ■Reverse the image by setting “Rear” in the “PRJ Mode” menu. (See page 52.)
+
+=== manuallib-id-2687529:0021:2 | page 21 | section | section: 'Projection Using a Mirror' | words 81 ===
+■Place a mirror (normal flat type) in front of the lens. ■When the translucent screen is placed between the mirror and audience, set to “Front” in the “PRJ Mode” menu. (See page 52.) ■When the mirror is placed on the audience side, set to “Rear” in the “PRJ Mode” menu. (See page 52.) Info • When using a mirror, ensure to carefully position both the projector and the mirror so the light does not shine into the eyes of the audience.
+
+=== manuallib-id-2687529:0021:3 | page 21 | section | section: 'Ceiling-mount Setup' | words 82 ===
+■It is recommended that you use the optional EIKI ceiling-mount bracket for this installation. ■Before mounting the projector, contact your nearest EIKI Autho- rized Dealer or Service Center to obtain the recommended ceil- ing-mount bracket (sold separately). ■Invert the image by setting “Ceiling + Front” in “PRJ Mode”. See page 52 for use of this function. Translucent screen Audience Set to “Front” Audience Translucent screen Mirror Set to “Rear” Audience Mirror EIP 1500T E P16 18 65 5/22/05 5 46 PM 18
+
+=== manuallib-id-2687529:0022:1 | page 22 | paragraph | section: '' | words 1 ===
+19
+
+=== manuallib-id-2687529:0022:2 | page 22 | section | section: 'INPUT 5/DIGITAL terminal' | words 28 ===
+Connecting video equipment with component output terminal (DVD player, DTV decoder, DVD recorder with hard disc, etc.). (See pages 22, 23.) Connecting the computer. (See pages 25, 26.)
+
+=== manuallib-id-2687529:0022:3 | page 22 | section | section: 'INPUT 3 terminal' | words 14 ===
+Connecting video equipment with S-video output terminal (VCR, DVD player, etc.). (See page 24.)
+
+=== manuallib-id-2687529:0022:4 | page 22 | section | section: 'INPUT 1, 2 terminal' | words 20 ===
+Connecting video equipment with component output terminal (DVD player, DTV decoder, DVD recorder with hard disc, etc.). (See page 21.)
+
+=== manuallib-id-2687529:0022:5 | page 22 | section | section: 'INPUT 4 terminal' | words 10 ===
+Connecting video equipment without S-video output terminal. (See page 24.)
+
+=== manuallib-id-2687529:0022:6 | page 22 | section | section: 'RS-232C terminal' | words 22 ===
+Connecting the computer to control the projector. (See page 27.) Connections EIP 1500T E P19 27 65 5/6/05 10 11 AM 19
+
+=== manuallib-id-2687529:0023:1 | page 23 | table | section: '•You may need other cables or connectors not listed below.' | words 216 ===
+Equipment | Terminal on connected equipment |  | Cable | Terminal on the projector |  | 
+Audio-visual equipment Computer | Component video output terminal Terminal for using the dedicated cable |  | Component cable (commercially available) | INPUT 1, 2 |  | 
+ |  |  | Dedicated cable attached to the connected equipment | INPUT 1, 2 |  | 
+ | DVI output terminal |  | DVI cable (commercially available) | INPUT 5/DIGITAL |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ | RGB output terminal |  | RGB cable (commercially available) DVI to 15-pin D-sub adaptor (commercially available) | INPUT 5/DIGITAL |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ | Video output terminal Terminal for using the dedicated cable |  | Video cable (supplied) | INPUT 4 |  | 
+ |  | Terminal for using the dedicated cable | Dedicated cable attached to the connected equipment | INPUT 4 |  | 
+ | S-video output terminal Terminal for using the dedicated cable |  | S-video cable (commercially available) | INPUT 3 |  | 
+ |  | Terminal for using the dedicated cable | Dedicated cable attached to the connected equipment | INPUT 3 |  | 
+Computer | RS-232C terminal |  | RS-232C cable (commercially available) | RS-232C |  |
+
+=== manuallib-id-2687529:0024:1 | page 24 | paragraph | section: '' | words 1 ===
+21
+
+=== manuallib-id-2687529:0024:2 | page 24 | section | section: 'Connecting to Video Equipment' | words 135 ===
+Before connecting, ensure that you have unplugged the power cord of the projector from the AC outlet and turned off the devices to be connected. After making all connections, turn on the projector and then the other devices. Ensure that you have read the owner’s manuals of the devices to be connected before making connections. When connecting the component video equipment to the component input terminal on the projector (INPUT 1 or INPUT 2) Note • When you connect video equipment with a 21-pin RGB output (Euro-scart) to the projector, use a com- mercially available cable that fits in the projector terminal you want to connect. Component cable (commercially available) INPUT 1 or INPUT 2 terminal Analog component output terminal DVD Player,etc. 1 2 EIP 1500T E P19 27 65 5/22/05 5 49 PM 21
+
+=== manuallib-id-2687529:0025:1 | page 25 | paragraph | section: '' | words 1 ===
+22
+
+=== manuallib-id-2687529:0025:2 | page 25 | section | section: '• Before connecting the cable, switch the digital input type switch to “VIDEO”.' | words 17 ===
+INPUT 5 terminal DVI to 15-pin D-sub adaptor (commercially available) RGB output terminal RGB cable (commercially available)
+
+=== manuallib-id-2687529:0025:3 | page 25 | section | section: 'DVD Player,etc.' | words 7 ===
+4 3 2 Switch to “VIDEO” 1
+
+=== manuallib-id-2687529:0025:4 | page 25 | section | section: 'Connecting to Video Equipment' | words 1 ===
+Note
+
+=== manuallib-id-2687529:0025:5 | page 25 | section | section: '(See page 48.)' | words 11 ===
+EIP 1500T E P19 27 65 5/24/05 9 22 AM 22
+
+=== manuallib-id-2687529:0026:1 | page 26 | paragraph | section: '' | words 13 ===
+23 DIGITAL terminal DVI output terminal DVI cable (commercially available) Switch to “VIDEO”
+
+=== manuallib-id-2687529:0026:2 | page 26 | section | section: 'DVD Player,etc.' | words 4 ===
+2 3 1 Note
+
+=== manuallib-id-2687529:0026:3 | page 26 | section | section: '• Select DIGITAL mode when connecting to video equipment with the digital output terminal. (See page' | words 1 ===
+29.)
+
+=== manuallib-id-2687529:0026:4 | page 26 | section | section: '• Before connecting the cable, switch the digital input type switch to “VIDEO”.' | words 11 ===
+EIP 1500T E P19 27 65 5/24/05 9 22 AM 23
+
+=== manuallib-id-2687529:0027:1 | page 27 | paragraph | section: '' | words 1 ===
+24
+
+=== manuallib-id-2687529:0027:2 | page 27 | section | section: 'When connecting video equipment with video output terminal (INPUT 4)' | words 10 ===
+S-video cable (commercially available) S-video output terminal INPUT 3 terminal
+
+=== manuallib-id-2687529:0027:3 | page 27 | section | section: 'DVD Player,etc.' | words 11 ===
+2 1 INPUT 4 terminal Video output terminal Video cable (supplied)
+
+=== manuallib-id-2687529:0027:4 | page 27 | section | section: 'DVD Player,etc.' | words 2 ===
+1 2
+
+=== manuallib-id-2687529:0027:5 | page 27 | section | section: 'Connecting to Video Equipment' | words 1 ===
+Note
+
+=== manuallib-id-2687529:0027:6 | page 27 | section | section: 'mercially available cable that fits in the projector terminal you want to connect.' | words 11 ===
+EIP 1500T E P19 27 65 5/24/05 9 23 AM 24
+
+=== manuallib-id-2687529:0027:7 | page 27 | table | section: 'mercially available cable that fits in the projector terminal you want to connect.' | words 6 ===
+Supplied | Video cable
+accessory |
+
+=== manuallib-id-2687529:0028:1 | page 28 | section | section: 'Connecting to a computer (INPUT 5)' | words 170 ===
+• Before connecting the cable, switch the digital input type switch to “PC”. RGB output terminal INPUT 5 terminal RGB cable (commercially available) DVI to 15-pin D-sub adaptor (commercially available) Computer 4 3 2 Switch to “PC” 1 Note • Refer to “Computer Compatibility Chart” on page 61 for a list of computer signals compatible with the projector. Use with computer signals other than those listed may cause some of the functions not to work. • When connecting the projector to a computer in this way, select “RGB” for “Signal Type” on the OSD menu or press on the remote control. (See page 48.) • A Macintosh adaptor may be required for use with some Macintosh computers. Contact your nearest EIKI Autho- rized Dealer or Service Center. • Depending on the computer you are using, an image may not be projected unless the signal output setting of the computer is switched to the external output. Refer to the owner’s manual of the computer for switching the computer signal output settings.
+
+=== manuallib-id-2687529:0029:1 | page 29 | section | section: 'Connecting to a computer with DIGITAL RGB output Terminal (DIGITAL)' | words 90 ===
+• Before connecting the cable, switch the digital input type switch to “PC”. INPUT 5 terminal DVI output terminal DVI cable (commercially available) Switch to “PC” Computer 2 3 1 Note • Select DIGITAL mode when connecting to digital output terminal of the computer. (See page 29.) • Before switching “Digital input type switch” and connecting, ensure to unplug the power cord of the pro- jector from the AC outlet and turn off the computer to be connected. After making all connections, turn on the projector and then the computer.
+
+=== manuallib-id-2687529:0029:2 | page 29 | section | section: '“Plug and Play” function' | words 72 ===
+■This projector is compatible with VESA-standard DDC 1/DDC 2B. The projector and a VESA DDC com- patible computer will communicate their setting requirements, allowing for quick and easy setup. ■Before using the “Plug and Play” function, be sure to turn on the projector first and the connected computer last. Note • The DDC “Plug and Play” function of this projector operates only when used in conjunction with a VESA DDC compatible computer.
+
+=== manuallib-id-2687529:0030:1 | page 30 | section | section: 'Controlling the Projector by a Computer' | words 28 ===
+When the RS-232C terminal on the projector is connected to a computer, the computer can be used to control the projector and check the status of the projector.
+
+=== manuallib-id-2687529:0030:2 | page 30 | section | section: 'When connecting to a computer using an RS-232C serial control cable' | words 116 ===
+Note • The RS-232C function may not operate if your computer terminal is not correctly set up. Refer to the owner’s manual of the computer for details. • See “RS-232C Specifications and Command Settings” on page 60 for details. Info • Do not connect the RS-232C cable to a port other than the RS-232C terminal on the computer. This may damage your computer or projector. • Do not connect or disconnect an RS-232C serial control cable to or from the computer while it is on. This may damage your computer. 2 1 RS-232C terminal RS-232C serial control cable (cross type, commercially available) RS-232C terminal Computer EIP 1500T E P19 27 65 5/6/05 10 12 AM 27
+
+=== manuallib-id-2687529:0031:1 | page 31 | section | section: 'Turning the Projector On/Off' | words 99 ===
+Info • English is the factory preset language. If you want to change the on-screen display to another language, change the language according to the procedure on page 52. Lamp indicator Power indicator STANDBY-ON button Lens cap ON button STANDBY button ▼On-screen Display Info • Do not unplug the power cord during projection or cool- ing fan operation. The cooling fan in this projector contin- ues to run for about 90 seconds after the projector enters the standby mode. This can cause damage due to rise in internal temperature, as the cooling fan also stops. Power cord Supplied accessory
+
+=== manuallib-id-2687529:0031:2 | page 31 | table | section: 'outlet after the cooling fan stops.' | words 149 ===
+| 
+Co | 
+Plug AC | 
+Tu | 
+Befo conn proje Rem the p • The • Afte tor i | 
+• Th di G B R • W ing fir Th cir ter • If t im ta | Note e lamp indicator illuminates or blinks, in- cating the status of the lamp. reen:The lamp is ready. linking green: The lamp is warming up or shutting down. ed:The lamp is shut down abnormally or the lamp should be replaced. hen switching on the projector, a slight flicker- of the image may be experienced within the st minute after the lamp has been illuminated. is is normal operation as the lamp’s control cuitry is stabilizing the lamp output charac- istics. This does not indicate malfunction. he projector is put into standby mode and mediately turned on again, the lamp may ke some time to illuminate.
+ | 
+Tur ting |
+
+=== manuallib-id-2687529:0032:1 | page 32 | section | section: 'the remote control to select the input' | words 152 ===
+mode. • When pressing on the projector, input mode switches in order of : INPUT 1 INPUT 2 INPUT 3 INPUT 5 INPUT 4 DIGITAL Note • When no signal is received, “NO SIGNAL” will be displayed. When a signal that the projector is not preset to receive is received, “NOT REG.” will be displayed. • The INPUT mode is not displayed when “OSD Display” of the “Options” menu is set to “ (OFF)”. (See page 47.) About the INPUT mode "On-screen Display of INPUT Mode (Example) ➝ INPUT 1, 2, 3, 4, 5 and DIGITAL INPUT button ➝ ➝ INPUT 1 mode Using Component INPUT 2 mode Using Component INPUT 3 mode Using S-Video INPUT 4 mode Using Video INPUT 5 mode Component RGB • When switching the component and RGB input mode, press on the remote control or select “Signal Type” in the “Options” menu. ➝ ➝ DIGITAL mode ➝
+
+=== manuallib-id-2687529:0032:2 | page 32 | table | section: 'Image Projection' | words 95 ===
+INPUT 1 (Component) | Used for projecting images from equipment connected to INPUT 1 terminal.
+INPUT 2 (Component) | Used for projecting images from equipment connected to INPUT 2 terminal.
+INPUT 3 (S-Video) | Used for projecting images from equipment connected to INPUT 3 terminal.
+INPUT 4 (Video) | Used for projecting images from equipment connected to INPUT 4 terminal.
+INPUT 5 (Component/ RGB) | Used for projecting images from equipment connected to INPUT 5 terminal.
+DIGITAL | Used for projecting images from equipment with DVI or RGB output terminal connected to INPUT 5 terminal.
+
+=== manuallib-id-2687529:0033:1 | page 33 | paragraph | section: '' | words 1 ===
+30
+
+=== manuallib-id-2687529:0033:2 | page 33 | section | section: 'Image Projection' | words 10 ===
+ZOOM-FOCUS button Adjustment buttons ('/"/\/|) Adjustment buttons ('/"/\/|) ZOOM-FOCUS button
+
+=== manuallib-id-2687529:0033:3 | page 33 | section | section: 'trol to adjust the zoom.' | words 28 ===
+Note • You can also adjust the zoom by using and ' or " on the projector. EIP 1500T E P28 35 65 4/27/05 3 03 PM 30
+
+=== manuallib-id-2687529:0033:4 | page 33 | table | section: 'trol to adjust the zoom.' | words 27 ===
+Ad | 
+1 2 | 
+• Y | Note ou can also adjust the focus by using and \ or | on the projector.
+ | 
+Adju |
+
+=== manuallib-id-2687529:0034:1 | page 34 | paragraph | section: '' | words 59 ===
+31 Info • Do not press the HEIGHT ADJUST button when the front adjustment foot comes out without firmly holding the projector. • Do not hold the lens when lifting or lower- ing the projector. • When lowering the projector, be careful not to get your fingers caught in the area be- tween the adjustment foot and the projector.
+
+=== manuallib-id-2687529:0034:2 | page 34 | section | section: 'Top View' | words 20 ===
+HEIGHT ADJUST button Front adjustment foot Rear adjustment feet EIP 1500T E P28 35 65 6/7/05 10 55 AM 31
+
+=== manuallib-id-2687529:0034:3 | page 34 | table | section: 'Top View' | words 162 ===
+Us Fe | ing the Adjustment et
+The height of the projector can be adjusted using the adjustment feet at the front and rear of the projector when the screen is located higher than the projector, the screen is inclined or when the installation site is slightly inclined. nstall the projector so that it is as perpen- dicular to the screen as possible. 1 Lift the projector to adjust its height while pressing the HEIGHT ADJUST button. • The projector is adjustable up to approxi- mately 12 degrees (6 steps). • When lowering the projector, it may be difficult to move the front adjustment foot because the installation surface is diffi- cult to slide. In this case, pull the pro- jector back slightly and adjust its height. 2 Remove your hands from the HEIGHT ADJUST button of the projector after its height has been finely adjusted. 3 Finely adjust the height and in- clination by turning the rear ad- justment feet. |
+
+=== manuallib-id-2687529:0034:4 | page 34 | table | section: 'Top View' | words 21 ===
+Note • When adjusting the projected image position, trapezoidal distortion occurs. In this case, see “Keystone Correction” on page 32. |
+
+=== manuallib-id-2687529:0035:1 | page 35 | section | section: 'Vertical Keystone Correction' | words 61 ===
+Note • When adjusting the Keystone setting, the placement range is changed depending on the input signal type. • Keystone correction cannot be applied to On-screen Display. • When Keystone correction is applied, the resolution of image can be deteriorated to some extent. • Keystone Correction is also returned to the factory preset settings by pressing on the remote con- trol.
+
+=== manuallib-id-2687529:0035:2 | page 35 | section | section: 'the desired setting.' | words 81 ===
+Note • Straight lines and the edges of the dis- played image may appear jagged, when adjusting the Keystone setting. • When adjusting “H Keystone” and “V Keystone” at the same time, the values of adjustable angles for each setting become smaller. • The adjustable value of the “V Key- stone” becomes extremely small when “H Keystone” is made to be the maximum value. • Keystone correction is disabled while the picture mode is set to “SMART STRETCH”. (See page 35.)
+
+=== manuallib-id-2687529:0035:3 | page 35 | table | section: 'Image Projection' | words 43 ===
+| 
+Ke | 
+ | 
+This f settin | 
+• W re d c K | Note hen the image is projected from a di- ction at an angle, the image becomes istorted trapezoidally. The function for orrecting trapezoidal distortion is called eystone Correction.
+
+=== manuallib-id-2687529:0035:4 | page 35 | table | section: 'Image Projection' | words 30 ===
+Selectable | 
+items | Description
+H Keystone | Horizontally adjusts the keystone settings.
+V Keystone | Vertically adjusts the keystone
+ | settings.
+Reset | Returns to the factory preset settings.
+
+=== manuallib-id-2687529:0036:1 | page 36 | section | section: '3 Align the edge of the screen clos-' | words 45 ===
+est to the projector with the image by adjusting the zoom and the adjuster. (See pages 30 and 31.) ZOOM/FOCUS END ZOOM FOCUS Align Align 4 Adjust the Keystone function so that the size of the projected image matches the screen size. (See page 32.)
+
+=== manuallib-id-2687529:0036:2 | page 36 | section | section: '6 Adjust the focus so that the projected' | words 24 ===
+image is in focus at the center of the screen. (See page 30.) EIP 1500T E P28 35 65 5/22/05 5 56 PM 33
+
+=== manuallib-id-2687529:0036:3 | page 36 | table | section: '6 Adjust the focus so that the projected' | words 55 ===
+Pla Usi | 
+Place | 
+allow o “S | 
+• T sl fu • If K p | Note he aspect ratio of the projected image also shifts ightly when the “H Keystone” and “V Keystone” nctions are adjusted simultaneously. you cannot correct trapezoidal distortion with eystone correction, change the placement osition of the projector.
+
+=== manuallib-id-2687529:0037:1 | page 37 | section | section: 'on the remote control.' | words 31 ===
+• Each time the button is pressed while the display is on, the picture mode changes in order of: Memory OFF Memory 1 Memory 2 Memory 5 Memory 4 Memory 3
+
+=== manuallib-id-2687529:0037:2 | page 37 | section | section: 'ness / High Contrast Mode' | words 37 ===
+This function controls the quantity of the pro- jected light and the contrast of the image. the input image. Depending on the input signal, you can choose STRETCH, SIDE BAR, SMART STRETCH or CINEMA ZOOM image. Press
+
+=== manuallib-id-2687529:0037:3 | page 37 | section | section: 'on the remote control.' | words 51 ===
+• Each time is pressed, the picture mode changes as shown on the next page. • To return to the standard image (“STRETCH”), press while “RESIZE” is displayed on the screen. • You can also change the picture display mode by pressing on the projector. PICTURE MODE button IRIS button button
+
+=== manuallib-id-2687529:0037:5 | page 37 | table | section: 'Image Projection' | words 28 ===
+|  | RE | 
+Note • This function can also be accessed from the OSD menu (see page 44). |  | UN | DO button
+ |  |  |
+
+=== manuallib-id-2687529:0038:1 | page 38 | paragraph | section: '' | words 2 ===
+35 Note
+
+=== manuallib-id-2687529:0038:2 | page 38 | section | section: '• “SMART STRETCH” cannot be selected while input signal from a computer (VGA, SVGA or XGA) is' | words 12 ===
+entered. EIP 1500T E P28 35 65 5/22/05 5 57 PM 35
+
+=== manuallib-id-2687529:0038:3 | page 38 | table | section: '• “SMART STRETCH” cannot be selected while input signal from a computer (VGA, SVGA or XGA) is' | words 126 ===
+| Input signal |  | Output screen image |  |  | 
+ |  |  | STRETCH | SIDE BAR | SMART STRETCH | CINEMA ZOOM
+480I 480P 576I 576P NTSC PAL SECAM | 4:3 aspect ratio |  |  |  |  | 
+ |  |  |  |  |  | 
+ | Letterbox |  |  |  |  | 
+ |  |  |  |  |  | 
+ | Squeeze |  |  |  |  | 
+ | 16:9 aspect ratio |  |  |  |  | 
+ |  |  |  |  |  | 
+540P 1080I | 16:9 aspect ratio |  |  |  |  | 
+720P | 16:9 aspect ratio |  |  |  |  | 
+VGA SVGA XGA | 4:3 aspect ratio |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  |
+
+=== manuallib-id-2687529:0039:1 | page 39 | table | section: '(RGB) mode' | words 37 ===
+| Contrast -30 +30
+ | 
+ | Bright -30 +30
+ | 
+ | Color -30 +30
+ | 
+ | Tint -30 +30
+ | 
+ | Sharp -30 +30
+ | 
+ | Red -30 +30
+ | 
+ | Blue -30 +30
+ | 
+ | Reset
+
+=== manuallib-id-2687529:0039:2 | page 39 | table | section: '(RGB) mode' | words 41 ===
+| 5500K 0 10 6500K 0 10 7500K 0 10 8500K 0 10 9300K 0 10 10500K 0 10
+ | Standard -3 3
+Gamma Adj. Page 43 | 
+ | Cinema 1 -3 3 Cinema 2 -3 3 Cinema 3 -3 3
+
+=== manuallib-id-2687529:0039:4 | page 39 | table | section: '(RGB) mode' | words 43 ===
+|  |  | Memory 1 Memory 2 Memory 3
+Picture Mode Page 44 | Picture Mode |  | 
+ |  |  | Memory 4
+ |  |  | Memory 5 Memory OFF
+ |  |  | High Brightness High Contrast
+IRIS Page 44 |  |  |
+
+=== manuallib-id-2687529:0040:1 | page 40 | paragraph | section: '' | words 1 ===
+37
+
+=== manuallib-id-2687529:0040:2 | page 40 | section | section: 'Sub Menu' | words 22 ===
+Auto PAL NTSC3.58 SECAM NTSC4.43 PAL-M PAL-N PAL-60 Background [Blue/None] Eco Mode [Eco/Standard] Center Upper Right Lower Right Upper Left Lower Left
+
+=== manuallib-id-2687529:0040:3 | page 40 | section | section: 'Page 51' | words 2 ===
+*1 *2
+
+=== manuallib-id-2687529:0040:4 | page 40 | section | section: '*2: Item when selecting INPUT 5' | words 7 ===
+RGB Component Signal Type Menu Color [Opaque/Translucent]
+
+=== manuallib-id-2687529:0040:5 | page 40 | section | section: '“PRJ Mode” menu' | words 6 ===
+PRJ Mode Front Ceiling+Front Rear Ceiling+Rear
+
+=== manuallib-id-2687529:0040:6 | page 40 | section | section: 'Example: Screen for INPUT 1' | words 1 ===
+mode
+
+=== manuallib-id-2687529:0040:7 | page 40 | section | section: 'Example: Screen for INPUT 4' | words 12 ===
+mode EIP 1500T E P36 37 65 4/25/05 12 01 PM 37
+
+=== manuallib-id-2687529:0040:8 | page 40 | table | section: 'Example: Screen for INPUT 4' | words 6 ===
+Options |  | amp Timer (Life)
+
+=== manuallib-id-2687529:0040:9 | page 40 | table | section: 'Example: Screen for INPUT 4' | words 5 ===
+| 
+ | 
+ | ideo System
+
+=== manuallib-id-2687529:0040:10 | page 40 | table | section: 'Example: Screen for INPUT 4' | words 6 ===
+A | 
+ | 
+ | Menu Position
+
+=== manuallib-id-2687529:0040:11 | page 40 | table | section: 'Example: Screen for INPUT 4' | words 11 ===
+Language |  | nglish eutsch spañol ederlands rançais aliano venska ortuguês
+
+=== manuallib-id-2687529:0041:1 | page 41 | paragraph | section: '' | words 1 ===
+38
+
+=== manuallib-id-2687529:0041:2 | page 41 | section | section: 'Menu icons' | words 18 ===
+Adjustment buttons ('/"/\/|) ENTER button MENU button UNDO button ENTER button MENU button UNDO button Adjustment buttons ('/"/\/|)
+
+=== manuallib-id-2687529:0041:3 | page 41 | section | section: 'Menu Selections' | words 1 ===
+(Adjustments)
+
+=== manuallib-id-2687529:0041:4 | page 41 | section | section: '1 Press' | words 1 ===
+.
+
+=== manuallib-id-2687529:0041:5 | page 41 | section | section: 'is highlighted.' | words 1 ===
+Note
+
+=== manuallib-id-2687529:0041:6 | page 41 | section | section: 'selecting INPUT 3 or 4.' | words 11 ===
+EIP 1500T E P38 46 65 5/22/05 6 01 PM 38
+
+=== manuallib-id-2687529:0041:7 | page 41 | table | section: 'selecting INPUT 3 or 4.' | words 17 ===
+Menu icon | Menu screen
+ | Picture
+ | Fine Sync
+ | Options
+ | Language
+ | PRJ Mode
+
+=== manuallib-id-2687529:0042:1 | page 42 | paragraph | section: '' | words 1 ===
+39
+
+=== manuallib-id-2687529:0042:2 | page 42 | section | section: 'want to adjust.' | words 9 ===
+• The selected item is highlighted. (Example: Selecting “Bright”)
+
+=== manuallib-id-2687529:0042:3 | page 42 | section | section: 'image while viewing it' | words 39 ===
+Press . • The selected single adjustment item (e.g. “Bright”) appears on the lower part of the screen. • When pressing ' or ", the next item will be displayed. (e.g. “Bright” is replaced with “Color” by pressing  ".)
+
+=== manuallib-id-2687529:0042:4 | page 42 | section | section: '4 Press | or \\ to adjust the item se-' | words 6 ===
+lected. • The adjustment is stored.
+
+=== manuallib-id-2687529:0042:5 | page 42 | section | section: '5 Press' | words 21 ===
+. • The menu screen will disappear. Single adjustment item EIP 1500T E P38 46 65 5/22/05 6 01 PM 39
+
+=== manuallib-id-2687529:0042:6 | page 42 | table | section: '5 Press' | words 3 ===
+m | e
+
+=== manuallib-id-2687529:0042:7 | page 42 | table | section: '5 Press' | words 10 ===
+Note • Press to return to the previous screen. |
+
+=== manuallib-id-2687529:0044:1 | page 44 | paragraph | section: '' | words 1 ===
+41
+
+=== manuallib-id-2687529:0044:2 | page 44 | section | section: 'play the sub menu.' | words 36 ===
+• The selected item is highlighted. (Example: Selecting “Menu Position”) Note • Press or \ to return to the previous screen. • For some items, press \ or | to select the icon using “ ”.
+
+=== manuallib-id-2687529:0044:3 | page 44 | section | section: 'of the item displayed in the sub' | words 1 ===
+menu.
+
+=== manuallib-id-2687529:0044:4 | page 44 | section | section: '5 Press' | words 7 ===
+. • The selected item is set.
+
+=== manuallib-id-2687529:0044:5 | page 44 | section | section: '6 Press' | words 7 ===
+. • The menu screen will disappear.
+
+=== manuallib-id-2687529:0044:6 | page 44 | section | section: 'Sub menu' | words 11 ===
+EIP 1500T E P38 46 65 6/7/05 10 57 AM 41
+
+=== manuallib-id-2687529:0045:1 | page 45 | paragraph | section: '' | words 68 ===
+42 Note • “Color”, “Tint” and “Sharp” do not appear for RGB input in INPUT 5 mode. • To reset all adjustment items, select “Reset” on the “Picture” menu screen and press . • “Tint” cannot be used with PAL, SECAM, PAL- M, PAL-N or PAL-60. • “Color”, “Tint” and “Sharp” cannot be used in the DIGITAL mode. • A single menu bar of “CLR Temp” is displayed.
+
+=== manuallib-id-2687529:0045:2 | page 45 | section | section: 'color temperature.' | words 60 ===
+• With the lower value selected, the projected image becomes magenta-tinged. With the higher value selected, the projected image becomes green-tinged. • Pressing \ or | changes the value  of the color temperature in the sub menu. Note • Values on “CLR Temp” are only for general standard purposes. EIP 1500T E P38 46 65 5/22/05 6 01 PM 42
+
+=== manuallib-id-2687529:0045:3 | page 45 | table | section: 'color temperature.' | words 139 ===
+Picture Adjustment (“Pictur You can adjust the projector’s picture to your pre Adjusting the Image Menu operation Page 38 | e” |  | 
+ | fer |  | 
+ | Adj |  | 
+ | This colo |  | 
+Note • First select “Memory 1-5” or “Memory OFF” when you want to save the “Picture” menu set- tings. See page 44 for details. | he and valu esc Menu E Des |  | 
+ | CLR | Temp | Description
+ | 55 | 00K | The less the value is set to, the warmer, reddish, incandescent-like the image becomes. The more the value is set to, the cooler, bluish, fluorescent-like the image becomes.
+ | 65 | 00K | 
+ | 75 | 00K | 
+ | 85 | 00K | 
+ | 93 | 00K | 
+ | 105 | 00K | 
+ | CLR 1 |  |
+
+=== manuallib-id-2687529:0045:4 | page 45 | table | section: 'color temperature.' | words 77 ===
+Selectable items | Press \ | Press |
+Contrast | For less contrast | For more contrast
+Bright | For less brightness | For more brightness
+Color | For less color intensity | For more color intensity
+Tint | For making skin tones purplish | For making skin tones greenish
+Sharp | For less sharpness | For more sharpness
+Red | For weaker red | For stronger red
+Blue | For weaker blue | For stronger blue
+
+=== manuallib-id-2687529:0046:1 | page 46 | table | section: 'Description of Bright Boost settings' | words 199 ===
+|  | 
+Ga | mma Correction Function | 
+Gam Four diffe Menu E | ma is an image quality enhancement function. gamma settings are available to allow for rences in the brightness of the room. operation Page 40 xample: “Picture” menu screen for INPUT 1 mode Description of Gamma Modes | 
+Sele | ctable Items | Description
+Stan | dard | Standard picture without gamma correction
+Cine | ma 1 | Gives greater depth to darker portions of images.
+Cine | ma 2 | Brightness is toned down and the image becomes more balanced.
+Cine | ma 3 | Brighten the darker portions of images for easier viewing in a dimly lit room.
+“Gamma Adj.” is fine adjusted by following the procedure below. 1 Select “Gamma Adj.” in the “Pic- ture” menu on the menu screen and press . • A single menu bar of “Gamma Adj.” is displayed. 2 Press ' or " to fine adjust the gamma correction. • With the lower value selected, the projected image becomes darker. With the higher value selected, the projected image be- comes brighter. • Pressing \ or | changes the value of the Gamma in the sub menu. |  |
+
+=== manuallib-id-2687529:0047:1 | page 47 | section | section: 'Picture Mode Function' | words 57 ===
+This function stores all items set in “Picture”. Five settings can be stored separately in “Memory 1” to “Memory 5”. Each stored setting is reassigned to each input mode (INPUT 1 to INPUT 5). Even when the input mode or signal is changed, you can easily select optimal settings from the stored settings. Menu operation Page 40
+
+=== manuallib-id-2687529:0047:2 | page 47 | section | section: 'INPUT 1 mode' | words 77 ===
+Select “Picture Mode” on the “Picture” menu and the memory location where you want to store the settings. Then adjust the setting items on the “Picture” menu. If you want to apply the stored settings on the “Pic- ture” menu, select input mode and then press , or select “Picture Mode” in the “Picture” menu. If you want to change the stored settings, select the memory location for those settings and make settings on the “Picture” menu.
+
+=== manuallib-id-2687529:0047:3 | page 47 | section | section: 'ness/High Contrast Mode' | words 27 ===
+This function changes the brightness and contrast of the projected image. It can be operated using the IRIS button on the remote control. Menu operation Page 40
+
+=== manuallib-id-2687529:0047:4 | page 47 | table | section: 'Picture Adjustment (“Picture” menu)' | words 26 ===
+Selectable items | Description
+High Brightness | High brightness is given priority over high contrast.
+High Contrast | High contrast is given priority over high brightness.
+
+=== manuallib-id-2687529:0047:5 | page 47 | table | section: 'Picture Adjustment (“Picture” menu)' | words 72 ===
+Picture Mode | Description
+Memory 1-5 | Settings of all items in “Picture” can be stored for the respective input modes. The stored settings (Memory 1 to 5) can be selected in any input modes.
+Memory OFF | Besides “Memory 1” to “Memory 5”, other settings on the “Picture” menu can be stored for each input mode. The settings stored in “Memory OFF” cannot be applied when another input mode is selected.
+
+=== manuallib-id-2687529:0048:1 | page 48 | section | section: 'Adjusting the Computer' | words 27 ===
+Image Use the Fine Sync function in case of irregulari- ties such as vertical stripes or flickering in por- tions of the screen. Menu operation Page 38
+
+=== manuallib-id-2687529:0048:2 | page 48 | section | section: 'Description of Adjustment Items' | words 84 ===
+Note • You can automatically adjust the computer im- age by setting “Auto Sync” on the “Fine Sync” menu to “ ” (ON) or pressing on the re- mote control. See page 46. • “Clock”, “Phase”, “H-Pos” and “V-Pos” cannot be used in the DIGITAL mode. • “Clock” and “Phase” cannot be used in the Com- ponent mode. • The adjustable area of each item may be changed according to the input signal. • To reset all adjustment items, select “Reset” and press .
+
+=== manuallib-id-2687529:0048:3 | page 48 | section | section: 'Special Modes Setting' | words 48 ===
+Ordinarily, the type of input signal is detected and the correct resolution mode is automatically se- lected. However, for some signals, the optimal resolution mode in “Special Modes” on the “Fine Sync” menu may need to be selected to match the computer display mode. Menu operation Page 40
+
+=== manuallib-id-2687529:0048:4 | page 48 | section | section: 'INPUT 5 (Component) mode' | words 65 ===
+Note • If your computer displays patterns which repeat every other line (horizontal stripes), flickering may occur which makes the image hard to see. • When inputting DTV 1080I signal, select the corresponding type of signal. • See “Checking the Input Signal” on the next page for information on the currently selected input signal. EIP 1500T E P38 46 65 4/25/05 12 01 PM 45
+
+=== manuallib-id-2687529:0048:5 | page 48 | table | section: 'INPUT 5 (Component) mode' | words 46 ===
+Selectable items | Description
+Clock | Adjusts vertical noise.
+Phase | Adjusts horizontal noise (similar to tracking on your VCR).
+H-Pos | Centers the on-screen image by moving it to the left or right.
+V-Pos | Centers the on-screen image by moving it up or down.
+
+=== manuallib-id-2687529:0049:1 | page 49 | section | section: 'Auto Sync Adjustment' | words 21 ===
+Select whether the image is to be synchronized automatically when switching the signal with “ON” or “OFF”. Menu operation Page 40
+
+=== manuallib-id-2687529:0049:2 | page 49 | table | section: 'Computer Image Adjustment (“Fine Sync” menu)' | words 39 ===
+Selectable items | Description
+(ON) | Auto Sync adjustment will occur when the projector is turned on or when the input signals are switched, when connected to a computer.
+(OFF) | Auto Sync adjustment is not automati- cally performed.
+
+=== manuallib-id-2687529:0049:3 | page 49 | table | section: 'Computer Image Adjustment (“Fine Sync” menu)' | words 66 ===
+Note • Auto Sync adjustment is also performed by pressing on the remote control. • The Auto Sync adjustment may take some time to complete, depending on the image of the computer connected to the projector. • When the optimum image cannot be achieved with Auto Sync adjustment, use manual adjust- ments. (See page 45.) • “Auto Sync” cannot be used in the DIGITAL mode. |
+
+=== manuallib-id-2687529:0050:1 | page 50 | table | section: 'Description of “OSD Display” Settings' | words 24 ===
+Selectable items | Description
+(ON) | All On-screen Displays are displayed.
+(OFF) | INPUT/AUTO SYNC/ “An invalid button has been pressed.” are not displayed.
+
+=== manuallib-id-2687529:0050:2 | page 50 | table | section: 'Description of “OSD Display” Settings' | words 48 ===
+Lamp usage condition “Life” |  | Remaining lamp life | 
+ | “Life” | 100% | 5%
+Operated exclusively in Eco mode ( ) |  | Approx. 3,000 hours | Approx. 150 hours
+Operated exclusively in Standard mode ( ) |  | Approx. 2,000 hours | Approx. 100 hours
+
+=== manuallib-id-2687529:0050:3 | page 50 | table | section: 'Description of “OSD Display” Settings' | words 84 ===
+Note • It is recommended that the lamp be changed when the remaining lamp life becomes 5%. (See page 56.) • The table above indicates rough estimates in the case of using only in each mode shown. • Remaining lamp life changes within the range of the values shown depending on the frequency at which “Eco Mode” is switched to “ ” (Eco mode) and “ ” (Standard mode). (See page 49.) • The lamp life may vary depending on the usage condition. |
+
+=== manuallib-id-2687529:0051:1 | page 51 | table | section: 'Using the “Options” Menu' | words 20 ===
+Selectable items | Description
+RGB | Set when RGB signals are received.
+Component | Set when Component signals are received.
+
+=== manuallib-id-2687529:0051:2 | page 51 | table | section: 'Using the “Options” Menu' | words 39 ===
+Selectable items | Description
+PAL | When connected to PAL video equip- ment.
+NTSC3.58 | When connected to NTSC video equipment.
+SECAM | When connected to SECAM video equipment.
+NTSC4.43 | When reproducing NTSC signals in PAL video equipment.
+
+=== manuallib-id-2687529:0051:3 | page 51 | table | section: 'Using the “Options” Menu' | words 43 ===
+Note • The video signal can only be set in INPUT 3, INPUT 4 mode. • “Auto” cannot be set for PAL-M and PAL-N in- put signals. Select “PAL-M” or “PAL-N” in “Video System” menu for PAL-M and PAL-N input sig- nals. |
+
+=== manuallib-id-2687529:0052:1 | page 52 | paragraph | section: '' | words 1 ===
+49
+
+=== manuallib-id-2687529:0052:2 | page 52 | section | section: 'Eco Mode' | words 4 ===
+Menu operation Page 40
+
+=== manuallib-id-2687529:0052:3 | page 52 | section | section: 'Description of Eco Mode' | words 27 ===
+Note • When “Eco Mode” is set to “ ” (Eco mode), the power consumption will decrease and the lamp life will extend. (Projection brightness decreases 15%.)
+
+=== manuallib-id-2687529:0052:4 | page 52 | section | section: 'Selecting a Background' | words 25 ===
+Image This function allows you to select the image dis- played when no signal is being sent to the pro- jector. Menu operation Page 40
+
+=== manuallib-id-2687529:0052:5 | page 52 | section | section: 'Description of Background Images' | words 11 ===
+EIP 1500T E P47 52 65 4/25/05 12 02 PM 49
+
+=== manuallib-id-2687529:0052:6 | page 52 | table | section: 'Description of Background Images' | words 36 ===
+Selectable items | Brightness | Power consumption (When using AC 100V) | Lamp life
+(Eco mode) | 85% | 315 W | Approx. 3,000 hours
+(Standard mode) | 100% | 360 W | Approx. 2,000 hours
+
+=== manuallib-id-2687529:0052:7 | page 52 | table | section: 'Description of Background Images' | words 12 ===
+Selectable items | Description
+(Blue) | Blue screen
+(None) | Black screen
+
+=== manuallib-id-2687529:0053:1 | page 53 | table | section: 'Using the “Options” Menu' | words 35 ===
+Selectable items | Description
+(ON) | The projector automatically enters the standby mode when no input signal is detected for 15 minutes or longer.
+ | The Auto Power Off function will be
+(OFF) | disabled.
+
+=== manuallib-id-2687529:0053:2 | page 53 | table | section: 'Using the “Options” Menu' | words 57 ===
+Selectable items | Description
+Center | Displayed on the center of the image.
+Upper Right | Displayed on the upper right of the image.
+Lower Right | Displayed on the lower right of the image.
+Upper Left | Displayed on the upper left of the image.
+Lower Left | Displayed on the lower left of the image.
+
+=== manuallib-id-2687529:0054:1 | page 54 | paragraph | section: '' | words 1 ===
+51
+
+=== manuallib-id-2687529:0054:2 | page 54 | section | section: 'Selecting the Menu Color' | words 16 ===
+This function allows you to select the color of the menu screen. Menu operation Page 40
+
+=== manuallib-id-2687529:0054:3 | page 54 | section | section: 'Description of Menu Colors' | words 11 ===
+EIP 1500T E P47 52 65 4/25/05 12 02 PM 51
+
+=== manuallib-id-2687529:0054:4 | page 54 | table | section: 'Description of Menu Colors' | words 28 ===
+Selectable Items | Description
+(Opaque) | The menu is displayed opaquely.
+(Translucent) | The menu is displayed translucently. The part of the menu on the image becomes transparent.
+
+=== manuallib-id-2687529:0055:1 | page 55 | section | section: 'Display Language' | words 24 ===
+The projector can switch the on-screen display language among 11 languages: English, German, Spanish, Dutch, French, Italian, Swedish, Portu- guese, Chinese, Korean or Japanese.
+
+=== manuallib-id-2687529:0055:2 | page 55 | section | section: '4 Press' | words 22 ===
+. • The “Language” menu will disappear. Note • This procedure can also be performed by using the buttons on the projector.
+
+=== manuallib-id-2687529:0055:3 | page 55 | section | section: 'Setting the Projection' | words 28 ===
+Mode This projector is equipped with a reverse/invert image function that allows you to reverse or in- vert the projected image for various applications. Menu operation Page 40
+
+=== manuallib-id-2687529:0055:4 | page 55 | section | section: 'Description of PRJ Modes' | words 35 ===
+Note • This function is used for the reversed image and ceiling-mount setups. (See page 18.) Front Rear Ceiling + Front Ceiling + Rear EIP 1500T E P47 52 65 4/25/05 12 02 PM 52
+
+=== manuallib-id-2687529:0055:5 | page 55 | table | section: 'Description of PRJ Modes' | words 26 ===
+Selectable items | Description
+Front | Normal image
+Ceiling + Front | Inverted image
+Rear | Reversed image
+Ceiling + Rear | Reversed and inverted image
+
+=== manuallib-id-2687529:0056:1 | page 56 | section | section: 'Cleaning the lens' | words 61 ===
+■Use a commercially available blower or lens clean- ing paper (for glasses and camera lenses) for clean- ing the lens. Do not use any liquid type cleaning agents, as they may wear off the coating film on the surface of the lens. ■As the surface of the lens can easily get damaged, be sure not to scrape or hit the lens.
+
+=== manuallib-id-2687529:0056:2 | page 56 | section | section: 'Cleaning the exhaust and intake vents' | words 65 ===
+■Use a vacuum cleaner to clean dust from the ex- haust vent and the intake vent. Info • If you want to clean the air vents during pro- jector operation, press on the projector or on the remote control and put the projec- tor into standby mode. After the cooling fan has stopped, unplug the power cord from the AC socket and clean the vents.
+
+=== manuallib-id-2687529:0056:3 | page 56 | section | section: 'Cleaning the projector' | words 171 ===
+■Ensure that you have unplugged the power cord be- fore cleaning the projector. ■The cabinet as well as the operation panel is made of plastic. Avoid using benzene or thinner, as these can damage the finish on the cabinet. ■Do not use volatile agents such as insecticides on the projector. Do not attach rubber or plastic items to the projec- tor for long periods. The effects of some of the agents in the plastic may cause damage to the quality or finish of the projector. ■Wipe off dirt gently with a soft flannel cloth. ■When the dirt is hard to remove, soak a cloth in a mild detergent diluted with water, wring the cloth well and then wipe the projector. Strong cleaning detergents may discolor, warp or damage the coating on the projector. Make sure to test on a small, inconspicuous area on the projec- tor before use. Maintenance Cleaning Paper Mild detergent diluted with water Wax Thinner Mild detergent EIP 1500T E P53 61 65 5/22/05 6 05 PM 53
+
+=== manuallib-id-2687529:0057:1 | page 57 | section | section: 'Maintenance Indicators' | words 47 ===
+■The warning lights on the projector indicate problems inside the projector. ■If a problem occurs, either the temperature indicator or the lamp indicator will illuminate red, and the projector will enter the standby mode. After the projector has entered the standby mode, follow the procedures given below.
+
+=== manuallib-id-2687529:0057:2 | page 57 | section | section: 'About the temperature warning indicator' | words 81 ===
+If the temperature inside the projector increases, due to blockage of the air vents, or the setting location, “ ” will illuminate in the lower left corner of the picture. If the temperature keeps on rising, the lamp will turn off and the temperature warning indicator will blink, the cooling fan will run for a further 90 seconds, and then the projector will enter the standby mode. After “ ” appears, be sure to perform the measures described on page 55.
+
+=== manuallib-id-2687529:0057:3 | page 57 | section | section: 'About the lamp indicator' | words 92 ===
+■When the remaining lamp life becomes 5% or less, “ ” (yellow) and “Change The Lamp.” will be displayed on the screen. When the percentage becomes 0%, it will change to “ ” (red), the lamp will automatically turn off and then the projector will automatically enter the standby mode. At this time, the lamp indicator will illuminate in red. ■If you try to turn on the projector a fourth time without replacing the lamp, the projector will not turn on. EIP 1500T E P53 61 65 4/27/05 3 09 PM 54
+
+=== manuallib-id-2687529:0058:1 | page 58 | table | section: 'is running. The cooling fan runs for about 90 seconds.' | words 198 ===
+|  |  |  | Problem | Cause |  | 
+ |  | Normal | Abnormal |  |  |  | 
+ |  |  |  |  |  | • Relocate the projector to an area with proper ventilation. (See page | 
+ |  |  |  |  | • Blocked air intake |  | 
+ | Temperature warning indicator | Off | Red on (Standby) | The internal temperature is abnormally high. |  | 7.) | 
+ |  |  |  |  | • Cooling fan break- down • Internal circuit failure • Clogged air intake | • Take the projector to your nearest EIKI Authorized Dealer or Service Center for repair. • Clean the exhaust and intake vents. (See page 53.) | 
+ |  | Green on Green blinks when the lamp is warming up or shutting down. | Red on | The lamp does not illuminate. | — | • Disconnect the power cord from the AC outlet, and then connect it again. | 
+ |  |  |  | Time to change the lamp. | • Remaining lamp life becomes 5% or less. |  | 
+ |  |  | Red on (Standby) | The lamp does not illuminate. | • Burnt-out lamp • Lamp circuit failure |  |
+
+=== manuallib-id-2687529:0059:1 | page 59 | paragraph | section: '' | words 68 ===
+56 Lamp ■It is recommended that the lamp (optional: AH-57201) be replaced when the remaining lamp life becomes 5% or less, or when you notice a significant deterioration in the picture and color quality. The lamp life (percentage) can be checked with the on-screen display. See page 47. ■Purchase a replacement lamp of type AH-57201 from your place of purchase, nearest EIKI Autho- rized Dealer or Service Center.
+
+=== manuallib-id-2687529:0059:2 | page 59 | section | section: 'Caution Concerning the Lamp' | words 217 ===
+■This projector utilizes a pressurized mercury lamp. A loud sound may indicate lamp failure. Lamp failure can be attributed to numerous sources such as: excessive shock, improper cooling, surface scratches or deterioration of the lamp due to a lapse of usage time. The period of time up to failure largely varies depending on the individual lamp and/or the condition and the frequency of use. It is important to note that failure can often result in the bulb cracking. ■When the lamp replacement indicator and on-screen display icon are illuminated, it is recommended that the lamp be replaced with a new one immediately, even if the lamp appears to be operating normally. ■Should the lamp break, the glass particles may spread inside the lamp cage or gas contained in the lamp may be vented into the room from the exhaust vent. Because the gas in this lamp includes mercury, ventilate the room well if the lamp breaks and avoid all exposure to the released gas. In case of exposure to the gas, consult a doctor as soon as possible. ■Should the lamp break, there is also a possibility that glass particles may spread inside of the projector. In such a case, it is recommended you contact your nearest EIKI Authorized Dealer or Service Center to assure safe operation.
+
+=== manuallib-id-2687529:0059:3 | page 59 | section | section: 'Replacing the Lamp' | words 108 ===
+Caution • Do not remove the lamp unit from the projector right after use. The lamp will be very hot and may cause burn or injury. • Wait at least one hour after the power cord is disconnected to allow the surface of the lamp unit to fully cool before removing the lamp unit. ■Carefully change the lamp by following the instructions described in this section. *If you wish, you may have the lamp replaced at your nearest EIKI Authorized Dealer or Service Center. * If the new lamp does not light after replacement, take your projector to the nearest EIKI Authorized Dealer or Service Center for repair.
+
+=== manuallib-id-2687529:0060:1 | page 60 | section | section: '2 Disconnect the power cord.' | words 22 ===
+• Unplug the power cord from the AC socket. • Leave the lamp until it has fully cooled down (about 1 hour).
+
+=== manuallib-id-2687529:0060:2 | page 60 | section | section: '3 Remove the lamp unit cover.' | words 37 ===
+• Turn the projector over. Loosen the user service screw (1) that secures the lamp unit cover. Hold the tab and slide to- wards the direction of the arrow to re- move the lamp unit cover (2).
+
+=== manuallib-id-2687529:0060:3 | page 60 | section | section: 'AC socket' | words 22 ===
+1 2 User service screw (for lamp unit cover) Tab Tab EIP 1500T E P53 61 65 4/28/05 6 08 PM 57
+
+=== manuallib-id-2687529:0060:4 | page 60 | table | section: 'AC socket' | words 67 ===
+| moving and Installing the Lamp Unit
+Re | 
+ | 
+• D ri | Warning! uring projector operation, the lamp unit is very hot. Do not remove the lamp unit from the projector ght after use. The lamp and parts around the lamp will be very hot and may cause burn or injury.
+ | 
+• M b fa p • T th st • D la |
+
+=== manuallib-id-2687529:0061:1 | page 61 | section | section: '2 Reset the lamp timer.' | words 38 ===
+• Press , , , \, and | on the projector in order, and then press on the projector. • “LAMP 0000H” is displayed on the lower left of the screen, indicating that the lamp timer is reset.
+
+=== manuallib-id-2687529:0061:2 | page 61 | section | section: 'Regarding the Lamp' | words 33 ===
+Securing screws Handle User service screw (for lamp unit cover) AC socket \/| buttons STANDBY-ON button ENTER button UNDO button INPUT button EIP 1500T E P53 61 65 4/25/05 12 02 PM 58
+
+=== manuallib-id-2687529:0061:3 | page 61 | table | section: 'Regarding the Lamp' | words 97 ===
+5 6 | 
+• If c o th | Info the lamp unit and lamp unit cover are not orrectly installed, the power will not turn n, even if the power cord is connected to e projector.
+ | 
+Re | setting the Lamp Timer
+Rese | t the lamp timer after replacing the lamp.
+• M w la la d | Info ake sure to reset the lamp timer only hen replacing the lamp. If you reset the mp timer and continue to use the same mp, this may cause the lamp to become amaged or explode.
+
+=== manuallib-id-2687529:0062:1 | page 62 | section | section: 'RS-232C Port: 9-pin D-sub male connector' | words 62 ===
+Pin No. Signal Name I/O Reference 1 Not connected 2 RD Receive Data Input Connected to internal circuit 3 SD Send Data Output Connected to internal circuit 4 Reserved Connected to internal circuit 5 SG Signal Ground Connected to internal circuit 6 Reserved Connected to internal circuit 7 Reserved Connected to internal circuit 8 Reserved Connected to internal circuit 9 Not connected
+
+=== manuallib-id-2687529:0062:2 | page 62 | section | section: '• DVI Digital INPUT' | words 105 ===
+Pin No. Signal Pin No. Signal 1 T.M.D.S data 2– 16 Hot plug detection 2 T.M.D.S data 2+ 17 T.M.D.S data 0– 3 T.M.D.S data 2 shield 18 T.M.D.S data 0+ 4 Not connected 19 T.M.D.S data 0 shield 5 Not connected 20 Not connected 6 DDC clock 21 Not connected 7 DDC data 22 T.M.D.S clock shield 8 Not connected 23 T.M.D.S clock+ 9 T.M.D.S data 1– 24 T.M.D.S clock– 10 T.M.D.S data 1+ C1 Not connected 11 T.M.D.S data 1 shield C2 Not connected 12 Not connected C3 Not connected 13 Not connected C4 Not connected 14 +5V power C5 Ground 15 Ground
+
+=== manuallib-id-2687529:0062:3 | page 62 | section | section: '• DVI Analog RGB Input' | words 95 ===
+Pin No. Signal Pin No. Signal 1 Not connected 16 Hot plug detection 2 Not connected 17 Not connected 3 Not connected 18 Not connected 4 Not connected 19 Not connected 5 Not connected 20 Not connected 6 DDC clock 21 Not connected 7 DDC data 22 Not connected 8 Vertical sync 23 Not connected 9 Not connected 24 Not connected 10 Not connected C1 Analog input Red 11 Not connected C2 Analog input Green 12 Not connected C3 Analog input Blue 13 Not connected C4 Horizontal sync 14 +5V power C5 Ground 15 Ground
+
+=== manuallib-id-2687529:0062:4 | page 62 | section | section: '• DVI Analog Component Input' | words 151 ===
+Pin No. Signal Pin No. Signal 1 Not connected 16 Not connected 2 Not connected 17 Not connected 3 Not connected 18 Not connected 4 Not connected 19 Not connected 5 Not connected 20 Not connected 6 Not connected 21 Not connected 7 Not connected 22 Not connected 8 Not connected 23 Not connected 9 Not connected 24 Not connected 10 Not connected C1 Analog input PR/CR 11 Not connected C2 Analog input Y 12 Not connected C3 Analog input PB/CB 13 Not connected C4 Not connected 14 Not connected C5 Ground 15 Ground • • • • • • • • • ~ • • • • • • • • • • • • • ~ • • • • 18 23 C3 9 16 C1 C2 C4 C5 6 7 8 9 1 2 3 4 5 EIP 1500T E P53 61 65 4/28/05 6 09 PM 59
+
+=== manuallib-id-2687529:0062:5 | page 62 | table | section: '• DVI Analog Component Input' | words 91 ===
+1 17 | 2 • • • • ~ • • • • 7 8 |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |
+
+=== manuallib-id-2687529:0063:1 | page 63 | table | section: '• If an underbar (_)  appears in the parameter column, enter a space.' | words 22 ===
+C1 | C2 | C3 | C4 | P1 | P2 | P3 | P4
+ |  |  |  |  |  |  |
+
+=== manuallib-id-2687529:0063:6 | page 63 | table | section: '• If an underbar (_)  appears in the parameter column, enter a space.' | words 192 ===
+CONTROL CONTENTS POWER ON BUTTONS STANDBY INPUT 1 (COMPONENT 1) CONTROL INPUT 2 (COMPONENT 2) REMOTE INPUT 3 (S-VIDEO) INPUT 4 (VIDEO) & BUTTONS INPUT 5 (RGB/COMPONENT) DIGITAL MODE | COMMAND |  |  |  | PARAMETER |  |  | RETURN
+ | P | O | W | R | _ | _ | 1 _ | OK OR ERR
+ | P | O | W | R | _ | _ | 0 _ | OK OR ERR
+ | I | V | E | D | _ | _ | 1 _ | OK OR ERR
+ | I | V | E | D | _ | _ | 2 _ | OK OR ERR
+ | I | V | E | D | _ | _ | 3 _ | OK OR ERR
+ | I | V | E | D | _ | _ | 4 _ | OK OR ERR
+ | I | V | E | D | _ | _ | 5 _ | OK OR ERR
+ | I | V | E | D | _ | _ | 6 _ | OK OR ERR
+
+=== manuallib-id-2687529:0064:1 | page 64 | table | section: 'cannot be projected, adjust the output signal of your computer and so forth while referring to the table below.' | words 363 ===
+PC/ MAC | Resolution |  | Horizontal Frequency (kHz) | Vertical Frequency (Hz) | VESA Standard | DVI Support | Display
+PC | VGA | 640 × 350 | 27.0 | 60 |  |  | Upscale
+ |  |  | 31.5 | 70 |  |  | 
+ |  | 720 × 350 | 27.0 | 60 |  |  | 
+ |  |  | 31.5 | 70 |  |  | 
+ |  | 640 × 400 | 27.0 | 60 |  |  | 
+ |  |  | 31.5 | 70 |  |  | 
+ |  | 720 × 400 | 27.0 | 60 |  |  | 
+ |  |  | 31.5 | 70 |  |  | 
+ |  | 640 × 480 | 26.2 | 50 |  | ✔ | 
+ |  |  | 31.5 | 60 | ✔ | ✔ | 
+ |  |  | 34.7 | 70 |  | ✔ | 
+ |  |  | 37.9 | 72 | ✔ | ✔ | 
+ |  |  | 37.5 | 75 | ✔ | ✔ | 
+ | SVGA | 800 × 600 | 31.4 | 50 |  | ✔ | 
+ |  |  | 35.1 | 56 | ✔ | ✔ | 
+ |  |  | 37.9 | 60 | ✔ | ✔ | 
+ |  |  | 44.5 | 70 |  | ✔ | 
+ |  |  | 48.1 | 72 | ✔ | ✔ | 
+ |  |  | 46.9 | 75 | ✔ | ✔ | 
+ | XGA | 1,024 × 768 | 35.5 | 43 | ✔ |  | Intelligent Compression
+ |  |  | 40.3 | 50 |  | ✔ | 
+ |  |  | 56.5 | 70 | ✔ | ✔ | 
+ |  |  | 58.1 | 72 |  | ✔ | 
+ | — | 1,280 × 720 | 45.0 | 60 |  | ✔ | 
+PC/ MAC 13" | VGA | 640 × 480 | 34.9 | 67 |  |  | Upscale
+MAC 16" | SVGA | 832 × 624 | 46.8 | 75 |  |  | 
+ |  |  | 49.6 | 75 |  |  | 
+PC/ MAC 19" | XGA | 1,024 × 768 | 48.4 | 60 | ✔ |  | Intelligent Compression
+ |  |  | 60.0 | 75 | ✔ |  |
+
+=== manuallib-id-2687529:0064:2 | page 64 | table | section: 'cannot be projected, adjust the output signal of your computer and so forth while referring to the table below.' | words 84 ===
+Signal | Horizontal Frequency (kHz) | Vertical Frequency (Hz) | DVI Support
+480I | 15.7 | 60 | 
+480P | 31.5 | 60 | ✔
+540P | 33.8 | 60 | 
+576I | 15.6 | 50 | 
+576P | 31.3 | 50 | ✔
+720P | 45.0 | 60 | ✔
+720P | 37.5 | 50 | ✔
+1035I | 28.1 | 50 | 
+1035I | 33.8 | 60 | 
+1080I | 28.1 | 50 | ✔
+1080I | 33.8 | 60 | ✔
+
+=== manuallib-id-2687529:0065:1 | page 65 | paragraph | section: '' | words 48 ===
+62 Troubleshooting This projector is equipped with a microprocessor. Its performance could be adversely affected by incorrect operation or interference. If this should happen, unplug the projector and plug it in again after more than 5 minutes. EIP 1500T E P62 67 65 4/27/05 3 12 PM 62
+
+=== manuallib-id-2687529:0065:2 | page 65 | table | section: '' | words 325 ===
+Problem | Check | Page
+No picture | • Projector power cord is not plugged into the wall outlet. | 28
+ | • Power to the external connected devices is off. | —
+ | • The selected input mode is wrong. | 29
+ | • Cables are incorrectly connected to the rear panel of the projector. | 19-27
+ | • External output has not been set when connecting notebook computer. | —
+ | • “Contrast” and “Bright” are set to minimum position. | 42
+Color is faded or poor. | • Image adjustments are incorrectly set. | 42
+ | (Video Input only) • Video input system is incorrectly set. (INPUT 5) • Input signal type (RGB/Component) is incorrectly set. | 48 48
+On-screen display does not appear. | • “OSD Display” is set to “ (OFF)”. | 47
+Picture is blurred; noise appears. | • Adjust the focus. | 30
+ | • The projection distance exceeds the focus range. | 17
+ | (Computer Input only) • Perform “Fine Sync” Adjustments. (“Clock” Adjustment) • Perform “Fine Sync” Adjustments. (“Phase” Adjustment) • Noise may appear depending on the computer. | 45 45 —
+An unusual sound is occasionally heard from the cabinet. | • If the picture is normal, the sound is due to cabinet shrinkage caused by room temperature changes. This will not affect operation or performance. | —
+Maintenance indicator illuminates or blinks in red. | • See “Maintenance Indicators”. | 54
+The cooling fan becomes noisy. | • When temperature inside the projector increases, the cooling fan runs faster. | —
+The lamp takes a long time to turn on. | • The lamp will eventually need to be changed. The lamp has reached the end of its life. Replace the lamp. | 57
+Picture is dark. |  | 
+Image is green on INPUT 5 Component. Image is pink (no green) on INPUT 5 RGB. | • Change the input signal type. | 48
+
+=== manuallib-id-2687529:0066:1 | page 66 | paragraph | section: '' | words 318 ===
+63 Specifications Product type Model Video system Display method DLP panel Lens Projection lamp Video input signal S-video input signal Component input signal (INPUT 1, 2) Analog RGB/Digital (INPUT 5/DIGITAL) Horizontal resolution Pixel clock Vertical frequency Horizontal frequency Computer control signal Rated voltage Input current Rated frequency Power consumption Power consumption (standby) Heat dissipation Operating temperature Storage temperature Cabinet I/R carrier frequency Dimensions (approx.) Weight (approx.) Replacement parts DLPTM Projector EIP-1500T PAL/PAL 60/PAL-M/PAL-N/SECAM/NTSC 3.58/NTSC 4.43 DTV 480I/480P/720P/1080I Single Panel Digital Micromirror Device (DMD™) by Texas Instruments Panel size: 0.8" Drive method: Digital Light Processing (DLP™) No. of dots: 921,600 dots (1,280 [H] × 720 [V]) 1–1.5 × zoom lens, F2.0–2.5, f=21.3–31.6 mm 275 W DC lamp RCA Connector: VIDEO (INPUT 4), composite video, 1.0 Vp-p, sync negative, 75 Ω terminated 4-pin Mini DIN connector (INPUT 3) Y (luminance signal): 1.0 Vp-p, sync negative, 75 Ω terminated C (chrominance signal): Burst 0.286 Vp-p, 75 Ω terminated RCA Connector Y: 1.0 Vp-p, sync negative, 75 Ω  terminated PB (CB): 0.7 Vp-p, 75 Ω  terminated PR (CR): 0.7 Vp-p, 75 Ω  terminated 29-pin DVI-I terminal <Digital> Input impedance 50 Ω Input level 250-1000 mV <Analog> Input impedance 75 Ω Input level 0.7 Vp-p Y: 1.0 Vp-p, sync negative, 75 Ω terminated PB (CB): 0.7 Vp-p, 75 Ω  terminated PR (CR): 0.7 Vp-p, 75 Ω  terminated <Synchronization signal> • Separate sync/Composite sync Input level TTL level Input impedance 1 KΩ • Green on sync Input level (Synchronizing input) 0.286 Vp-p Input impedance 75 Ω 720 TV lines (DTV 720P input) 12–80 MHz 43–75 Hz 15–70 kHz 9-pin D-sub connector (RS-232C Port) AC 100–240 V 3.65 A (When using AC 100 V) 50/60 Hz 360 W (When using AC 100 V) 6 W (When using AC 100 V) 1,350 BTU/hour 41°F to 95°F (+5°C to +35°C) –4°F to 140°F (–20°C to +60°C) Plastic 38 kHz 12 7/32" × 3 33/64" × 11 7/6
+
+=== manuallib-id-2687529:0066:2 | page 66 | paragraph | section: '' | words 49 ===
+12 7/32" × 4 7/64" × 11 5/16" (310 (W) × 104 (H) × 287 (D) mm) (including adjustment foot and projecting parts) 9.3 lbs. (4.2 kg) Remote control, Power cord for U.S., Canada, etc., Power cord for Europe, except U.K., Video cable, Lens cap, QUICK GUIDE, Owner’s manual
+
+=== manuallib-id-2687529:0067:1 | page 67 | paragraph | section: '' | words 2 ===
+64 Dimensions
+
+=== manuallib-id-2687529:0067:2 | page 67 | section | section: 'Bottom View' | words 53 ===
+M4 9/64 (3.5) 11 7/64 (282) 1/16 (1.5) 2 11/64 (55.05) 12 7/32 (310) 1 59/64 (48.5) 3 33/64 (89) 13/64 (5) 2 3/16 (55.5) 3 15/16 (99.95) 5 7/64 (129.5) 5 7/64 (129.5) 9/16 (14) 1 7/32 (30.9) 1 5/32 (29.1) EIP 1500T E P62 67 65 6/7/05 11 01 AM 64
+
+=== manuallib-id-2687529:0067:3 | page 67 | table | section: 'Bottom View' | words 21 ===
+| M4 (210.3) (225.3) 9/32 7/8 M4 M4 (106.3) 8 8 (15.5) 3/16 5/8 4 1 3/4 1 7/32 (44.1) (30.9)
+
+=== manuallib-id-2687529:0068:1 | page 68 | section | section: 'Aspect Ratio' | words 32 ===
+Width and height ratio of an image. The normal aspect ratio of a computer and video image is 4:3. There are also wide images with an aspect ratio of 16:9 and 21:9.
+
+=== manuallib-id-2687529:0068:2 | page 68 | section | section: 'Auto Sync' | words 35 ===
+Optimizes projected computer images by auto- matically adjusting certain characteristics. Background Initial setting image projected when no signal is being output. Clock Clock adjustment is used to adjust vertical noise when clock level is incorrect.
+
+=== manuallib-id-2687529:0068:3 | page 68 | section | section: 'CLR Temp (Color temperature)' | words 46 ===
+Function that can be used to adjust the color tem- perature to suit the type of image input to the pro- jector. Decrease the color temperature to create warmer, reddish images for natural flesh tones, or increase to create cooler, bluish images for a brighter picture.
+
+=== manuallib-id-2687529:0068:4 | page 68 | section | section: 'Keystone Correction' | words 195 ===
+Function to digitally correct a distorted image when the projector is set up at an angle, smoothes out jaggies on keystone images and compresses the image not only horizontally but vertically keeping the 16 : 9 aspect ratio. Phase Phase shift is a timing shift between isomorphic signals with the same resolution. When phase level is incorrect, the projected image typically displays horizontal flicker. Resize Allows you to modify or customize the picture dis- play mode to enhance the input image. You can se- lect from four different modes: STRETCH, SIDE BAR, SMART STRETCH and CINEMA ZOOM. RS-232C Function to control the projector from the com- puter by using the RS-232C ports on the projec- tor and computer. Stretch Projects the 16:9 image or the squeezed image (*1) fully in a 16:9 screen. *1...16:9 image that is squeezed horizontally into 4:3 image Gamma Image quality enhancement function that offers a richer image by brightening the darker portions of the image without altering the brightness of the brighter portions. You can select from four differ- ent modes: Standard, Cinema 1, Cinema 2 and Cinema 3. EIP 1500T E P62 67 65 6/10/05 11 15 AM 65
+
+=== manuallib-id-2687529:0069:1 | page 69 | paragraph | section: '' | words 110 ===
+66 Index A AC socket ............................................................. 28 Adjustment buttons .............................................. 38 Aspect ratio .......................................................... 35 Auto Power Off ..................................................... 50 Auto Sync ............................................................. 46 AUTO SYNC button ............................................. 46 B Background .......................................................... 49 Blue ...................................................................... 42 Bright .................................................................... 42 Bright Boost.......................................................... 43 C Ceiling+Front........................................................ 52 Ceiling+Rear ........................................................ 52 Clock .................................................................... 45 CLR Temp (Color Temperature) ........................... 42 Color..................................................................... 42 Component terminals ........................................... 21 Contrast................................................................ 42 D DIGITAL INPUT button ......................................... 29 DVI ........................................................ 22,23,25,26 E Eco Mode ............................................................. 49 ENTER button ...................................................... 39 Exhaust vent ................................................ 7,11,53 F Fine Sync ............................................................. 45 Front ..................................................................... 52 G Gamma Adj. ......................................................... 43 H HEIGHT ADJUST button ...................................... 31 H-Pos ................................................................... 45 I
+
+=== manuallib-id-2687529:0069:2 | page 69 | paragraph | section: '' | words 102 ===
+INPUT buttons...................................................... 29 Intake vent......................................................... 7,53 IRIS ................................................................. 34,44 IRIS button ........................................................... 34 K Kensington Lock .................................................. 11 KEYSTONE button............................................... 32 Keystone Correction............................................. 32 L Lamp .................................................................... 56 Lamp indicator...................................................... 54 Lamp Timer (Life) ................................................. 47 Language ............................................................. 52 Lens cap................................................................. 9 M MENU button........................................................ 38 Menu Color........................................................... 51 Menu Position ...................................................... 50 O ON button ............................................................. 28 On-screen display language ................................ 52 OSD Display......................................................... 47 P Phase ................................................................... 45 Picture .................................................................. 42 Picture Mode ........................................................ 44 PICTURE MODE button....................................... 34 Power cord ........................................................... 28 Power indicator .................................................... 10 PRJ mode ............................................................ 52 R Rear ..................................................................... 52 Rear adjustment feet ............................................ 31
+
+=== manuallib-id-2687529:0069:3 | page 69 | paragraph | section: '' | words 89 ===
+Red....................................................................... 42 Remote control ..................................................... 12 Remote control sensor ......................................... 13 Replacing the lamp .............................................. 56 RESIZE button ..................................................... 34 RS-232C terminal................................................. 27 S Sharp.................................................................... 42 Signal Info ............................................................ 46 Signal Type .......................................................... 48 Special Modes...................................................... 45 STANDBY-ON button ........................................... 28 STRETCH ............................................................ 35 S-video input terminal .......................................... 24 T Temperature warning indicator ............................. 54 Tint ....................................................................... 42 U UNDO button........................................................ 34 V Video input terminal ............................................. 24 Video System ....................................................... 48 V-Pos.................................................................... 45 Z ZOOM-FOCUS button.......................................... 30 EIP 1500T E P62 67 65 6/7/05 11 03 AM 66
+
+=== manuallib-id-2687529:0070:1 | page 70 | paragraph | section: '' | words 12 ===
+MEMO EIP 1500T E P62 67 65 6/10/05 11 16 AM 67
+
+=== manuallib-id-2687529:0071:1 | page 71 | section | section: 'A-Key to better communications' | words 22 ===
+U.S.A. EIKI International, Inc. 30251 Esperanza Rancho Santa Margarita CA 92688-2132 U.S.A. Tel : 800-242-3454 (949)-457-0200 Fax: 800-457-3454 (949)-457-7878 E-Mail : usa@eiki.com
+
+=== manuallib-id-2687529:0071:2 | page 71 | section | section: 'Deutschland & Österreich' | words 48 ===
+EIKI Deutschland GmbH Am Frauwald 12 65510 Idstein Deutschland Tel : 06126-9371-0 Fax: 06126-9371-14 E-Mail : info@eiki.de Canada EIKI CANADA - Eiki International, Inc. P.O. Box 156, 310 First St. - Unit 2, Midland, ON, L4R 4K8, Canada Tel : 800-563-3454 (705)-527-4084 Fax: 800-567-4069 (705)-527-4087 E-Mail : canada@eiki.com
+
+=== manuallib-id-2687529:0071:3 | page 71 | section | section: 'Eastern Europe' | words 27 ===
+EIKI CZECH spol. s.r.o. Umelecká 15 170 00 Praha 7 Czech Republic Tel : +42 02 20570024 +42 02 20571413 Fax: +42 02 20571411 E-Mail : easterneurope@eiki.de
+
+=== manuallib-id-2687529:0071:4 | page 71 | section | section: 'Japan & Worldwide' | words 27 ===
+EIKI Industrial Company Limited. 4-12 Banzai-Cho, Kita-Ku, Osaka, 530-0028 Japan Tel : +81-6-6311-9479 Fax: +81-6-6311-8486 WorldWide Website  http://www.eiki.com Printed in China TINS-B931WJZZ 05P08-CH-NM EIP T E H

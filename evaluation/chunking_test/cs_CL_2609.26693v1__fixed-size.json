@@ -1,0 +1,35 @@
+{
+  "pdf_id": "cs_CL_2609.26693v1",
+  "pdf_file": "cs_CL_2609.26693v1.pdf",
+  "strategy": "fixed-size",
+  "elapsed_s": 0.1,
+  "n_chunks": 29,
+  "tokens": {
+    "min": 127,
+    "median": 426,
+    "mean": 373.5,
+    "max": 436
+  },
+  "chunks_over_450_tokens": 0,
+  "pages_covered": 9,
+  "table_chunks": 0,
+  "pdf_pages": 9,
+  "sample_chunks": [
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "Measuring the Serving Stack Instead of the Model:\nHidden Confounds in Local Tool-Use Evaluation\nLijuan Tang\nNortheastern University, Seattle\ntang.lij@northeastern.edu\nYuemeng Zheng\nNortheastern Univer"
+    },
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "1\nIntroduction\nA coding-agent loop assumes the model can reli-\nably emit a tool call the harness can execute. This\nis a protocol step, separate from the semantic step\nof choosing the right tool. We wa"
+    },
+    {
+      "page_number": 1,
+      "section_title": "",
+      "text_head": "a cross-check, but the mechanism is a property of\nthe serving layer, not of either library. With mod-\nels served through Ollama\u2019s OpenAI-compatible\nendpoint, the default harness sends the tools=\nparam"
+    }
+  ],
+  "bucket": "academic"
+}
