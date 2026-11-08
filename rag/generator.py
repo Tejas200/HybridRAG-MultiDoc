@@ -184,6 +184,11 @@ class Generator:
                 if response.status_code == 200:
                     data = response.json()
                     text = data["choices"][0]["message"]["content"]
+                    if text is None or not str(text).strip():
+                        return GenerationResult(
+                            answer=f"Error: Model {model_id} returned an empty answer.",
+                            error=f"Model {model_id} returned an empty answer.",
+                        )
                     LOGGER.info("Model %s responded successfully.", model_id)
                     return GenerationResult(answer=text, model=model_id)
 
@@ -235,6 +240,4 @@ class Generator:
         return {
             "Authorization": f"Bearer {self.config.openrouter_api_key}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://github.com/agentic-rag",
-            "X-Title": "Agentic RAG",
         }

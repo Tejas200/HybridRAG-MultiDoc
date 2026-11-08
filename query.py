@@ -51,7 +51,7 @@ def _to_json(result: AnswerResult, show_context: bool) -> str:
 def _print_text(result: AnswerResult, show_context: bool) -> None:
     print()
     print("Answer:")
-    print(result.answer.strip())
+    print((result.answer or "I could not find any relevant information in the ingested documents to answer your question.").strip())
     print()
     print("Sources:")
     print("  Rank | Page | Type  | Heading")
